@@ -1,0 +1,4 @@
+A definição do ciclo de vida de um projeto serve para definir o seu início, o seu fim e também as suas fases.
+
+Quem deseja desempenhar qualquer função de liderança e ou gestão dentro de uma organização deve conhecer o ciclo de vida de um projeto, pois cada uma de suas fases é composta por um grupo de atividades. Ora, em toda e qualquer atividade pode ocorrer erros e imprecisões que certamente demandarão correções. Portanto, compreender as fases do ciclo de projetos pressupõe estar apto a identificar eventuais desvios e certamente encontrar soluções mais adequadas. Quando esses erros são identificados nas fases iniciais do projeto, o custo para repará-lo é bem inferior se o erro fosse identificado por exemplo após o término do projeto.
+

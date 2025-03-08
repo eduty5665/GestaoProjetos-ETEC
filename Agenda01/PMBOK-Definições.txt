@@ -1,0 +1,111 @@
+Gerenciamento de projetos é a aplicação de conhecimentos, habilidades, ferramentas e técnicas às atividades do
+projeto a fim de cumprir os seus requisitos. é realizado através da aplicação e integração apropriadas dos processos de gerenciamento de projetos identificados para o projeto. permite que as organizações executem projetos de forma eficaz e eficiente.
+
+Os projetos são uma maneira chave de criar valor e benefícios nas organizações. No ambiente de negócios atual,
+os líderes organizacionais precisam gerenciar orçamentos mais apertados, prazos mais
+curtos, recursos mais escassos e uma tecnologia que muda rapidamente. O ambiente de negócios é dinâmico, com
+um ritmo acelerado de mudança. Para se manterem competitivas na economia mundial, as empresas estão adotando o
+gerenciamento de projetos para entregar valor de negócio de forma consistente.
+
+u Vinculem os resultados do projeto com os objetivos do negócio,
+u Concorram com mais eficácia nos seus mercados,
+u Sustentem a organização, e
+u Respondam ao impacto das mudanças de ambiente de negócios nos projetos, ajustando adequadamente os
+planos de gerenciamento de projetos.
+
+RELACIONAMENTO DE GERENCIAMENTO DE PROJETOS, PROGRAMAS, PORTFÓLIOS E OPERAÇÕES
+
+ Um projeto pode ser gerenciado em três cenários distintos: como projeto
+autônomo (fora de um portfólio ou programa), dentro de um programa ou dentro de um portfólio.
+
+Um programa é definido como um grupo de projetos,
+programas subsidiários e atividades de programa relacionados, gerenciados de modo coordenado visando a obtenção de benefícios que não estariam disponíveis se eles fossem gerenciados individualmente.
+
+ Um projeto muito grande pode ser chamado de megaprojeto. custam USD 1 bilhão ou mais, afetam 1 milhão de pessoas ou mais, e são executados por anos
+
+Um portfólio é definido como projetos, programas,
+portfólios subsidiários e operações gerenciados em grupo para alcançar objetivos estratégicos.
+  Os componentes do portfólio são agrupados para facilitar a eficácia da governança e do gerenciamento do trabalho que ajuda a concretizar as estratégias e prioridades organizacionais. O planejamento organizacional e de portfólio afeta os componentes por meio de priorização baseada em riscos, financiamento e outras considerações. A visão do portfólio permite que as organizações visualizem como os objetivos estratégicos são refletidos no portfólio. Essa visão do portfólio também permite a implementação e coordenação de governança adequada do portfólio, programa e do projeto. Tal governança coordenada permite a alocação autorizada de recursos humanos, financeiros e físicos com base no desempenho e benefícios esperados.
+
+u O gerenciamento de programas e projetos foca em fazer programas e projetos da maneira “certa”; e
+u O gerenciamento de portfólios foca em fazer os programas e projetos “certos”
+
+RESUMO
+
+Tabela 1.2 - PMBOK
+
+GERENCIAMENTO DE PROGRAMAS
+
+O gerenciamento de programas é definido como a aplicação de conhecimentos  para atingir os objetivos do programa e obter benefícios e controle que de outra forma não estariam disponíveis através do gerenciamento individual dos componentes do programa.
+
+Um componente do programa referese a projetos e outros programas de um mesmo programa.
+
+u Alinhamento com o direcionamento organizacional ou estratégico que afete as metas e objetivos do projeto e
+do programa;
+u Alocação do escopo do programa nos componentes do programa;
+u Gerenciamento das interdependências entre os componentes do programa para melhor servir o programa;
+u Gerenciamento de riscos do programa que podem afetar vários projetos no programa;
+u Solução de restrições e conflitos que afetem vários projetos no programa;
+u Solução de problemas entre projetos componentes e o nível do programa;
+u Gerenciamento de solicitações de mudança em uma estrutura de governança compartilhada;
+u Alocação de orçamentos em vários projetos no programa; e
+u Garantia de realização dos benefícios do programa e dos projetos componentes.
+
+GERENCIAMENTO DE PORTIFÓLIOS
+
+Um portfólio é definido como projetos, programas, portfólios subsidiários e operações gerenciados em grupo para alcançar objetivos estratégicos.
+
+O gerenciamento de portfólios é definido como o gerenciamento centralizado de um ou mais portfólios para alcançar objetivos estratégicos. Os programas ou projetos do portfólio podem não ser necessariamente interdependentes ou diretamente relacionados.
+consistente e alinhado com as estratégias organizacionais.
+
+u Orientar as decisões de investimento organizacional.
+u Selecionar a combinação ideal de programas e projetos para cumprir os objetivos estratégicos.
+u Fornecer transparência na tomada de decisão.
+u Priorizar a alocação de equipe e recursos físicos.
+u Aumentar a probabilidade de alcançar o retorno desejado sobre o investimento.
+u Centralizar o gerenciamento do perfil de risco agregado de todos os componentes.
+
+GERENCIAMENTO DE OPERAÇÕES
+
+O gerenciamento de operações é uma área de gerenciamento preocupada com a produção contínua de mercadorias
+e/ou serviços. Seu objetivo é assegurar que as operações de negócios continuem de forma eficiente através do uso
+dos melhores recursos necessários para atender às exigências dos clientes.
+
+entradas --> saidas
+
+fora do escopo do gerenciamento de projetos normal, mas tem, pontos que se convergem por exemplo:
+
+u No desenvolvimento de um novo produto, na atualização de um produto, ou na expansão das saídas;
+u Na melhoria das operações ou no processo de desenvolvimento do produto;
+u Ao final do ciclo de vida do produto; e
+u Em cada fase de encerramento.
+
+GERENCIAMENTO DE PROJETOS ORGANIZACIONAL (GPO) E ESTRATÉGIAS
+
+Portfólios, programas e projetos são alinhados com ou direcionados por estratégias organizacionais
+
+u O gerenciamento de portfólios alinha os portfólios com estratégias organizacionais através da seleção dos
+programas ou projetos corretos, priorização do trabalho e fornecimento dos recursos necessários.
+u O gerenciamento de programas harmoniza seus componentes de programas e controla interdependências a fim
+de realizar os benefícios especificados.
+u O gerenciamento de projetos permite o atingimento dos objetivos e metas organizacionais.
+
+Nos portfólios ou programas, os projetos são um meio de atingir metas e objetivos organizacionais.
+feito muitas vezes num plano estratégico, fator principal de investimentos em projetos.
+
+ O Gerenciamento de Projetos Organizacionais (GPO) é definido como uma estrutura na qual o gerenciamento de portfólios, programas e projetos são integrados
+com os habilitadores organizacionais para alcançar objetivos estratégicos. Sendo assim, as equipes focam em criar programas e portifolios para seus projetos dando enfase nos planos estrategicos alinhados com o organizacional da empresa, tudo visando maior investimento em seus projetos.
+
+A finalidade do GPO é garantir que a organização assuma os projetos certos e aloque os recursos críticos de forma
+apropriada. O GPO também ajuda a garantir que todos os níveis da organização compreendam a visão estratégica,
+as iniciativas que apoiam a visão, os objetivos e as entregas
+
+COMPONENTES DO GUIA PMBOK
+
+- Ciclo de Vida do Projeto
+- Fase do Projeto
+- Revisão de Fase
+- Processos de Gerenciamento de Projetos
+- Grupo de Processos de Gerenciamento de Processos
+- Area de Conhecimento em Gerenciamento de Projetos
+

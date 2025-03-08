@@ -1,0 +1,129 @@
+CICLO DE VIDA DO PROJETO
+
+nada mais é do que uma sequencia de fases que o projeto ira passar desde o seu inicio ate seu encerramento
+
+fornece o framework básico para a gestão de projetos independente do trabalho específico envolvido
+
+TIPOS DE CICLO DE VIDA
+
+Prescritivo --> pode prever as atividades que irão ocorrer dentro do ciclo do projeto
+   Produto e entregas definidos no inicio do projeto
+   Qualquer alteração é bem gerenciada
+
+
+Adaptativo --> utilizam metodos ageis e ferramentas para entender e analisar o problema proposto, buscando as mudanças que o cliente necessita, sempre se adaptando a tais mudanças.
+    Desenvolvido atraves de multiplas iterações do cliente para com o sistema, sendo feito o detalhamento de escopo no inicio de cada iteração.
+SCRUM --> bem detalhado
+
+
+-- Custo começa baixo e vai aumentando segundo o andamento do projeto, tendo seu pico no desenvolvimento (mao na massa) do projeto, e seu desfecho junto ao encerramento do projeto.
+
+-- Riscos e Incertezas são altos no começo do projeto, enquanto os custos de iterações são baixos, a medida que o projeto da andamento, as incertezas e riscos vão diminuindo e os custos de iterações aumentando.
+
+Embora tais caracteriscas acerca de custos e riscos estejam presentes na maioria dos projetos, existem exceções bem como:
+			- Adaptativos mantem alta fluencia dos stakeholders e 					menores custos de mudanças.
+			- Muito diferente dos prescritivos
+			- Change Cost Curve, ou Curva de Custo de Mudança --> Metodo 			Agel XP
+
+CARACTERISTICAS
+
+Estrutura Generica:
+-Iniciação
+- Organização e Planejamento
+- Execução do Trabalho do Projeto
+- Encerramento do Projeto
+
+não confundir com grupo de processos --> processos são usados durante toda fase ou projeto
+
+FASE DE PROJETO
+
+Conjunto ou coleção de tarefas/ atividades de mesmo nicho, semanticamente/logicamente relacionados, que geram uma ou mais entregas
+
+podem ter N fases, quantas for preciso
+não existe qtd ideal
+
+Uma fase pode se utilizar mais ou enfatizar mais um processo de determinado grupo de processos em particular, mas é provavel que a maioria ou todos os processos sejam executados de alguma forma durante cada fase.
+
+Fases Sequencias || As vezes pode sobrepor
+
+*Hand-Off* é o encerramento de uma fase por meio de uma transferencia, aonde se encerra a fase com um determinado produto de trabalho acerca desta fase, e entrega-se este tal produto como uma entrega a outra fase, ao projeto, a outros projetos, ou ate mesmo ao cliente.
+Ao terminar uma fase sempre bom e recomendado fazer uma avaliação das atividades desempenhadas.
+
+*Estudo de Viabilidade*
+
+
+RELACIONAMENTO ENTRE FASES
+
+Sequencial --> Uma fase so se inicia com o termino da anterior
+
+Sobreposição --> Uma fase inicia antes do termino da precedente/anterior
+*Fast Tracking* é uma ténica de compactação do cronograma
+	- pode necessitar de mais recursos para trabalho paralelo
+	- pode aumentar os riscos do projeto
+
+
+CICLO DE VIDA PRESCRITIVO
+
+Dirigido por um plano, escopo, data e custo são definidos o quanto antes
+
+
+CICLO DE VIDA ITERATIVO E INCREMENTAL
+
+*iterações* durante, atividades de todos os grupos de processos de Gestão de Projetos são executados
+
+repetição intencional de uma ou mais atividades de proejto na medida que o entendimento do produto aumenta.
+
+Produto --> gerado iterativamente e incrementalmente
+
+Visão de Alto Nivel para entendimento geral
+Escopo detalhado a cada iteração
+Entrega ou Conjunto de Entregas disponivel após cada iteração
+	iteraçãos futura pode incrementar as entregas ou criar novas
+
+planejamento para prox iteração é executado na medida em qua a atual avança
+projetos grandes e complexos são frequentemente executados de forma iterativa para reduzir riscos, permitindo que a equipe incorpore feedbacks e lições aprendidas a cada iteração
+
+CICLO DE VIDA ADAPTATIVO
+
+Dirigido por mudanças
+*Métodos Ágeis*
+	- ambiente em constante mudança
+	- torna-se dificil definir escopo e requisitos
+	- é possivel definir pequenos incremnetos que vão agregar valor aos 	stakeholders
+
+iterativo e incremntal --> iterações de duas a quatro semanas de tempo fixo
+mais rápidas
+
+iterações iniciais focam no planejamento
+podem ter n processos variados nas iterações
+
+*Product BackLog* O escopo geral do projeto é dividido/decomposto em um conjunto de requisitos e trabalhos a serem executados.
+No inicio da iteração é determinado a prioridade dos products backlogs a serem entregues no final de cada iteração
+
+No final de cada iteração o produto deve estar pronto para a revisão do cliente
+o mesmo pode recusar/rejeitar a entrega
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+para se obter uma melhor gestão dos projetos as empresas adotaram fases, dividiram os projetos em fases, o conjunto destas fases é chamada de ciclo de vida do projeto
+
+gestor de projetos --> necessita compreender as fases para identificar futuros desvios do projetos ou riscos, isso pode livra a empresa de futuros custos com certas despesas
+
+- Iniciação
+*START* --> Escopo Preliminar
+
+- Planejamento
+Estabelecer/Definir o estado futuro desejado e quais ações devem ser tomadas para atingi-lo
+processo iterativo
+eliminar incertezas, aumentar eficiencia e eficacia, melhorar entendimento dos requisitos, base para melhoria dos trabalhos
+
+- Execução
+*Mao na Massa*
+Momento para realizar o trabalho; construção
+nesta fase é aonde se gasta a maior parte do orçamento planejado
+
+- Controle
+Monitoramento e Medida do desempenho
+Comparação doq foi planejado parao q foi executado
+Variações que ameacem resultados devem ser passiveis de ações corretivas
+
+- Encerramneto
+Documentação Técnica
+Documentação Gerencial
+LICOES APRENDIDAS
+
+
+na conclusão de cada etapa é marcada uma revisão dos resultados

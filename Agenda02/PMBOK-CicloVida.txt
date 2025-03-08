@@ -1,0 +1,117 @@
+CICLO DE VIDA
+é a série de fases pelas quais um projeto passa, do início à conclusão. Ele fornece a estrutura básica para o gerenciamento do projeto. Esta estrutura básica se aplica independentemente do trabalho do projeto específico envolvido. As fases podem ser sequenciais, iterativas ou sobrepostas.
+Os ciclos de vida do projeto podem ser preditivos ou adaptativos. Em um ciclo de vida do projeto, há geralmente uma ou mais fases associadas com o desenvolvimento do produto, serviço ou resultado
+
+u Em um ciclo de vida preditivo, o escopo, prazo e custo do projeto são determinados nas fases iniciais do ciclo de
+vida. Quaisquer alterações ao escopo são cuidadosamente gerenciadas. Os ciclos de vida preditivos são também
+chamados de ciclos de vida em cascata.
+u Em um ciclo de vida iterativo, o escopo do projeto geralmente é determinado no início do ciclo de vida do
+projeto, mas as estimativas de prazo e custos são normalmente modificadas à medida que a equipe do projeto
+compreende melhor o produto. As iterações desenvolvem o produto por meio de uma série de ciclos repetidos,
+enquanto os incrementos acrescentam sucessivamente à funcionalidade do produto.
+u Em um ciclo de vida incremental, a entrega é produzida por meio de uma série de iterações que sucessivamente
+adicionam funcionalidade em um prazo predeterminado. A entrega contém a capacidade necessária e suficiente
+para ser considerada completa somente após a iteração final.
+u Os ciclos de vida adaptativos são ágeis, iterativos ou incrementais. O escopo detalhado é definido e aprovado
+antes do início de uma iteração. Os ciclos de vida adaptativos são também chamados ágeis ou de ciclos de vida
+orientados a mudanças. Consulte o Apêndice X3.
+u Um ciclo de vida híbrido é uma combinação de um ciclo de vida adaptativo e um preditivo. Os elementos do
+projeto que sejam conhecidos ou que tenham requisitos estabelecidos seguem um ciclo de vida de desenvolvimento
+preditivo, e os elementos que ainda estiverem em evolução seguem um ciclo de vida de desenvolvimento adaptativo.
+
+Cabe à equipe de gerenciamento do projeto determinar o melhor ciclo de vida de cada projeto. O ciclo de vida do
+projeto precisa ser flexível o suficiente para lidar com a variedade de fatores incluídos no projeto. 
+
+u Identificação do processo ou processos que precisam ser executados em cada fase;
+u Execução do processo ou processos identificados na fase apropriada;
+u Ajuste dos vários atributos de uma fase (por exemplo, nome, duração, critérios de saída e critérios de entrada).
+
+Os ciclos de vida do projeto são independentes dos ciclos de vida do produto que possa resultar de um projeto.
+O ciclo de vida de um produto é a série de fases que representam a evolução de um produto, da sua concepção à
+entrega, crescimento, maturidade e descontinuação.
+
+FASE DO PROJETO
+
+ é um conjunto de atividades relacionadas de maneira lógica que culmina na conclusão de uma ou mais entregas. As fases de um ciclo de vida podem ser descritas por diversos atributos. Os atributos podem ser
+mensuráveis e exclusivos de uma fase específica.
+
+u Nome;
+u Número;
+u Duração;
+u Requisitos de recursos;
+u Critérios de entrada para um projeto passar para essa fase;
+u Critérios de saída para um projeto concluir a fase.
+
+Os projetos podem ser separados em fases ou subcomponentes distintos. Essas fases ou subcomponentes geralmente
+são nomes que indicam o tipo de trabalho realizado nessa fase. 
+
+u Desenvolvimento do conceito;
+u Estudo de viabilidade;
+u Requisitos do cliente;
+u Desenvolvimento da solução;
+u Projeto;
+u Protótipo;
+u Construção;
+u Teste;
+u Transição;
+u Comissionamento;
+u Revisão de marcos; e
+u Lições aprendidas
+
+REVISAO DE FASE
+
+é realizada ao final de uma fase. O desempenho e o progresso do projeto são comparados aos
+documentos de projeto e de negócio.
+
+u Business case do projeto;
+u Termo de abertura do projeto;
+u Plano de gerenciamento do projeto;
+u Plano de gerenciamento de benefícios.
+
+Como resultado dessa comparação, é tomada uma decisão (avançar ou nao avançar) Dependendo da organização, do setor ou do tipo de trabalho, as revisões de fase podem  er conhecidas por outros termos, como análise de fase, análise de estágio, ponto de corte, entrada de fase ou saída de fase. As organizações podem usar essas análises para examinar outros itens pertinentes que estejam além do escopo deste guia, como documentos ou modelos relacionados ao produto.
+
+PROCESSOS DE GERENCIAMENTO DE PROJETOS
+
+  O ciclo de vida de um projeto é gerenciado através de atividades de gerenciamento, conhecidas como processos de gerenciamento de projetos. Cada processo produz uma ou mais saídas de uma ou mais entradas, saída pode ser uma entrega ou resultado, que por sua vez pode ser um produto final de um processo.
+
+ A saída de um processo geralmente resulta em uma das opções seguintes: uma entrada para outro processo, ou uma entrega do projeto ou fase do projeto.
+
+U processos usados uma vez ou em pontos pré definidos no projeto
+U processos que são executados periodicamente, conforme necessário.
+U processos que são realizados continuamente ao longo do projeto.
+
+O gerenciamento de projetos é realizado por meio da aplicação e integração apropriada dos processos, desta maneira o PMBOK agrupa tais processos em cinco categorias, para facilitar a vida do gerente de projetos.
+
+  GRUPOS DE PROCESSOS DE GERENCIAMENTO DE PROJETOS
+
+  É o agrupamento lógico de processos de gerenciamento de projetos para atingir objetivos específicos do projeto, são independentes das fases do projeto.
+
+  U Grupo de processos de iniciação. Os processos realizados para definir um novo projeto ou uma nova fase de um projeto existente, através da obtenção de autorização para iniciar o projeto ou fase.
+U Grupo de processos de planejamento. Os processos realizados para definir um novo projeto ou uma nova fase de um projeto existente, através da obtenção de autorização para iniciar o projeto ou fase.
+
+Planejamento --> Os processos necessários para definir o escopo do projeto, refinar os objetivos e definir a linha de ação necessária para alcançar os objetivos para os quais o projeto foi criado.
+
+U Grupo de processos de execução. Processos realizados para concluir o trabalho definido no plano de gerenciamento do projeto para satisfazer os requisitos do projeto.
+U Grupo de processos de monitoramento e controle. Os processos exigidos para acompanhar, analisar e controlar o progresso e desempenho do projeto, identificar quaisquer áreas nas quais serão necessárias mudanças no plano, e iniciar as mudanças correspondentes.
+U Grupo de processos de encerramento. Os processos realizados para concluir ou fechar formalmente um projeto, fase ou contrato.
+
+  *Diagramas de Fluxo de Processo*
+
+Processos também podem ser classificados por área de conhecimento.
+
+  ÁREAS DE CONHECIMENTO EM GERENCIAMENTO DE PROJETOS
+
+  Área de conhecimento é uma área identificada de gerenciamento de projetos definida por seus requisitos de conhecimento e descrita em termos dos processos que as compõem: práticas, entradas, saídas, ferramentas e técnicas.
+
+ U Gerenciamento da integração do projeto. Inclui os processos e as atividades necessárias para identificar, definir, combinar, unificar e coordenar os vários processos e atividades de gerenciamento de projetos nos Grupos de Processos de Gerenciamento de Projetos.
+U Gerenciamento do escopo do projeto. Inclui os processos necessários para assegurar que o projeto contemple todo o trabalho necessário, e apenas o necessário, para que o mesmo termine com sucesso. 
+U Gerenciamento do cronograma do projeto. Inclui os processos necessários para gerenciar o término pontual do projeto.
+U Gerenciamento dos custos do projeto. Inclui os processos envolvidos em planejamento, estimativas, orçamentos, financiamentos, gerenciamento e controle dos custos, de modo que o projeto possa ser terminado dentro do orçamento aprovado.
+U Gerenciamento da qualidade do projeto. Inclui os processos para incorporação da política de qualidade da organização com relação ao planejamento, gerenciamento e controle dos requisitos de qualidade do projeto e do produto para atender as expectativas das partes interessadas.
+U Gerenciamento dos recursos do projeto. Inclui os processos para identificar, adquirir e gerenciar os recursos necessários para a conclusão bem-sucedida do projeto.
+U Gerenciamento das comunicações do projeto. Inclui os processos necessários para assegurar que as informações do projeto sejam planejadas, coletadas, criadas, distribuídas, armazenadas, recuperadas, gerenciadas, controladas, monitoradas e finalmente organizadas de maneira oportuna e apropriada.
+U Gerenciamento dos riscos do projeto. Inclui os processos de condução de planejamento, identificação e análise de gerenciamento de risco, planejamento de resposta, implementação de resposta e monitoramento de risco em um projeto.
+U Gerenciamento das aquisições do projeto. Inclui os processos necessários para comprar ou adquirir produtos, serviços ou resultados externos à equipe do projeto.
+U Gerenciamento das partes interessadas do projeto. Inclui os processos exigidos para identificar as pessoas, grupos ou organizações que podem impactar ou serem impactados pelo projeto, analisar as expectativas das partes interessadas e seu impacto no projeto, e desenvolver estratégias de gerenciamento apropriadas para o seu engajamento eficaz nas decisões e execução do projeto.  
+
+Projetos específicos, podem ter necessidades específicas, exigindo uma ou mais áreas de conhecimento adicionais, fora as já listadas aqui.

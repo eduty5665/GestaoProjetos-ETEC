@@ -1,0 +1,97 @@
+QUE EMPRESA PODE ADOTAR O GERENCIAMENTO DE PROJETOS?
+
+A aplicação dos conceitos de Gerenciamento de Projetos deve ser precedida do entendimento completo do que é um projeto. Inúmeras definições podem ser encontradas na bibliografia especializada, mas a definição mais simples e aceita mundialmente é “esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo”. Assim, um projeto é qualquer atividade com início, meio e fim e cujo resultado deve ser único.
+
+De acordo com Kerzner (2006):
+A Gestão de Projetos combinada com o gerenciamento de mudanças
+pode permitir a concretização dos seguintes benefícios:
+ capacidade de reagir com rapidez às mudanças exigidas pelos
+clientes;
+ redução do impacto da mudança no orçamento e na programação;
+ aumento dos esforços de adição de valores em nome dos clientes;
+ boas relações com os clientes;
+ clientes mais satisfeitos. 
+
+Em resumo, todas as empresas que oferecerem eventos temporários para atendimento ao cliente de forma única podem apropriar-se
+dos conceitos de Gerenciamento de Projetos, desde que estejam preparadas para uma mudança de paradigmas e cultura
+
+PROCESSOS DE UM PROJETO
+
+
+                  Planejamento
+Inicialização                    Controle e Encerramento
+                    Execução
+
+
+-- Inicialização
+Fase em que é realizado o levantamento de todas as necessidades
+físicas, financeiras e de pessoal para a concretização do projeto. Analises feitas pela gerencia da organização.
+
+■ Elaboração da proposta do projeto e aprovação da gerência
+■ Seleção de projetos
+■ Aprovação dos clientes
+■ Autorização para realização do projeto 
+
+*Um grande projeto pode ser dividido em subprojetos. Nesse caso, haverá diversos processos de
+inicialização, um para cada subprojeto.*
+
+--Planejamento
+Esse processo define os caminhos para que os objetivos do projeto sejam alcançados. Nessa etapa é elaborado o Plano de Gerenciamento de Projetos (Project Charter), documento que deve contemplar todos os processos desse gerenciamento. A profundidade e complexidade do planejamento estão diretamente ligadas ao tamanho do projeto.
+
+■ Identificação das partes interessadas
+■ Formação da equipe de planejamento
+■ Definição do escopo do cliente
+■ Definição da estratégia do projeto 
+■ Elaboração da Work Breakdown Structure (WBS) --> Ferramenta que decompõe e analisa as partes de um projeto. Em
+português, é denominada Estrutura Analítica do Projeto (EAP).
+■ Elaboração de cronogramas e cálculo de custos
+■ Planejamento de comunicações
+■ Planejamento de compras
+■ Planejamento de respostas a riscos
+■ Planejamento da qualidade do projeto
+■ Planejamento de recursos humanos 
+
+Stakeholders --> qualquer pessoa envolvida com o projeto
+
+O planejamento é um elemento dinâmico que pode sofrer modificações no decorrer do ciclo de
+vida do projeto.
+
+--Execução
+Nessa etapa, ocorre a realização e conclusão dos produtos ou serviços. Portanto,
+a ela está associada grande
+parte do orçamento.
+
+■ Gerenciamento da
+execução
+■ Distribuição de informações
+■ Garantia da qualidade
+■ Solicitação das propostas de fornecedores
+■ Controle dos fornecedores
+■ Controle ou mobilização da equipe
+■ Desenvolvimento da equipe de projeto 
+
+Mudanças podem acontecer, mas evitar pois representam prejuizos
+
+--Controle/Monitoramento
+Etapa vital para o sucesso do projeto, pois permite a percepção de problemas em tempo hábil para solucioná-los.
+
+■ Controle do desempenho do projeto
+■ Realização do controle integrado de mudanças
+■ Monitoramento e controle de riscos
+■ Obtenção da aceitação do escopo
+Cabe ao gestor coordenar pessoas e
+recursos para executar o projeto.
+Dreamstime.com/Andres Rodrigues
+19
+■ Administração de contratos
+■ Controle da qualidade
+■ Gerenciamento de partes
+interessadas
+■ Gerenciamento da equipe
+do projeto
+
+GArante qualidade do projeto e conformidade com o planejado.
+
+--Encerramento
+pressupoe que todos os contratos firmados durante a execução do projeto sejam encerrados formalmente.
+avaliação de desempenho e registro de ocorrencias permitem que empresa crie um historico que contribui para o know-how da organização, viabilizando atualizações gerenciais e administrativas visando fortalecer futuros projetos.

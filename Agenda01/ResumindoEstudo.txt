@@ -1,0 +1,21 @@
+O QUE É UM PROJETO?
+
+empreendimento temporario, que tem começo e fim, com o objetivo de criar um produto ou serviço unico, o que se é desenvolvido de alguma forma é diferente dos outros semelhantes.
+
+O QUE É GERENCIA DE PROJETOS?
+aplicação do conhecimento adquirido para projetar atividades com o objetivo de atingir ou exceder as necessidades ou expectativas de todas as partes envolvidas.
+
+CARACTERISTICAS DE UM PROJETO
+
+-Desenvolvidos em todos os niveis da organização
+-Podem envolver uma pessoa ou milhares
+-Podem requerer menos do que 100 horas ou ate mais de 10.000.000 para se completarem
+-Projetos podem envolver uma unidade da empresa, ou milhares atravessando nacoes e continentes
+
+SUBPROJETO
+Projetos divididos em componentes menores porque fica mais facil de gerenciar. Subprojetos geralmente sao controlados por outras empresas
+
+*termos técnicos*
+Escopo, diagrama de redes, stakeholders
+
+*resumo do tema, nao aula total*

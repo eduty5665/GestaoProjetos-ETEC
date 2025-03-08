@@ -1,0 +1,57 @@
+ÁREAS DE CONHECIMENTO EM GERENCIAMENTO DE PROJETOS
+
+Processos caracterizados tanto por grupos quanto por áreas.
+Área de Conhecimento é uma área definida por seus requisitos de conhecimento e descrita em termos dos processos que a compõem.
+U Praticas
+U Entradas
+U Saidas
+U Ferramentas
+U Tecnicas
+
+10 Areas de Conhecimento da Gerencia de Projetos
+
+ U Gerenciamento da integração do projeto: processos para identificar, definir, combinar, unificar e coordenar os vários processos e atividades de gerenciamento de projetos.
+u Gerenciamento do escopo do projeto.  processos para assegurar que o projeto contemple todo o trabalho necessário, e apenas o necessário, para que o mesmo termine com sucesso. 
+ u Gerenciamento do cronograma do projeto. processos para gerenciar o término pontual do projeto. 
+u Gerenciamento dos custos do projeto. processos para planejamento, estimativas, orçamentos, financiamentos, gerenciamento e controle dos custos, de modo que o projeto possa ser terminado dentro do orçamento aprovado. 
+u Gerenciamento da qualidade do projeto. Incorporação da política de qualidade da organização com relação ao planejamento, gerenciamento e controle dos requisitos de qualidade do projeto para atender as expectativas. 
+u Gerenciamento dos recursos do projeto.processos para identificar, adquirir e gerenciar os recursos necessários para a conclusão bem-sucedida do projeto. 
+u Gerenciamento das comunicações do projeto.processos para informações planejadas, coletadas, criadas, distribuídas, armazenadas, recuperadas, gerenciadas, controladas, monitoradas e finalmente organizadas de maneira oportuna e apropriada. 
+u Gerenciamento dos riscos do projeto. processos para condução de planejamento, identificação e análise de gerenciamento de risco, planejamento de resposta, implementação de resposta e monitoramento de risco em um projeto. 
+u Gerenciamento das aquisições do projeto. processos para comprar ou adquirir produtos, serviços ou resultados externos à equipe do projeto. 
+u Gerenciamento das partes interessadas do projeto. Inclui os processos exigidos para identificar as pessoas, grupos ou organizações que podem impactar ou serem impactados pelo projeto, analisar as expectativas das partes interessadas e seu impacto no projeto, e desenvolver estratégias de gerenciamento apropriadas para o seu engajamento eficaz nas decisões e execução do projeto.  
+
+  As necessidades de um projeto específico podem exigir uma ou mais áreas de conhecimento adicionais, por exemplo, uma construção pode exigir gerenciamento financeiro ou gerenciamento de segurança e saúde  
+
+DADOS E INFORMAÇÕES DO GERENCIAMENTO DE PROJETOS
+
+  Ao longo do ciclo de vida do projeto, uma quantidade significativa de dados é coletada, analisada e transformada. Dados coletados como resultado dos processos e compartilhados para a equipe; analisados no contexto, agregados e transformados, virando informações durante o projeto. Informações guardadas e distribuidas como relatorios.
+
+termos-chave dos dados, dados mais coletados:
+
+  u Dados de desempenho do trabalho. Observações e medições em estado bruto, identificadas durante a execução das atividades de realização dos trabalhos do projeto. Exemplos incluem a percentagem registrada do trabalho fisicamente concluído, medidas de desempenho técnico e da qualidade, datas de início e término das atividades programadas, número de solicitações de mudanças e número de defeitos, custos reais, durações reais, etc. Os dados do projeto em geral são registrados em um sistema de informações de gerenciamento de projetos (SIGP)  e em documentos do projeto. 
+u Informações sobre o desempenho do trabalho. Os dados de desempenho coletados de vários processos de controle, analisados no contexto e integrados com base nos relacionamentos em todas as áreas. Exemplos de informações sobre o desempenho são o status das entregas, a situação da implementação das solicitações de mudança e as estimativas de previsão para terminar. 
+u Relatórios de desempenho do trabalho. A representação física ou eletrônica das informações sobre o desempenho do trabalho compiladas em documentos do projeto, cuja finalidade é fornecer argumentos para a tomada de decisões ou para levantar questões, disparar ações e promover a conscientização. Entre os exemplos estão relatórios de status, memorandos, justificativas, notas informativas, painéis eletrônicos, recomendações e atualizações.  
+
+TAILORING
+
+geralmente gerentes de projetos usam-se de metodologias
+Metodologia é um sistema de praticas, tecnicas e procedimentos usados por aqueles que trabalham numa disciplina.
+Boa pratica diferente != metodologia
+boa pratica nao diz que deve ser aplicado
+
+  As metodologias de gerenciamento de projetos podem ser: 
+u Desenvolvidas por especialistas da organização; 
+u Adquiridas de fornecedores; 
+u Obtidas de associações profissionais; 
+u Adquiridas de agências governamentais.  
+
+adaptação de gerenciamento de projetos --> se usar das melhores tecnicas, ferramentas, fases/processos de ciclo de vida, isso se chama de seleção, selecionar os melhores conceitos para adequar ao seu projeto
+
+  A adaptação é necessária porque cada projeto é único. Nem todo processo, ferramenta, técnica, entrada ou saída identificado no Guia PMBOK® é necessário em cada projeto. A adaptação deve abordar as restrições simultâneas de escopo, cronograma, custos, recursos, qualidade e risco. A importância de cada restrição é diferente para cada projeto, e o gerente de projetos adapta a abordagem para gerenciar essas restrições com base em ambiente do projeto, cultura da organização, necessidades das partes interessadas e outras variáveis.  
+
+Na adaptação, o gerente deve considerar os diversos niveis de governança que podem ser necessarios, considerar se o cliente é externo ou interno pode afetar na adaptação
+
+metodologias robustas já oferecem tais adaptações, mas acaso precise de algo mais específico pode fazer uma adaptação adicional, fora a metodologia
+
+a organização pode necessitar de algumas metodologias específicas
