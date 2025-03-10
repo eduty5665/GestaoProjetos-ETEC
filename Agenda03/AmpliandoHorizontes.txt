@@ -1,0 +1,21 @@
+10 AREAS DO CONHECIMENTO EM GP
+
+escopo --> trabalho que precisa ser realizado para entregar o proejto
+
+tempo --> execução dentro do tempo previsto
+
+custo --> estimativa, orçamento e controle do custos, terminar o projeto dentro do orçamento inicial
+
+qualidade --> qualidade de modo que o projeto atenda as necessidades que motivaram sua realização
+
+comunicações --> gerenciar informações
+
+Riscos --> identificação, analise, respostas aos riscos do projeto, maximizar positivos, minimizar negativos
+
+Integração --> unificar e coordenar adequadamente todos processos e atividades do projeto
+
+stakeholders/partes interessadas --> identificar tais pessoas, e verificar sempre suas expectativas, sua opiniao
+
+recursos humanos --> organização e gerenciamento da equipe
+
+aquisições --> obtenção de bens e serviços necessarios de fora da organização para realização do projeto.

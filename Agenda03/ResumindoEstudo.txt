@@ -1,0 +1,27 @@
+dimensoes sao as areas de conhecimento que o gerente de projetos deve ter; dimensao == area
+*dimensoes gerenciais*
+
+integração --> tornar inteiro, juntar as partes
+
+escopo --> ponto em que se mira, alvo, ponto final, meta final
+tarefas que devem ser cumpridas para que um resultado seja atingido
+
+stakeholders --> partes afetadas pelo projeto
+
+tempo --> cumprir prazo, gerenciar tempo, assegurar cumprimento dos prazos
+
+custo --> maximizar os recursos financeiros em cada etapa
+tirar o melhor proveito de tais recursos em cada atividade
+
+qualidade --> atendimento total das necessidades em cada fase do projeto
+fazer bem e bonito, sem retrabalho
+
+recursos humanos --> selecionar, contratar e gerenciar pessoas
+mante-las motivadas e lidera-las na execução das atividades e no cumprimento das metas
+criar uma hierarquia sempre importante, dar funcoes
+
+comunicação --> todas as partes interessadas estejam cientes do andamento do projeto
+
+riscos --> antecipar problemas e  definir ações para minimizar as ocorrências indesejadas
+
+aquisições --> necessidade da aquisição; pesquisa e desenvolvimento de fornecedores; comprar de acordo com exigencias do projeto.

@@ -55,3 +55,165 @@ Na adaptação, o gerente deve considerar os diversos niveis de governança que 
 metodologias robustas já oferecem tais adaptações, mas acaso precise de algo mais específico pode fazer uma adaptação adicional, fora a metodologia
 
 a organização pode necessitar de algumas metodologias específicas
+
+DOCUMENTOS DE NEGOCIO DO GERENCIAMENTO DE PROJETOS
+
+O gerente de projetos deve garantir que a abordagem de gerenciamento de projetos capture a finalidade dos
+documentos de negócio. Estes dois documentos são interdependentes, desenvolvidos iterativamente e mantidos durante todo o ciclo de vida do projeto.
+
+business case do projeto --> Estudo documentado de viabilidade economica usado para determinar a validade dos beneficios de um componente ainda sem definição suficiente, usado como base para a autorização de outras atividades de gerenciamento de projetos.
+vendo se da pra fazer o projeto ou nao
+
+plano de gerenciamento de beneficios do projeto --> A explicação documentada com a definição dos processos para criar, maximizar e sustentar os beneficios proporcionados por um projeto.
+documento com os beneficios que o projeto dara a empresa
+
+patrocinador do projeto (empresa enfim) é responsavel pelo desenvolvimento e manutenção do business case, ja que so serve pra ela mesmo, ela que quer saber se é viavel ou não, nada mais justo
+gerente do projeto fornece recomendações e supervisões para manter as medidas que o patrocinador sustentou no business case.
+
+comum acordo para que os documentados estejam alinhados em todos os setores
+
+2 AMBIENTE EM QUE OS PROJETOS OPERAM
+
+Os projetos existem e operam em ambientes que podem ter influência sobre eles. Essas influências podem ter um
+impacto favorável ou desfavorável sobre o projeto. Duas importantes categorias de influência são os fatores ambientais da empresa (FAEs) e os ativos de processos organizacionais (APOs).
+
+Os FAEs originam-se do ambiente externo do projeto e, muitas vezes, externo à empresa. Os FAEs podem ter um
+impacto de nível de organização, portfólio, programa ou projeto. 
+Os fatores ambientais da empresa (FAEs) se referem às condições fora do controle da equipe do projeto que
+influenciam, restringem ou direcionam o projeto. Essas condições podem ser internas e/ou externas à organização.
+Os FAEs são considerados entradas em muitos processos de gerenciamento de projetos, em particular para a maioria
+dos processos de planejamento. Estes fatores podem aumentar ou restringir as opções de gerenciamento de projetos. Além disso, esses fatores podem ter uma influência positiva ou negativa sobre o resultado.
+
+Os APOs são internos à organização. Podem surgir da organização em si, de um portfólio, programa, outro projeto ou uma combinação deles. 
+Ativos de processos organizacionais (APOs) são os planos, processos, políticas, procedimentos e bases de
+conhecimento específicos da organização e por ela usados. Esses ativos influenciam o gerenciamento do projeto.
+Os APOs incluem qualquer artefato, prática ou conhecimento de uma ou todas as organizações executoras envolvidas no projeto que podem ser utilizados para executar ou administrar o mesmo. Os APOs também incluem lições aprendidas de projetos anteriores e informações históricas da organização. Os APOs podem incluir cronogramas finalizados, dados sobre riscos e dados sobre valor agregado.
+Os APOs são entradas para muitos processos de gerenciamento de projetos. Como os APOs são internos à organização, os membros da equipe do projeto podem ser capazes de atualizar e acrescentar aos ativos de processos organizacionais, conforme necessário, durante todo o projeto.
+
+SISTEMAS ORGANIZACIONAIS
+
+O sistema organizacional é a interação de vários fatores em uma organização individual, tal sistema afeta o projeto como um todo.
+Os projetos operam dentro das restrições impostas pela organização por meio da sua estrutura e governança. Para
+operar de forma eficaz e eficiente, o gerente de projetos precisa entender onde a responsabilidade, a prestação de
+contas e a autoridade residem na organização. Este entendimento ajudará o gerente de projetos a usar com eficácia o seu poder, influência, competência, liderança e capacidades políticas para concluir com sucesso o projeto.
+
+GOVERNANÇA ORGANIZACIONAL
+
+Uma pesquisa recente do PMI revela que a governança diz respeito a arranjos organizacionais ou estruturais em
+todos os níveis de uma organização, projetados para determinar e influenciar o comportamento dos membros da
+organização. Esta pesquisa sugere que o conceito de governança é multidimensional e, inclui a consideração das pessoas, papéis, estruturas e políticas, requerendo assim o fornecimento de orientações e supervisão por meio de dados e feedback.
+
+Governança do projeto refere-se às estruturas, funções e processos que norteiam as atividades de gerenciamento
+do projeto para criar um produto, serviço ou resultado único para cumprir as metas organizacionais, estratégicas
+e operacionais. Não existe uma estrutura única de governança que seja eficaz para todas as organizações. Uma estrutura de governança deve passar por uma adaptação para se ajustar à cultura organizacional, tipos de projeto e às necessidades da organização para que seja eficaz.
+
+3 PAPEL DO GERENTE DE PROJETOS
+
+O gerente de projetos desempenha um papel crítico na liderança de uma equipe de projeto para atingir os objetivos do mesmo. Este papel é claramente visível ao longo do projeto. Muitos gerentes de projetos envolvem-se em um projeto do início ao fim. Em última análise, a função de gerenciamento de projetos é adaptada à organização da mesma forma que os processos de gerenciamento de projetos são adaptados para atender ao projeto.
+
+O papel do gerente de projetos é diferente do papel de um gerente funcional ou de um gerente de operações.
+Normalmente, o gerente funcional se concentra na supervisão do gerenciamento de uma unidade funcional ou de negócios. Os gerentes de operações são responsáveis por assegurar a eficiência das operações do negócio. O gerente de projeto é a pessoa designada pela organização executora para liderar a equipe responsável por alcançar os objetivos do projeto.
+
+Os gerentes de projetos cumprem inúmeras funções em sua esfera de influência. Essas funções refletem as
+capacidades do gerente de projetos e representam o valor e as contribuições da profissão de gerenciamento de projetos.
+
+O PROJETO
+
+O gerente de projetos lidera a equipe do projeto para atender aos objetivos do mesmo e às expectativas das partes interessadas. O gerente de projetos trabalha para equilibrar as restrições que atuam sobre o projeto com os recursos disponíveis.
+
+Além disso, o gerente de projetos executa funções de comunicação entre o patrocinador, os membros da equipe
+e outras partes interessadas. Isso inclui fornecer diretrizes e apresentar a visão de sucesso para o projeto. O gerente de projetos utiliza habilidades comportamentais (por exemplo, habilidades interpessoais e a capacidade de gerenciar pessoas) para equilibrar as metas conflitantes e concorrentes das partes interessadas no projeto para chegar a um consenso. Neste contexto, consenso significa que as partes interessadas relevantes apoiam as decisões e ações do projeto mesmo quando não há 100% de concordância.
+
+Pesquisas mostram que os gerentes de projeto bem-sucedidos utilizam certas habilidades essenciais de modo
+consistente e efetivo. Pesquisas também revelam que 2% dos principais gerentes de projeto, conforme designado por seus superiores e membros da equipe, se destacam ao demonstrar habilidades de relacionamento e comunicação
+superiores sem deixar de manter uma atitude positiva.
+
+A ORGANIZAÇÃO
+
+O gerente de projetos interage de modo proativo com outros gerentes de projetos. Outros projetos independentes ou que façam parte do mesmo programa podem afetar o projeto devido a demandas sobre os mesmos recursos; prioridades de financiamento; recebimento ou distribuição de entregas; e alinhamento das metas e objetivos do projeto com os da organização.
+
+Interação com outros gerentes de projetos ajuda a criar uma influência positiva no atendimento das várias
+necessidades do projeto. Essas necessidades podem estar na forma de recursos humanos, técnicos ou financeiros
+e as entregas exigidas pela equipe para a conclusão do projeto. O gerente de projetos procura meios de desenvolver relacionamentos que auxiliem a equipe a atingir as metas e objetivos.
+
+O SETOR 
+
+O gerente de projetos se mantém informado sobre as atuais tendências do setor. O gerente de projetos recebe essas
+informações e analisa como poderão afetar ou aplicar-se aos projetos atuais. Essas tendências incluem desenvolvimento de produtos e tecnologias; nichos de mercados novos e em transformação; padrões; ferramentas de suporte técnico; forças econômicas que afetam o projeto em curso; influências que afetam a disciplina de gerenciamento de projetos; e melhoria de processos e estratégias de sustentabilidade.
+
+COMPETENCIAS DO GERENTE DE PROJETOS
+
+Em estudos recentes, o PMI aplicou a Project Management Competency Development (PMCD) (Estrutura de
+Desenvolvimento da Competência em Gerenciamento de Projetos) às habilidades de que os gerentes de projetos
+precisam por meio do Triângulo de Talentos® do PMI. O triângulo de talentos se concentra em três conjuntos de habilidades-chave:
+
+    -----U Gerenciamento de Projetos Técnico.
+Conhecimento, habilidades e comportamentos relativos a domínios
+específicos de gerenciamento de projetos, programas e portfólios. Os aspectos técnicos da execução da
+sua função.
+As habilidades de gerenciamento de projetos técnico são definidas como as habilidades para aplicar efetivamente o
+conhecimento em gerenciamento de projetos para fornecer os resultados desejados de programas ou projetos. Existem
+inúmeras habilidades de gerenciamento de projetos técnico. As áreas de conhecimento deste guia descrevem muitas dessas habilidades de gerenciamento de projetos necessárias. 
+Os gerentes de projetos frequentemente dependem de
+pareceres especializados para terem bom desempenho. Estar consciente da expertise pessoal e onde encontrar outros
+com a expertise necessária é importante para obter sucesso como gerente de projetos.
+De acordo com pesquisas, os melhores gerentes de projetos consistentemente demonstraram várias habilidadeschave que incluem, entre outras, a capacidade para:
+
+u Concentrar-se nos elementos críticos de gerenciamento de projetos técnico para cada projeto que eles gerenciam.
+u A adaptação de ferramentas, técnicas e métodos tradicionais e ágeis para cada projeto.
+u Destinar um tempo para planejar com atenção e estabelecer prioridades diligentemente.
+u Gerenciar os elementos do projeto, incluindo, mas não limitado a, cronograma, custos, recursos e riscos.
+
+
+
+
+
+
+
+
+     -----U Liderança
+ Conhecimento, habilidades e comportamentos necessários para orientar, motivar e dirigir uma equipe, para ajudar a organização a atingir suas metas de negócio.
+As habilidades de liderança envolvem a capacidade de orientar, motivar e dirigir uma equipe. Essas habilidades
+podem incluir a demonstração de capacidades essenciais como negociação, resiliência, comunicação, resolução de
+problemas, pensamento crítico e habilidades interpessoais. Os projetos tornam-se cada vez mais complexos, com mais e mais empresas executando suas estratégias através de projetos. O gerenciamento de projetos é mais do que apenas trabalhar com números, modelos, tabelas, gráficos, e sistemas de computação. O denominador comum em todos os projetos são as pessoas. As pessoas podem ser contadas, mas não são números.
+
+Uma grande parte do papel do gerente de projetos envolve lidar com pessoas. O gerente de projetos deve estudar os
+comportamentos e as motivações das pessoas. O gerente de projetos deve se esforçar para ser um bom líder, porque
+a liderança é crucial para o sucesso dos projetos nas organizações. O gerente de projetos aplica suas habilidades e qualidades de liderança trabalhando com todas as partes interessadas, incluindo a equipe do projeto, a equipe da diretoria e os patrocinadores do projeto.
+
+A liderança e o gerenciamento tratam, em última análise, de ser capaz de fazer o que é preciso. As habilidades e
+qualidades observadas ajudam o gerente de projetos a alcançar as metas e os objetivos do projeto. Na raiz de muitas dessas habilidades e qualidades está a capacidade de lidar com a política. A política envolve influência, negociação, autonomia e poder.
+
+A política e seus elementos associados não são apenas “bons” ou “ruins”, “positivos” ou “negativos”. Quanto melhor for o entendimento do gerente de projetos sobre o modus operandi da organização, maior a probabilidade de sucesso. O gerente de projetos observa e coleta dados sobre o projeto e os cenários organizacionais. Em seguida, os dados precisam ser revisados no contexto do projeto, das pessoas envolvidas, da organização e do ambiente no seu todo. Essa revisão gera as informações e o conhecimento necessários para o gerente de projetos planejar e implementar a ação mais apropriada. A ação do gerente de projetos será o resultado da seleção do tipo certo de poder para influenciar e negociar com outras pessoas. Exercer o poder também traz consigo a responsabilidade de ser sensível e respeitar as outras pessoas. A ação efetiva do gerente de projetos mantém a autonomia dos envolvidos. A ação do gerente de projetos resulta na realização pelas pessoas certas, das atividades necessárias para cumprir os objetivos do projeto.
+
+O poder pode originar-se com traços exibidos pela pessoa ou pela organização. O poder, quase sempre, se apoia
+na percepção de outras pessoas sobre o líder. É essencial para os gerentes de projetos terem consciência de seus
+relacionamentos com as outras pessoas. Os relacionamentos permitem que os gerentes de projetos realizem o que for
+preciso para o projeto. Existem inúmeras formas de poder à disposição dos gerentes de projeto. Dada a sua natureza e aos vários fatores em jogo em um projeto, o poder e o seu uso podem ser complexos.
+
+
+
+
+
+
+    -------U Gerenciamento estratégico e de negócios.
+Conhecimento e expertise no setor e na organização, de forma a melhorar o desempenho e fornecer melhor os resultados do negócio.
+As habilidades de gerenciamento estratégico e de negócios envolvem a capacidade de identificar a visão geral de alto nível da organização e de negociar efetivamente e implementar decisões e ações que apoiam o alinhamento estratégico e a inovação. Esta habilidade pode incluir um conhecimento prático de outras funções, como finanças, marketing e operações. As habilidades de gerenciamento estratégico e de negócios também podem incluir desenvolvimento e aplicação de expertise pertinente do produto e do setor. Esse conhecimento de negócios também é conhecido como conhecimento do domínio. Os gerentes de projetos devem conhecer suficientemente os negócios para poderem:
+
+u Explicar aos outros os aspectos de negócio essenciais de um projeto;
+u Trabalhar com o patrocinador, a equipe e o pessoal com conhecimento especializado no assunto do projeto para
+desenvolver uma estratégia apropriada para entregar o projeto;
+u Implementar essa estratégia de modo a maximizar o valor de negócio do projeto.
+
+As habilidades estratégicas e de negócios ajudam o gerente de projetos a determinar quais fatores de negócio devem ser considerados para o seu projeto. O gerente de projetos determina como esses fatores estratégicos e de negócios podem afetar o projeto e também compreender a inter-relação entre o projeto e a organização.
+
+
+COMPARAÇÃO ENTRE LIDERANÇA E GERENCIAMENTO
+
+A palavra gerenciamento está mais associada à orientar a outra pessoa a ir de um ponto a outro usando um conjunto
+conhecido de comportamentos esperados. Por outro lado, liderança envolve trabalhar com outros por meio de discussão ou debate para guiá-los de um ponto a outro.
+
+Os gerentes de projetos precisam empregar a liderança e o gerenciamento para alcançar o sucesso. A habilidade
+está em encontrar o equilíbrio certo para cada situação. A maneira como os termos gerenciamento e liderança são
+empregados quase sempre demonstra o estilo de liderança do gerente de projetos.
+

@@ -1,0 +1,101 @@
+CAPITULO 2 - AREAS DO GERENCIAMENTO DE PROJETOS
+
+GERENCIAMENTO DA INTEGRAÇÃO
+
+cabe ao gerenciamento da integração coordenar as diferentes gestões de um projeto para alcançar os resultados. equipes multidiciplinares, membros de varias equipes e areas funcionais, isso faz com que os especialistas de cada area trabalhem melhor em seus setores, mas precisa de um profissional generalista para acompanha-los e guia-los.
+
+profissional generalista --> Profissional com visão sistêmica, ou seja, não focado especificamente em uma ou outra área. 
+
+Em geral, um projeto de grande porte é desmembrado em diversos subprojetos, e estes são divididos em pacotes de atividades, ou seja, um conjunto de atividades similares e complementares.
+
+
+* Desenvolvimento do Plano: agregar resultados dos outros processos de planejamento, constituindo um documento coerente e consistente.
+
+* Execução do Plano: partes previstas no plano precisam ser efetivadas. acompanhar a execução para garantir sucesso.
+
+* Controle geral de mudanças: todas as mudanças precisam ser registradas, pois podem resultar em aumento de prazo ou custo do projeto.
+
+Gerenciar projetos é uma atividade complexa e
+que necessariamente depende de recursos, requisitos específicos definidos pelo cliente e sincronia de ações em seu desenvolvimento, controle e negociação.
+
+
+GERENCIAMENTO DE ESCOPO
+
+gestão da amplitude do projeto, bem como oq sera apresentado como resultado.
+um escopo bem definido direciona as futuras ações, pois possibilita que as partes envolvidas tenham expectativas realistas
+
+* Planejamento: declaração do escopo para futuras ações
+
+* Detalhamento: define subproketos, hora de dividir para conquistar, divide o produto em subprodutos para gerar o prpduto final.
+
+* Controle de Mudanças: acompanhar e registrar as mudanças sucedidas no escopo do projeto. criação dum formulario para que haja clareza nos dados.
+
+
+ GERENCIAMENTO DE TEMPO
+
+assegurar pontualidade, visa garantir que cada atividade do projeto seja entregue no momento certo, no prazo
+
+separar as atividades, bem como definir um certo sequenciamento, acaso alguma atividade dependa de outra para funcionar, ou definir as prioridades de quais atividades devem ser realizadas primeiro, após isso definir um prazo, pensar num tempo, estimar quanto tempo sera gasto, para cada atividade.Com tudo isso teremos o famoso cronograma, tendo ele em mãos devemos seguir e tentar manter ao maximo as datas e prazos contidos nele.
+
+GERENCIAMENTO DE CUSTOS
+
+Manter o orçamento originario, tentar controlar os gastos e assegurar a execução do projeto dentro do orçamento
+limitar-se aos recursos previstos e controlar custos
+
+GERENCIAMENTO DE QUALIDADE
+
+mapeamento das expectativas do cliente, tanto as implicitas quanto as explicitas
+padroes e indicadores da area em que o projeto esta sendo desenvolvido
+
+Apesar de os processos de planejamento, garantia e controle da qualidade serem apresentados didaticamente em sequência, eles interagem entre si e também com as demais áreas do conhecimento. Por isso, o funcionamento desses
+processos é sistêmico, e eles influenciam e são
+influenciados pelas outras áreas do gerenciamento de um projeto.
+
+GERENCIAMENTO DOS RECURSOS HUMANOS
+
+Define, organiza e gerencia a equipe atuante no projeto.
+
+planejamento de recursos humanos: especifica as funções, responsabilidades e hierarquia da equipe do projeto.
+*Plano de Gerenciamento de Pessoal*
+
+
+contratação ou mobilização das equipes: acaso for necessario, baseando-se no Plano de Gerenciamento de Pessoal, contra ou mobiliza uma equipe ou euipe virtual para auxiliar no projeto
+
+
+desenvolvimento da equipe:Ações para aprimorar a qualidade da equipe. Entre seus objetivos, destacam-se o aprimoramento das habilidades dos membros, o fortalecimento da confiança e da coesão entre os
+integrantes e a melhoria da produtividade e da qualidade do trabalho.
+
+
+gerenciamento da equipe: Realiza o acompanhamento da qualidade e da produtividade, resolve problemas, gerencia conflitos e fornece feedback. Com base em tudo isso gera um relatorio de desempenho.
+
+GERENCIAMENTO DAS COMUNICAÇÕES
+
+alcançar uma comunicação eficaz entre os envolvidos, facilitando a solução de problemas e agilizando tomadas de decisões.
+O gerenciamento das comunicações utiliza processos para garantir a administração das informações de forma consistente e promover a ligação entre as informações e as pessoas interessadas.
+
+GERENCIAMENTO DE RISCOS
+
+ocorre durante todo ciclo de vida
+aumentar a probabilidade e o impacto de eventos positivos e reduzir os adversos.
+
+--Risco do projeto é um evento ou ação com
+condição incerta de acontecimento e que, se
+acontecer, impactará de forma positiva ou negativa
+uma ou mais características--
+
+identificaçao de riscos
+analise qualitativa de riscos
+analise quantitativa de riscos
+planejamento de respostas imediatas
+monitoramento e controle
+
+GERENCIAMENTO DE AQUISIÇÕES
+
+composto/conjunto de processos que definem ou normatizam a compra de produtos e serviços.
+Projetos com alto nível de complexidade envolvem vários
+contratos para aquisições de produtos, serviços e resultados e podem se subdividir em subcontratos. Nesses casos, o gerente deve controlar o início e o término dos contratos relativos às fases do ciclo de vida do projeto.
+
+O principal documento administrado no gerenciamento de aquisições é o contrato. Ele tem caráter legal, está sujeito à legislação civil, é estabelecido entre um comprador e um fornecedor e determina o objeto (produto, serviço ou resultado) que deve ser fornecido e a
+compensação (monetária ou outro valor) despendida pelo comprador. O contrato geralmente apresenta cláusulas referentes a: objeto, prazo, cronograma, recursos e custos. 
+
+A adaptação das cláusulas contratuais às necessidades específicas de cada projeto é responsabilidade de sua equipe de gerenciamento. É recomendável que a administração de contratos conte com o suporte de especialistas na área de legislação.
