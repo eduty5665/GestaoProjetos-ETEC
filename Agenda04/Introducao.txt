@@ -1,0 +1,24 @@
+INTRODUÇÃO
+           Pois é, conhecer o detalhe é importante, mas para um gerente de projetos também é importante ter uma visão do todo.
+Integrar as diversas áreas envolvidas e os diversos recursos necessários ao planejamento e à execução de um projeto requer, como já dissemos, diversas habilidades.
+
+Evidentemente que quando nos referimos a essas habilidades, estamos mesmo que indiretamente, nos referindo a conhecimentos e atitudes relativos às mais diversas áreas de conhecimento em relação à gestão e ao projeto que se pretende desenvolver.
+
+Portanto, é preciso ter uma visão ampla e sobretudo saber estabelecer ligações entre os diversos processos existentes. Do pensamento passando para a execução até a conclusão do projeto.
+
+
+
+PARA COMEÇAR O ASSUNTO
+
+O conteúdo tratado nesta agenda tem por natureza a integração dos processos de um projeto. São eles:
+
+Desenvolvimento do plano do projeto
+Execução do plano do projeto
+Controle geral de mudança
+
+plano do projeto --> RESPONDER QUESTIONAMENTOS A RESPEITO DE TÓPICOS LEVANTADOS A RESPEITO DO PROJETO, COMO UM CICLO DE VIDA
+O plano do projeto é usado para guiar a execução, documentar as premissas e as decisões de planejamento, definir as revisões chaves de gerenciamento e promover a baseline, ou seja, uma linha de base que mostra o “caminho” pelo qual o projeto deverá seguir. Essa é uma das etapas mais importantes durante o projeto, deve ser dedicado o tempo necessário para que o planejamento seja o melhor possível. Para se chegar ao plano de projeto é necessário fazer uso de ferramentas e técnicas que envolvem metodologias, habilidades e um bom sistema de informações.
+
+Execução do plano do projeto --> feita apos definição do plano de projeto, realmente a mao na massa, fazer acontecer. Nessa fase é necessário observar os resultados de cada processo e acompanhar se esses resultados estão em conformidade com o planejado.
+
+Controle Geral de Mudanças --> realizado em conjunto com a execução, visando mitigar os erros e mudanças que o projeto tera durante seu desenvolvimento. Nenhum projeto, ao ser executado, sai exatamente conforme o planejado. Pois, é justamente por conta disso que temos o Controle geral das mudanças. Todas as modificações realizadas no decorrer do projeto, devem ser submetidas à apreciação de todos os envolvidos, aprovada e registrada em forma de atualização do plano, implementada como uma ação corretiva e dela devese tirar as lições aprendidas que irá compor o histórico. Esse histórico servirá não só para o projeto em questão como também para outros futuros projetos a serem desenvolvidos.
