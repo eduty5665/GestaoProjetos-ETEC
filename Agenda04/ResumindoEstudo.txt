@@ -1,0 +1,30 @@
+INTEGRANDO OS DIVERSOS PROCESSOS DE UM PROJETO
+
+**Desenvolvimento do Plano**
+- Reunião de Informações Históricas
+- Politicas Organizacionais
+- Restrições
+- Premissas
+- Ferramentas e ténicas (Metodologias, Habilidades e Conhecimentos, Sistemas de Informações)
+- Project Charter (Contrato do Projeto, TAP)
+- Descrição da abordagem ou estratégia da gerencia
+- Declaração do Escopo
+- Estrutura Analítica do Projeto (EAP)
+- Estimativa de Custo, datas programadas e atribuição de atividades
+- Baselines
+- Mão de Obra
+- Principais riscos, restrições e respostas planejadas
+- Planos de Gerências Auxiliares
+- Questões para resolver, decisões pendentes
+- Documentação Técnica
+- Padrões a serem considerados
+
+**Execução do Plano**
+- Executar o planejado
+- Observar se os resultados se enquadram ao que foi planejado
+- Requisitar eventuais mudanças durante o processo
+
+**Controle de Mudanças**
+- Promover atualizações no plano
+- Promover ações corretivas
+- Registrar as lições aprendidas

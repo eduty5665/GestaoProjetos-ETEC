@@ -1,0 +1,51 @@
+** Areas do Gerenciamento de Projetos **
+
+O Gerenciamento de Projetos envolve inúmeras atividades a serem desenvolvidas, monitoradas e concluídas. Para facilitar sua aplicação e garantir bons resultados, o processo de gerenciamento é dividido em áreas ou etapas definidas pelo Guia PMBOK (PMI, 2008). Este capítulo mostra essas áreas, que devem ser compreendidas pelas organizações que pretendem seguir um modelo de trabalho projetizado.
+
+*Profissional Generalista* Profissional com visão sistemica, ou seja, não focado especificamente em uma area ou outra area.
+
+GERENCIAMENTO DA INTEGRAÇÃO
+
+Aborda todos os aspectos envolvidos na etapa da integração, e as formas de executa-los com consistencia.
+
+Coordenar as diferentes gestões de um proejto para alcançar os resultados, pois as equipes são multidisciplinares e seus membros, originarios de diversas áreas funcionais.
+
+Tal gerenciamento tem especial importancia quando o projeto é multidisciplinar, por quanto o projeto deve integrar muitas areas e fazer com que elas trabalhem bem para um resultado adequado. Para tal o projeto deve ser acompanhado por um otimo gerente de projetos, profissional este que deve ser um profissional generalista, tendo conhecimento de multiplas areas.
+
+Projetos de Grande Porte --> divididos em partes menores
+
+comunicação e alinhamento da linguagem entre os participantes são fundamentais para o sucesso do gerenciamento da integração.
+
+o gestor da integração precisa ter conhecimento técnico e administrativo nas areas de integração, riscos, comunicações, qualidde, tempo, custo, recursos humanos e aquisições, alem de ter habilidade para gerenciar equipes.
+
+*Principais Atribuições*
+
+- Desenvolvimento do Plano: O plano do projeto deve agregar os resultados de documentos anteriores, tais como o planejamento, constituindo um documento coerente e consistente.
+
+- Execução do Plano: Todas as atividades previstas no plano, anteriormente desenvolvido, devem ser efetivadas. Acompanhamento para garantir o sucesso.
+
+- Controle Geral de Mudanças: todas as mudanças feitas no plano ou no projeto devem ser registradas, pois podem resultar em aumento de prazo/custos.
+
+Gerenciar projetos é uma atividade complexa e
+que necessariamente depende de recursos, requisitos específicos definidos pelo cliente e sincronia de ações em seu desenvolvimento, controle e negociação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

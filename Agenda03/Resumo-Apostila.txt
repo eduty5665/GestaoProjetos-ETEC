@@ -15,8 +15,7 @@ Em geral, um projeto de grande porte é desmembrado em diversos subprojetos, e e
 
 * Controle geral de mudanças: todas as mudanças precisam ser registradas, pois podem resultar em aumento de prazo ou custo do projeto.
 
-Gerenciar projetos é uma atividade complexa e
-que necessariamente depende de recursos, requisitos específicos definidos pelo cliente e sincronia de ações em seu desenvolvimento, controle e negociação.
+Gerenciar projetos é uma atividade complexa e que necessariamente depende de recursos, requisitos específicos definidos pelo cliente e sincronia de ações em seu desenvolvimento, controle e negociação.
 
 
 GERENCIAMENTO DE ESCOPO
@@ -47,9 +46,7 @@ GERENCIAMENTO DE QUALIDADE
 mapeamento das expectativas do cliente, tanto as implicitas quanto as explicitas
 padroes e indicadores da area em que o projeto esta sendo desenvolvido
 
-Apesar de os processos de planejamento, garantia e controle da qualidade serem apresentados didaticamente em sequência, eles interagem entre si e também com as demais áreas do conhecimento. Por isso, o funcionamento desses
-processos é sistêmico, e eles influenciam e são
-influenciados pelas outras áreas do gerenciamento de um projeto.
+Apesar de os processos de planejamento, garantia e controle da qualidade serem apresentados didaticamente em sequência, eles interagem entre si e também com as demais áreas do conhecimento. Por isso, o funcionamento desses processos é sistêmico, e eles influenciam e são influenciados pelas outras áreas do gerenciamento de um projeto.
 
 GERENCIAMENTO DOS RECURSOS HUMANOS
 
@@ -62,8 +59,7 @@ planejamento de recursos humanos: especifica as funções, responsabilidades e h
 contratação ou mobilização das equipes: acaso for necessario, baseando-se no Plano de Gerenciamento de Pessoal, contra ou mobiliza uma equipe ou euipe virtual para auxiliar no projeto
 
 
-desenvolvimento da equipe:Ações para aprimorar a qualidade da equipe. Entre seus objetivos, destacam-se o aprimoramento das habilidades dos membros, o fortalecimento da confiança e da coesão entre os
-integrantes e a melhoria da produtividade e da qualidade do trabalho.
+desenvolvimento da equipe:Ações para aprimorar a qualidade da equipe. Entre seus objetivos, destacam-se o aprimoramento das habilidades dos membros, o fortalecimento da confiança e da coesão entre os integrantes e a melhoria da produtividade e da qualidade do trabalho.
 
 
 gerenciamento da equipe: Realiza o acompanhamento da qualidade e da produtividade, resolve problemas, gerencia conflitos e fornece feedback. Com base em tudo isso gera um relatorio de desempenho.
@@ -92,10 +88,8 @@ monitoramento e controle
 GERENCIAMENTO DE AQUISIÇÕES
 
 composto/conjunto de processos que definem ou normatizam a compra de produtos e serviços.
-Projetos com alto nível de complexidade envolvem vários
-contratos para aquisições de produtos, serviços e resultados e podem se subdividir em subcontratos. Nesses casos, o gerente deve controlar o início e o término dos contratos relativos às fases do ciclo de vida do projeto.
+Projetos com alto nível de complexidade envolvem vários contratos para aquisições de produtos, serviços e resultados e podem se subdividir em subcontratos. Nesses casos, o gerente deve controlar o início e o término dos contratos relativos às fases do ciclo de vida do projeto.
 
-O principal documento administrado no gerenciamento de aquisições é o contrato. Ele tem caráter legal, está sujeito à legislação civil, é estabelecido entre um comprador e um fornecedor e determina o objeto (produto, serviço ou resultado) que deve ser fornecido e a
-compensação (monetária ou outro valor) despendida pelo comprador. O contrato geralmente apresenta cláusulas referentes a: objeto, prazo, cronograma, recursos e custos. 
+O principal documento administrado no gerenciamento de aquisições é o contrato. Ele tem caráter legal, está sujeito à legislação civil, é estabelecido entre um comprador e um fornecedor e determina o objeto (produto, serviço ou resultado) que deve ser fornecido e a compensação (monetária ou outro valor) despendida pelo comprador. O contrato geralmente apresenta cláusulas referentes a: objeto, prazo, cronograma, recursos e custos. 
 
 A adaptação das cláusulas contratuais às necessidades específicas de cada projeto é responsabilidade de sua equipe de gerenciamento. É recomendável que a administração de contratos conte com o suporte de especialistas na área de legislação.

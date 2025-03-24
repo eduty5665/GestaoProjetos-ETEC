@@ -1,0 +1,149 @@
+https://www.projectbuilder.com.br/blog/como-definir-o-escopo-do-projeto-4-processos-de-entrada-fundamentais/
+
+
+
+COMO DEFINIR UM ESCOPO DE PROJETO
+4 PROCESSOS DE ENTRADA FUNDAMENTAIS
+
+Para ter um gerenciamento de escopo efetivo, ou seja, de qualidade deve-se antes entender o que é o escopo e como trata-lo, como trabalhar com ele.
+
+** O QUE É UM ESCOPO **
+
+ Pode-se dizer que essa é a parte do planejamento que determina e documenta uma lista de objetivos específicos, entregas, tarefas, custos e prazos. Ele é elaborado para explicar os limites de um projeto, estabelecer responsabilidades de cada membro da equipe e apontar os procedimentos tanto para a realização quanto para a verificação e aprovação do trabalho.
+ É também o escopo que fornece ao gestor as diretrizes para a tomada de decisões sobre solicitações de mudança durante a realização. Afinal, é natural que partes de um grande projeto mudem ao longo do caminho.
+
+-Acerca da importancia-
+Segundo o PMBOK, o escopo consiste no trabalho que é necessário ser feito para entregar um resultado especifico. Assim, é no escopo que se define claramente o que está e oq não esta incluído no projeto.
+
+--Controle de Etapas--
+Controlar oq é adicionado ou removido durante o caminho
+podendo estabelecer mecanismos para tratar fatores que podem resultar em mudanças não previstas
+sem escopo não se pode definir o custo e o tempo do projeto
+gerir um escopo necessita de uma boa comunicação
+
+--Prevenção de custos e perdas--
+Devido a certa falta de comunicação, ou outros fatores externos, como a vontade do cliente, o escopo precisa ser modificado. Isso afeta o custo, cronograma e tempo, acarretando até mesmo na motivação da equipe.
+
+--Aumento da Qualidade de Entrega-- 
+Um escopo bem detalhado não é bom só para equipe mas para todos os stakeholders que atuam no projeto, até mesmo o cliente, pois ajuda na eficiencia do trabalho a ser feito, dando maior rapidez e qualidade na entrega.
+
+** PGE - Plano de Gerenciamento de Escopo**
+
+Qual problema se quer solucionar?
+Quais são os resultados que se espera obter?
+Quais metas devem ser atendidas para se conseguir os resultados esperados?
+
+Enfim, por meio do escopo do projeto define-se todo o trabalho que deve ser feito, e deve-se garantir que apenas o que foi estabelecido seja realizado. O líder de projeto deve, portanto, assegurar que não haja ações além do que foi planejado, evitando qualquer trabalho adicional ao escopo.
+
+** TÉCNICAS **
+
+- Entrevistas com Clientes;
+- BrainStorming;
+- Analise de Produto;
+- Coletas e Analise de Dados;
+- Diagramação.
+
+A realização de entrevistas com o cliente, por exemplo, permite entender as expectativas. Depois, uma análise de produto e mesmo um brainstorming ajudam a decompor o projeto em tarefas menores, com objetivos específicos em cada ponto. Também é possível realizar coletas e análises de dados, utilizar a documentação anterior como base, adotar diagramas e assim por diante.
+
+Mesclar ténicas é essencial
+da um visão melhor doq esta se mechendo
+
+** IGNORAR ESCOPO - CONSEQUENCIAS **
+
+-Falta de planejamento:
+diminui as chances de sucesso
+aumenta custos, desperdicios e prazo de execução
+Menos orientação na equipe, acarretando em falta de colaboração
+Mais solicitações, acarretando em engarrafamento do fluxo de trabalho
+
+** COMO DEFINIR O ESCOPO DO PROJETO **
+
+1. PGE - Plano de Gerenciamento de Escopo
+
+É um documento no qual deve ser descrito como será a definição, o desenvolvimento, a monitoria, os controles e a análise (a verificação) do escopo. Ele também serve como um dos planos auxiliares do plano macro de gerenciamento do projeto.
+
+	planejar o gerenciamento do escopo: documentar como o escopo será definido, validado e controlado;
+coletar os requisitos: definir e documentar as necessidades das partes interessadas para atingir os objetivos do projeto;
+	definir o escopo: realizar uma descrição detalhada do projeto e do produto;
+	criar a Estrutura Analítica do projeto (EAP): subdividir os produtos e o trabalho em componentes mais gerenciáveis;
+	validar o escopo: formalizar a aceitação dos produtos do projeto;
+	controlar o escopo: monitorar o escopo e gerenciar alterações na linha de base do escopo.
+
+2. Project Charter -- TAP
+
+Formaliza a autorização de um projeto
+Deve ser aprovado pelo patrocinador
+
+	É ele quem dá ao gerente do projeto a autoridade para iniciar a aplicação dos recursos organizacionais nas atividades planejadas. É por isso que o gerente do projeto sempre é designado antes do início do planejamento e, preferencialmente, antes do processo de desenvolvimento do termo de abertura.
+
+	a designação do gerente de projetos, com nível de autoridade devidamente atribuído;
+	os requisitos para satisfazer as necessidades primordiais de todas as partes;
+	as necessidades de negócios;
+	os requisitos do produto/serviço para o qual o projeto será realizado;
+	os objetivos e justificativas do projeto;
+	um cronograma sumarizado;
+	a influência de todas partes;
+	as organizações funcionais;
+	as premissas e restrições organizacionais, ambientais e externas;
+	caso de negócios que justifique o projeto (inclui também o ROI);
+	um orçamento sumarizado.
+
+	O termo de abertura do projeto, portanto, precisa conter informações sumarizadas, mas também com o nível de detalhamento necessário para a aprovação, ou não, do projeto.
+
+3. Documentação dos Requisitos
+
+Descreve como cada requisito atende às necessidades do negócio. Em outras palavras, para formatar a documentação dos requisitos, o gerente deve se perguntar quais necessidades serão atendidas e como elas estão atreladas aos objetivos — sempre partindo de uma descrição macro e detalhando conforme a evolução do projeto.
+
+Assim, é importante que os requisitos sejam descritos de forma clara, evitando dupla interpretação. Sempre que possível, também, devem ser usados critérios de aceitação mensuráveis, pois isso retira qualquer subjetividade da avaliação.
+
+4. Os Ativos de Processos Organizacionais e Fatores Ambientais da Empresa
+
+Os ativos de processos organizacionais consistem nas informações, ferramentas e documentos que a empresa tem, e que podem auxiliar no planejamento e execução dos projetos.
+
+contribuição dos ativos organizacionais = nivel de maturidade em gerencia de projetos
+
+é uma regra de tres simples
+quanto maior a maturidade da empresa em gerencia de projetos, maior será a contribuição dos ativos
+
+	planos formais ou informais, diretrizes e procedimentos, normas e políticas internas;
+	requisitos de comunicação, gerenciamento de questões e defeitos, controles financeiros e tratamento de riscos;
+	procedimentos de qualidade, auditorias, listas de verificação, direcionamentos de trabalho, regras gerais dos diversos departamentos da empresa;
+	arquivos com base de conhecimento dos projetos antigos (lições aprendidas, dados históricos etc.) — informações documentadas que ajudem no sucesso de novos projetos.
+
+
+Já os fatores ambientais da empresa se referem a qualquer fator no ambiente interno ou externo à instituição e que não pode ser controlado pela equipe, mas que ainda pode afetar o sucesso do projeto.
+
+	cultura e estrutura organizacional;
+	condições econômicas e do mercado de trabalho;
+	atitudes e tolerância em relação a riscos;
+	normas governamentais;
+	disponibilidade de recursos e skills;
+	políticas, procedimentos e diretrizes relacionadas ao planejamento das atividades;
+	banco de dados comerciais;
+	regulamentos, norma, regras e diretrizes governamentais específicas de cada área do projeto;
+	fornecedores, termos e condições;
+	recursos humanos existentes.
+
+** DESAFIOS/DIFICULDADES **
+
+- Ambiguidade
+- Definição Incompleta
+- Transitoriedade
+- Falta de Comunicação e Colaboração
+- Ignorar/Desconsiderar Riscos
+- Ignorar Premissas
+- Desalinhamento de Expectativas
+- Indefinição acerca de Responsabilidades
+- Falta de Conhecimento Técnico
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+**Duvida sobre controle de mudanças**
+"Pelo que entendi, o Plano de Gerenciamento de Mudanças é criado no grupo de processos de Planejamento. Seria saida de alguma área de conhecimento em específico?"
+
+**Resposta**
+
+Sim, é uma saida da gerência de integração.
+
+O QUE É UMA MUDANÇA?
+
+o planejamento pode ser modificado
+
+-- exemplo do desenvolvimento de uma nova camera --
+aumento ou diminuição de prazo, escopo, custo, assim por diante
+
+Mudança pode ocorrer em qualquer area do conhecimento do PMBOK
+
+Area de Integração --> relativamente generica, pois so integra as demais areas
+
+
+PLANO DE GERENCIAMENTO DE MUDANÇAS
+
+Define como as mudanças devem ser tratadas.
+
+Processo para avaliar se as mudanças são validas ou não.
+
+*Artefatos com abrang~encia em todas as áreas do projeto tendem a ser uma saída da integração.*
+
+O plano de gerenciamento de mudanças deve ser desenvolvido no decorrer do PGP, Plano de Gerenciamento de Projeto, tal plano se encontra em uma das areas de Gerenciamento da Integração, logo após a criacão do TAP deve-se desenvolver o PGP junto dele o Plano de Gerenciamento de Mudanças.

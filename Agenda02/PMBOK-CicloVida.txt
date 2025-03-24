@@ -1,6 +1,5 @@
 CICLO DE VIDA
-é a série de fases pelas quais um projeto passa, do início à conclusão. Ele fornece a estrutura básica para o gerenciamento do projeto. Esta estrutura básica se aplica independentemente do trabalho do projeto específico envolvido. As fases podem ser sequenciais, iterativas ou sobrepostas.
-Os ciclos de vida do projeto podem ser preditivos ou adaptativos. Em um ciclo de vida do projeto, há geralmente uma ou mais fases associadas com o desenvolvimento do produto, serviço ou resultado
+é a série de fases pelas quais um projeto passa, do início à conclusão. Ele fornece a estrutura básica para o gerenciamento do projeto. Esta estrutura básica se aplica independentemente do trabalho do projeto específico envolvido. As fases podem ser sequenciais, iterativas ou sobrepostas. Os ciclos de vida do projeto podem ser preditivos ou adaptativos. Em um ciclo de vida do projeto, há geralmente uma ou mais fases associadas com o desenvolvimento do produto, serviço ou resultado
 
 u Em um ciclo de vida preditivo, o escopo, prazo e custo do projeto são determinados nas fases iniciais do ciclo de
 vida. Quaisquer alterações ao escopo são cuidadosamente gerenciadas. Os ciclos de vida preditivos são também
@@ -19,16 +18,14 @@ u Um ciclo de vida híbrido é uma combinação de um ciclo de vida adaptativo e
 projeto que sejam conhecidos ou que tenham requisitos estabelecidos seguem um ciclo de vida de desenvolvimento
 preditivo, e os elementos que ainda estiverem em evolução seguem um ciclo de vida de desenvolvimento adaptativo.
 
-Cabe à equipe de gerenciamento do projeto determinar o melhor ciclo de vida de cada projeto. O ciclo de vida do
-projeto precisa ser flexível o suficiente para lidar com a variedade de fatores incluídos no projeto. 
+Cabe à equipe de gerenciamento do projeto determinar o melhor ciclo de vida de cada projeto. O ciclo de vida do projeto precisa ser flexível o suficiente para lidar com a variedade de fatores incluídos no projeto. 
 
 u Identificação do processo ou processos que precisam ser executados em cada fase;
 u Execução do processo ou processos identificados na fase apropriada;
 u Ajuste dos vários atributos de uma fase (por exemplo, nome, duração, critérios de saída e critérios de entrada).
 
 Os ciclos de vida do projeto são independentes dos ciclos de vida do produto que possa resultar de um projeto.
-O ciclo de vida de um produto é a série de fases que representam a evolução de um produto, da sua concepção à
-entrega, crescimento, maturidade e descontinuação.
+O ciclo de vida de um produto é a série de fases que representam a evolução de um produto, da sua concepção à entrega, crescimento, maturidade e descontinuação.
 
 FASE DO PROJETO
 
@@ -42,8 +39,7 @@ u Requisitos de recursos;
 u Critérios de entrada para um projeto passar para essa fase;
 u Critérios de saída para um projeto concluir a fase.
 
-Os projetos podem ser separados em fases ou subcomponentes distintos. Essas fases ou subcomponentes geralmente
-são nomes que indicam o tipo de trabalho realizado nessa fase. 
+Os projetos podem ser separados em fases ou subcomponentes distintos. Essas fases ou subcomponentes geralmente são nomes que indicam o tipo de trabalho realizado nessa fase. 
 
 u Desenvolvimento do conceito;
 u Estudo de viabilidade;
@@ -60,8 +56,7 @@ u Lições aprendidas
 
 REVISAO DE FASE
 
-é realizada ao final de uma fase. O desempenho e o progresso do projeto são comparados aos
-documentos de projeto e de negócio.
+é realizada ao final de uma fase. O desempenho e o progresso do projeto são comparados aos documentos de projeto e de negócio.
 
 u Business case do projeto;
 u Termo de abertura do projeto;

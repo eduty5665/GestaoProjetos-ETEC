@@ -1,0 +1,31 @@
+DEFINIÇÃO DE ESCOPO
+
+A soma de Produtos e/ou Serviços a serem fornecidos pelo Projeto.
+
+equipe elabora escopo --> stakeholders julgam escopo, e o aceitam
+escopo -- assegurar alinhamento entre as partes, conscenso entre partes
+
+Planejamento de Escopo --> Processo de Elaborar e Documentar progressivamente o trabalho do Projeto.
+
+Processos necessários para assegurar que o projeto inclua todo o trabalho requerido, e somente o trabalho requerido para completar o projeto de forma bem sucedida.
+
+-- Escopo do Produto: Características e Funções que devem ser incluídas no produto ou no serviço; Requisitos do Produto.
+
+-- Escopo do Projeto: PGE -->
+
+* PGE Plano de Gerenciamento do Escopo --> 
+Desenvolvimento de uma declaração escrita do escopo
+facilita melhor entendimento entre todos envolvidos, stakeholders
+serve para acordo entre as partes: Equipe de projeto e Stakeholders (aqueles que se interessam, mas não estão tão engajados no projeto)
+
+DECLARAÇÃO DO ESCOPO
+
+-Justificativa: Base para avaliar futuras compensações
+
+-Produto do Projeto: Breve resumo da descrição do produto que será entregue
+
+-Subprodutos do Projeto: Lista de Subprodutos (Deliverables) que quando entregue total e satisfatoriamente indicam o fim do projeto
+
+-Objetivos do Projeto --> Critérios mensuráveis para que o projeto possa ser considerado um sucesso. Custo, Cronograma e Qualidade.
+
+-

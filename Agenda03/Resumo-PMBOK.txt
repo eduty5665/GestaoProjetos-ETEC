@@ -107,7 +107,10 @@ Governança do projeto refere-se às estruturas, funções e processos que norte
 do projeto para criar um produto, serviço ou resultado único para cumprir as metas organizacionais, estratégicas
 e operacionais. Não existe uma estrutura única de governança que seja eficaz para todas as organizações. Uma estrutura de governança deve passar por uma adaptação para se ajustar à cultura organizacional, tipos de projeto e às necessidades da organização para que seja eficaz.
 
-3 PAPEL DO GERENTE DE PROJETOS
+
+#-------------------------------------------------------#
+
+**3 PAPEL DO GERENTE DE PROJETOS**
 
 O gerente de projetos desempenha um papel crítico na liderança de uma equipe de projeto para atingir os objetivos do mesmo. Este papel é claramente visível ao longo do projeto. Muitos gerentes de projetos envolvem-se em um projeto do início ao fim. Em última análise, a função de gerenciamento de projetos é adaptada à organização da mesma forma que os processos de gerenciamento de projetos são adaptados para atender ao projeto.
 

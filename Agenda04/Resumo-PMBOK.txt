@@ -1,0 +1,508 @@
+DOCUMENTOS DE NEGOCIO DO GERENCIAMENTO DE PROJETOS
+
+O gerente de projetos deve garantir que a abordagem de gerenciamento de projetos capture a finalidade dos
+documentos de negócio. Estes dois documentos são interdependentes, desenvolvidos iterativamente e mantidos durante todo o ciclo de vida do projeto.
+
+business case do projeto --> Estudo documentado de viabilidade economica usado para determinar a validade dos beneficios de um componente ainda sem definição suficiente, usado como base para a autorização de outras atividades de gerenciamento de projetos.
+vendo se da pra fazer o projeto ou nao
+
+plano de gerenciamento de beneficios do projeto --> A explicação documentada com a definição dos processos para criar, maximizar e sustentar os beneficios proporcionados por um projeto.
+documento com os beneficios que o projeto dara a empresa
+
+O plano de gerenciamento de benefícios do projeto é o documento que descreve como e quando os benefícios do
+projeto serão entregues e descreve os mecanismos que devem estar implementados para medir esses benefícios. Um
+benefício de projeto é definido como um resultado de ações, comportamentos, produtos ou serviços que fornecem valor
+para a organização patrocinadora e aos beneficiários do projeto.
+
+u Benefícios-alvo 
+u Alinhamento estratégico 
+u Cronograma para a realização dos benefícios 
+u Proprietário dos benefícios 
+u Indicadores 
+u Premissas 
+u Riscos 
+
+o plano de gerenciamento de beneficios se utiliza dos dados e informações documentados no bussiness case e na avaliação de necessidades. Tal plano inclue uma descrição de como o valor de negócio resultante, ou seja o produto final daquela etapa/processo, se torna parte das operações contínuas da organização.
+
+patrocinador do projeto (empresa enfim) é responsavel pelo desenvolvimento e manutenção do business case, ja que so serve pra ela mesmo, ela que quer saber se é viavel ou não, nada mais justo
+gerente do projeto fornece recomendações e supervisões para manter as medidas que o patrocinador sustentou no business case.
+
+comum acordo para que os documentados estejam alinhados em todos os setores
+
+
+TAP - TERMO DE ABERTURA DE PROJETO
+
+É definido como o documento emitido pelo patrocinador do projeto, a empresa contratante, que autoriza formalmente a sua existência e fornece autoridade ao gerente de projetos.
+Descreve como o projeto sera executado, monitorado e controlado.
+
+MEDIDAS DE SUCESSO DO PROJETO
+
+Maior dificuldade, ou uma das, descobrir se o projeto é ou não é bem sucedido.
+Tradicionalmente, os indicadores de prazo, custo, escopo e qualidade do gerenciamento de projetos são os fatores
+mais importantes para definir o sucesso de um projeto. Mas recentemente começaram a considerar a realização dos objetivos como uma nova métrica.
+É essencial documentar claramente os objetivos do projeto e selecionar objetivos que sejam mensuráveis.
+
+u O que se considera sucesso neste projeto?
+u Como será medido o sucesso?
+u Quais fatores podem afetar o sucesso?
+
+--documentar as respostas dessas perguntas junto aos objetivos, para checagem na hora de entrega--
+
+#-------------------------------------------------------#
+
+** 3.5 REALIZAÇÃO DA INTEGRAÇÃO **
+
+
+Visão do Gerente de Projetos
+seguindo da agenda 03
+
+o gerente ele tem função dupla na integração de um projeto
+
+-- Trabalhar lado a lado com a empresa. patrocinador do projeto, para compreender os objetivos estratégicos e assegurar o alinhamento dos objetivos e resultados com areas.
+integração e execução da estratégia
+
+-- Orientar a equipe do projeto em relação ao enfoque do que realmente é essencial para o projeto e o que não é.
+integração de processos, conhecimento e pessoas.
+
+Integração -- Juntar os processos e habilidades para obter um resultado, habilidade indispensavel para um bom gerente de projetos.
+
+
+--GERENCIAMENTO DE PROJETOS EM MEIO A INTEGRAÇÃO--
+
+O gerenciamento de projetos pode ser visto como um conjunto de processos e atividades realizadas para alcançar os objetivos do projeto. Alguns desses processos podem ocorrer uma vez, mas muitos outros se sobrepõem e ocorrem várias vezes ao longo do projeto.
+
+Existem diversas formas de gerenciar um projeto, e o método selecionado, em geral, depende das características
+específicas do projeto ou da organização como porte, nível de complexidade e cultura.
+
+Os gerentes de projetos precisam ter consciência do contexto do projeto e destes novos aspectos ao gerenciar a integração. Assim, os gerentes de projetos podem decidir como melhor usar estes novos elementos do ambiente em seus projetos para alcançar o sucesso.
+
+Complexidade: é a percepção de um indivíduo baseada na experiência pessoal, observação e habilidade. 
+
+u Comportamento do sistema. Interdependências de componentes e sistemas.
+u Comportamento humano. Ação combinada entre pessoas e grupos diversificados.
+u Ambiguidade. Incerteza sobre novas questões, e falta de compreensão ou confusão;
+u Contém várias partes;
+u Tem várias conexões entre as partes;
+u Demonstra interações dinâmicas entre as partes; e
+u Demonstra o comportamento produzido como resultado dessas interações, que não pode ser explicado como a
+simples soma das partes (por exemplo, comportamento emergente).
+
+** 4 GERENCIAMENTO DA INTEGRAÇÃO DO PROJETO **
+
+ Inclui os processos e atividades para identificar, definir, combinar, unificar e coordenar os vários processos e atividades de gerenciamento de projeto dentro dos Grupos de Processos de Gerenciamento do Projeto. Características de unificação,
+consolidação, comunicação e inter-relacionamentos.
+
+u Alocação de recursos;
+u Balanceamento de demandas concorrentes;
+u Exame de todas as abordagens alternativas;
+u Adaptação dos processos para atender aos objetivos do projeto;
+u Gerenciamento das interdependências entre as Áreas de Conhecimento em Gerenciamento de Projetos.
+
+PROCESSOS PARA GERENCIAMENTO DA INTEGRAÇÃO
+1. Desenvolviemnto do TAP - Termo de Abertura de Projeto
+2. Desenvolver o Plano de Gerenciamento de Projeto
+3. Orientar e Gerenciar o Trabalho do Projeto
+4. Gerenciar o Conhecimento do Projeto
+5. Monitorar e Controlar o Trabalho do Projeto
+6. Realizar o Controle Integrado de Mudanças
+7. Encerrar Projeto/Fase
+
+CONCEITOS CHAVE
+
+Gerenciamento de Integração é uma atribuição específica dos gerentes de projetos, esta responsabilidade nao pode ser delegada nem transferida. O gerente de projetos é quem combina os resultados em todas as outras areas do conhecimetno e tem a visão geral do projeto.
+
+**Gerente responsavel por todo projeto**
+
+
+CONCEITOS CHAVE DA INTEGRAÇÃO
+
+  Quanto mais complexo o projeto e mais diversas as expectativas das partes interessadas, mais complexa é a abordagem necessária à integração.
+
+  O Gerenciamento da Integração do Projeto envolve:
+ 
+u Garantir que as datas finais de entrega do produto, serviço ou resultado; do ciclo de vida do projeto; e do plano de gerenciamento de benefícios estejam alinhadas;
+u Fornecer um plano de gerenciamento do projeto para atingir os objetivos do projeto; 
+u Assegurar a criação e o uso do conhecimento apropriado de e para o projeto conforme for necessário; 
+u Gerenciar o desempenho e as mudanças das atividades no plano de gerenciamento do projeto; 
+u Tomar decisões integradas em relação às mudanças chave que impactam o projeto; 
+u Medir e monitorar o progresso do projeto e tomar as medidas necessárias para atender aos seus objetivos; 
+u Coletar dados sobre os resultados obtidos, analisar os dados para obter informações e comunicar estas informações às partes interessadas relevantes; 
+u Concluir todo o trabalho do projeto e encerrar formalmente cada fase, contrato e o projeto como um todo; 
+u Gerenciar as transições de fase quando for necessário.
+
+
+TENDENCIAS E PRATICAS EMERGENTES
+
+uso de ferramentas automatizadas;
+ferramentas visuais de gerenciamento;
+gerenciamento do conhecimento do projeto;
+expandir as responsabilidades do gerene de projeto;
+metodologias hibridas;
+
+CONSIDERAÇÕES SOBRE TAILORING
+
+Como cada projeto é único, o gerente de projeto pode precisar ajustar a forma como os processos de Gerenciamento da Integração do Projeto são aplicados. Os itens a serem considerados para adaptação incluem:
+
+u Ciclo de vida do projeto. O que é um ciclo de vida do projeto apropriado? Quais fases devem formar o ciclo de
+vida do projeto?
+u Ciclo de vida de desenvolvimento. Qual ciclo de vida de desenvolvimento e abordagem são apropriados para
+o produto, serviço ou resultado? Qual abordagem é a apropriada: preventiva ou adaptativa? Se adaptativos, o
+produto deve ser desenvolvido de forma incremental ou iterativa? Uma abordagem híbrida é melhor?
+u Abordagens de gerenciamento. Quais processos de gerenciamento são mais eficazes com base na cultura
+organizacional e na complexidade do projeto?
+u Gerenciamento do conhecimento. Como conhecimentos serão gerenciados no projeto para promover um
+ambiente de trabalho colaborativo?
+u Mudança. Como a mudança será gerenciada no projeto?
+u Governança. Quais conselhos e comissões de controle e outras partes interessadas fazem parte do projeto?
+Quais são os requisitos de relatórios de status de projeto?
+u Lições aprendidas. Quais informações devem ser coletadas ao longo e ao final do projeto? Como as informações históricas e as lições aprendidas serão disponibilizadas para projetos futuros?
+u Benefícios. Quando e como os benefícios devem ser relatados: no final do projeto ou no final de cada iteração ou fase?
+
+CONSIDERAÇÕES PARA AMBIENTE AGEIS/ADAPTATIVOS
+
+Abordagens ágeis e iterativas promovem o engajamento dos membros da equipe como especialistas locais de
+domínio no gerenciamento de integração. Os membros da equipe determinam como planos e componentes devem
+ser integrados.
+As expectativas do gerente do projeto, conforme observado em Conceitos-Chave para Gerenciamento de Integração
+não mudam em um ambiente adaptativo, mas o controle do planejamento detalhado do produto e a entrega são
+delegados à equipe. O foco do gerente do projeto é formar um ambiente de tomada de decisão colaborativo e garantir
+que a equipe tenha capacidade para reagir a mudanças. Essa abordagem colaborativa pode ser reforçada ainda mais
+quando os membros da equipe possuem uma ampla base de habilidades em vez de uma especialização específica.
+
+Modelos ageis fazem a equipe se engajar mais, tomando como visão serem especialistas de dominio na integração.
+O gerente de projeto deve formar uma equipe e um ambiente colaborativo, mas que tenha a capacidade de tomada de decisão; suas expectivas não mudam mesmo estando em um ambinete como este.
+
+** 4.1 DESENVOLVER O TAP - TERMO DE ABERTURA DE PROJETOS **
+
+É o processo de desenvolver um documento que realmente formalize e autorize a existencia de um projeto, tal documento fornece ao gerente de projetos a autoridade necessária para aplicar recursos ás atividades do projeto.
+
+fornecimento de vinculo direto entre projeto e empresa
+criação de registro formal
+demonstração de compromisso
+
+O TAP estabelece uma parceria entre a organização executora e organização solicitante.
+O TAP aprovado inicia formalmente o projeto
+O gerente de projeto é identificado e designado o mais cedo possivel, preferivelmente quando o TAP esta sendo desenvolvido e antes do planejamento.
+O TAP permite que o gerente de projetos tenha uma melhor compreensão da finalidade do projeto, permitindo assim uma designação de recursos mais eficiente.
+O TAP da autoridade ao gerente de projetos para planejar, executar, controlar o projeto.
+
+Os projetos são inicados por uma entidade externa, o responsavel por tal iniciação deve estar em um nivel apropriado para captar o financiamento do projeto. Os projetos são iniciados por necessidades internas da empresa, tais necessidades geram uma analise, um estudo de viabilidade, para ver se compensa realizar um projeto e sanar tais necessidades.
+
+O TAP é parecido com um CONTRATO apenas sem pagamento, mas como o mesmo peso juridico.
+
+** ENTRADAS **
+
+-- DOCUMENTOS DE NEGÓCIO --
+
+Desenvolvidos antes do projeto, mas revisados periodicamente.
+São fontes de informações do projeto.
+
+BUSINESS CASE:
+Um Business Case aprovado ou documento similar é o doc mais usado para criação do TAP. O BC descreve as informações necessárias do ponto de vista de negócio, de tal modo que ele serve como um estudo de viabilidade, muitas empresas o utilizam como tal, para determinar se os custos justificam o projeto. O bussiness case é criado por:
+	demanda de mercado;
+	necessidade organizacional;
+	solicitação do cliente;
+	avanço tecnologico;
+	um requisito legal;
+	necessidade de natureza social;
+
+O TAP incorpora as informações apropriadas para o projeto a partir dos documentos de negócios. O gerente não atualiza nem modifica tais documentos, mas pode dar recomendações acerca dos mesmos.
+
+ACORDOS
+
+ Os acordos são usados para definir as intenções iniciais de um projeto. Acordos podem tomar a forma de contratos, memorandos de entendimento (MDEs), acordos de nível de serviço (ANSs), cartas de acordo, cartas de intenção, acordos verbais, e-mails ou outros tipos de acordos por escrito. Normalmente um contrato é usado quando o projeto está sendo realizado para um cliente externo.
+
+
+FATORES AMBIENTAIS DA EMPRESA
+
+u Padrões governamentais ou do setor (por exemplo, padrões de produto,qualidade, segurança e de mão de obra);
+u Requisitos e/ou restrições legais e regulatórios,
+u Condições de mercado;
+u Cultura organizacional e clima político;
+u Estrutura de governança organizacional (uma forma estruturada de fornecer controle, orientação e coordenação através de pessoas, políticas e processos para cumprir metas organizacionais estratégicas e operacionais);
+u Expectativas de partes interessadas e limites dos riscos.
+
+
+ATIVOS DE PROCESSOS ORGANIZACIONAIS
+
+u Políticas, processos e procedimentos organizacionais padrão;
+u Estrutura de governança do projeto, portfólio e programa (funções e processos de governança para fornecer
+orientação e tomada de decisão);
+u Métodos de monitoramento e produção de relatórios;
+u Modelos (por exemplo, modelo do termo de abertura do projeto);
+u Informações históricas e repositório de lições aprendidas (por exemplo, registros e documentos de projeto, informações sobre os resultados de decisões anteriores de seleção de projeto e informações sobre desempenho de projetos anteriores).
+
+
+** FERRAMENTAS E TÉCNICAS **
+
+OPINIÃO ESPECIALIZADA
+
+É definida como uma opinião baseada em expertise/experiencia numa área de aplicação/conhecimento.
+
+Tal expertise deve estar relacionada a:
+
+u Estratégia organizacional;
+u Gerenciamento de benefícios;
+u Conhecimento técnico da indústria e área foco do projeto;
+u Estimativa de duração e orçamento;
+u Identificação de riscos.
+
+COLETA DE DADOS
+
+* Brainstorming
+* Grupos de Discussão
+* Entrevistas
+
+HABILIDADES INTERPESSOAIS E DE EQUIPE
+
+* Gerenciamento de Conflitos: ajuda no alinhamento das partes, um quer uma coisa a outra quer outra, então uma pessoa que tenha a gerencia de conflitos pode negociar e ajudara a chegar em um objetivo em comum.
+
+* Facilitação: Um facilitador é a pessoa que tem um grau de compreensão acima dos demais, tal grau de compreensão faz com que essa pessoa possa orientar a participação e a compreensão de todos no projeto, dando uma compreensão mutua e fazendo com que todas as decisões e contribuições sejam de pleno acordo.
+
+* Gerenciamento de Reuniões: Preparar a agenda; Garantir que um lider de cada grupo seja convidado; preparar e enviar as minutas, bem como as ações de acompanhamento.
+
+REUNIÕES
+
+Para este processo, são realizadas reuniões com partes interessadas para identificar os objetivos do projeto, critérios de sucesso, entregas-chave, requisitos de alto nível, resumo de marcos e outras informações resumidas.
+
+** SAIDAS **
+
+TERMO DE ABERTURA DE PROJETO (TAP)
+
+O termo de abertura do projeto é o documento emitido pelo responsável pela iniciação do projeto ou patrocinador do
+projeto que autoriza formalmente a existência de um projeto e fornece ao gerente do projeto a autoridade para aplicar os recursos organizacionais nas atividades do projeto. Ele documenta informações de alto nível sobre o projeto e sobre o produto, serviço ou resultado que o projeto deve satisfazer, como:
+
+u Finalidade do projeto;
+u Objetivos mensuráveis do projeto e critérios de sucesso relacionados;
+u Requisitos de alto nível;
+u Descrição de alto nível do projeto, seus limites e entregas-chave;
+u Risco geral do projeto;
+u Resumo do cronograma de marcos;
+u Recursos financeiros pré-aprovados;
+u Lista das partes interessadas chave;
+u Requisitos para aprovação do projeto (ou seja, o que constitui o sucesso do projeto, quem decide se o projeto é bem sucedido e quem autoriza o encerramento do projeto);
+u Critérios de término do projeto (ou seja, quais são as condições que devem ser cumpridas para encerrar ou
+cancelar o projeto ou fase);
+u Gerente do projeto designado, responsabilidade e nível de autoridade ; e
+u Nome e autoridade do patrocinador ou outra(s) pessoa(s) que autoriza(m) o termo de abertura do projeto.
+
+Em alto nível, o termo de abertura do projeto garante um entendimento comum entre as partes interessadas das
+entregas e marcos mais importantes, e dos papéis e responsabilidades de todos os envolvidos no projeto.
+
+REGISTRO DE PREMISSAS
+
+Premissas estratégicas e operacionais de alto nível e restrições normalmente são identificadas no business case
+antes que o projeto seja iniciado, e são incorporadas ao termo de abertura do projeto. As premissas de atividades e tarefas de baixo nível são geradas ao longo do projeto, tais como definição de especificações técnicas, estimativas, cronograma, riscos etc. O registro de premissas é usado para registrar todas as premissas e restrições durante todo o ciclo de vida do projeto.
+
+Premissas em sua maioria são feitas no BC, antes do projeto em si.
+Premissas de Atividades, aquelas que tem que ser feitas no dia a dia, são registradas as longo do projeto.
+o registro de premissas, registra e controla todo movimento das premissas.
+
+** 4.2 DESENVOLVER O PLANO DE GERENCIAMENTO DO PROJETO **
+
+PGP - Plano de Gerenciamento do Projeto é o processo de definição, preparação e coordenação de todos os componentes do plano e a consolidação de um plano de gerenciamento integrado do projeto.
+A base de todo o trabalho e como esse trabalho sera realizado.
+tal documento é realizado uma vez ou em ponto predefinidos do projeto.
+
+O plano de gerenciamento do projeto define como o mesmo é executado, monitorado e controlado, e encerrado. O
+conteúdo do plano de gerenciamento do projeto varia dependendo da área de aplicação e complexidade do projeto.
+
+Pode ser resumido ou detalhado
+cada componente deve ser descrito na medida exigida pelo projeto especifico
+deve ser robusto o suficiente para responder a um ambiente em constante mudança --> tal agilidade pode resultar em informações mais precisas no decorrer do projeto
+
+deve-se pensar na linhas bases/gerais do projeto e detalhar elas
+tal processo pode e deve ser feito quantas vezes necessaria, tendo em vista que mudanças são permitidas quanto necessario
+após definir tais linhas gerais as mudanças só ocorrerão atraves do processo Realizar o Controle Integrado de Mudanças
+Isso resulta num plano de gerenciamento do projeto elaborado progressivamente por atualizações controladas e aprovadas, que se estende até o encerramento do projeto
+
+
+** ENTRADAS **
+
+TERMO DE ABERTURA DE PROJETO (TAP)
+
+A euipe se utiliza do TAp como base para criação do PGP - Plano de Gerenciamento de Projeto.
+No mínimo, o termo de abertura do projeto deve definir as informações de alto nível sobre o projeto que serão elaboradas nos vários componentes do plano de gerenciamento do projeto.
+
+SAIDAS DE OUTROS PROCESSOS
+
+Planos auxiliares e linhas de base que sejam saídas de outros processos de planejamento são entradas para este processo. Além disso, as mudanças nesses documentos podem requerer atualizações no plano de gerenciamento do projeto.
+
+FATORES AMBIENTAIS DA EMPRESA
+
+u Padrões de governo ou setor (por exemplo, padrões de produto, qualidade, segurança e de mão de obra);
+u Requisitos e/ou restrições legais e regulatórios;
+u O conhecimento em gerenciamento de projetos no mercado vertical (por exemplo, construção) e/ou área de
+enfoque (por exemplo, meio-ambiente, segurança, riscos, ou desenvolvimento ágil de software);
+u Estrutura e cultura organizacionais, práticas de gerenciamento e sustentabilidade;
+u Estrutura de governança organizacional (uma forma estruturada de fornecer controle, orientação e coordenação
+através de pessoas, políticas e processos para cumprir metas organizacionais estratégicas e operacionais); e
+u Infraestrutura (por exemplo, equipamentos e instalações existentes).
+
+ATIVOS DE PROCESSOS ORGANIZACIONAIS
+
+u Políticas, processos e procedimentos organizacionais padrão;
+u Modelo de diretrizes e critérios para a adaptação do conjunto de processos padrão da organização para satisfazer as necessidades específicas do projeto;
+u Modelo de diretrizes ou requisitos para encerramento do projeto, como a validação de produtos e critérios de aceitação;
+u Procedimentos de controle de mudanças, inclusive os passos pelos quais os padrões, políticas, planos e
+procedimentos oficiais da empresa ou quaisquer documentos do projeto serão modificados e como essas
+mudanças serão aprovadas e validadas;
+u Métodos de monitoramento e produção de relatórios, procedimentos de controle de riscos e requisitos
+de comunicação;
+u Informações de projetos semelhantes anteriores (ex., escopo, custo, cronograma, medição do desempenho de
+linhas de base, calendários do projeto, diagrama de rede do cronograma do projeto e registros dos riscos);
+u Repositório de informações históricas e lições aprendidas.
+
+** FERRAMENTAS E TÉCNICAS **
+
+OPINIÃO ESPECIALIZADA
+
+É definida como uma opinião baseada em expertise/experiencia numa área de aplicação/conhecimento.
+
+Tal expertise deve estar relacionada a:
+
+u Adaptar o processo de gerenciamento de projetos para cumprir as necessidades de projeto, inclusive as
+dependências e interações entre esses processos, e as entradas e saídas essenciais;
+u Desenvolver componentes adicionais do plano de gerenciamento do projeto, se necessário;
+u Determinar as ferramentas e técnicas a serem utilizadas para a realização desses processos;
+u Desenvolver detalhes técnicos e de gerenciamento a serem incluídos no plano de gerenciamento do projeto;
+u Determinar os recursos e níveis de habilidades necessários para executar o trabalho do projeto;
+u Determinar o nível de gerenciamento de configuração a ser usado no projeto;
+u Determinar quais documentos do projeto estarão sujeitos ao processo formal de controle de mudanças; e
+u Priorizar o trabalho do projeto para garantir que os seus recursos sejam designados ao trabalho apropriado, no
+tempo apropriado.
+
+COLETA DE DADOS
+
+* BrainStorming
+* Lista de Verificação: Uma lista de verificação
+pode orientar o gerente do projeto no desenvolvimento do plano ou ajudar na confirmação de que todas as
+informações necessárias sejam incluídas no plano de gerenciamento do projeto.
+* Grupos de Discussão
+* Entrevistas
+
+
+HABILIDADES INTERPESSOAIS E DE EQUIPE
+
+* Gerenciamento de Conflitos: ajuda no alinhamento das partes, um quer uma coisa a outra quer outra, então uma pessoa que tenha a gerencia de conflitos pode negociar e ajudara a chegar em um objetivo em comum.
+
+* Facilitação: Um facilitador é a pessoa que tem um grau de compreensão acima dos demais, tal grau de compreensão faz com que essa pessoa possa orientar a participação e a compreensão de todos no projeto, dando uma compreensão mutua e fazendo com que todas as decisões e contribuições sejam de pleno acordo.
+
+* Gerenciamento de Reuniões: Preparar a agenda; Garantir que um lider de cada grupo seja convidado; preparar e enviar as minutas, bem como as ações de acompanhamento.
+	
+
+REUNIÕES
+
+Reuniões --> usadas para discutir a abordagem do projeto; determinar como o trabalho será executado; estabelecer a forma pelo qual o projeto sera monitorado e controlado.
+
+A reunião de início do projeto é normalmente associada ao fim do planejamento e o início da execução. Sua finalidade é comunicar os objetivos do projeto, obter o comprometimento da equipe com o projeto e explicar os papeis e responsabilidades de cada parte interessada. O início pode ocorrer em diferentes pontos no tempo em função das características do projeto:
+
+u Para projetos de pequeno porte, o planejamento e a execução em geral são realizados por apenas uma equipe.
+Neste caso, o início ocorre logo após a iniciação, no Grupo de Processos de Planejamento, porque a equipe está
+envolvida no planejamento.
+
+u Em projetos de grande porte, uma equipe de gerenciamento do projeto normalmente faz a maior parte do
+planejamento, e o restante da equipe do projeto é incorporada quando o planejamento inicial for concluído, no início do desenvolvimento/implementação. Neste caso, a reunião de início acontece com os processos no Grupo
+de Processos de Execução.
+
+Projetos de múltiplas fases normalmente incluem uma reunião de início no começo de cada fase.
+
+** SAIDAS **
+
+PLANO DE GERENCIAMENTO DO PROJETO
+
+O plano de gerenciamento do projeto é o documento que descreve como o projeto será executado, monitorado e
+controlado, e encerrado. Ele integra e consolida todos os planos de gerenciamento auxiliares, linhas de base e outras informações necessárias para gerenciar o projeto. As necessidades do projeto determinam quais componentes do plano de gerenciamento do projeto são necessários.
+
+* Plano de Gerenciamento Auxiliares:
+Plano de gerenciamento do escopo; Plano de gerenciamento dos requisitos; Plano de gerenciamento do cronograma;  Plano de gerenciamento dos custos; Plano de gerenciamento da qualidade; Plano de gerenciamento dos recursos; Plano de gerenciamento das comunicações; Plano de gerenciamento dos riscos; Plano de engajamento das partes interessadas.
+
+* Linhas Base:
+Linha de base do escopo; Linha de base do cronograma; Linha de base dos custos.
+
+* Componentes Adicionais:
+
+A maioria dos componentes do plano de gerenciamento do projeto é produzida como saídas a partir de outros processos, embora alguns sejam produzidos durante este processo. Tais componentes desenvolvidos como parte deste processo vão depender do projeto; no entanto, muitas vezes incluem:
+
+n Plano de gerenciamento de mudanças. Descreve como as solicitações de mudança ao longo do projeto serão
+formalmente autorizadas e incorporadas.
+
+n Plano de gerenciamento de configuração. Descreve como as informações sobre os itens do projeto (e
+quais itens) serão registradas e atualizadas para que o produto, serviço ou resultado do projeto permaneça
+consistente e/ou operacional.
+
+n Medição do desempenho de linha de base. Um plano integrado de escopo-cronograma-custo para o trabalho
+do projeto contra o qual a execução do projeto é comparada para medir e gerenciar o desempenho.
+
+n Ciclo de vida do projeto. Descreve a série de fases pelas quais um projeto passa, do início ao término.
+n Abordagem de desenvolvimento. Descreve a abordagem de desenvolvimento de produto, serviço ou resultado,
+tais como preditiva, iterativa, ágil, ou um modelo híbrido.
+
+n Revisões de gerenciamento. Identifica os pontos no projeto em que o gerente de projeto e as partes
+interessadas relevantes avaliarão o progresso do projeto para determinar se o desempenho está conforme o
+esperado, ou se medidas preventivas ou corretivas são necessárias.
+
+4.3 ORIENTAR E GERENCIAR O TRABALHO DO PROJETO
+
+Orientar e Gerenciar o Trabalho do Projeto é o processo de liderar e realizar o trabalho definido no plano de gerenciamento do projeto e implementar as mudanças aprovadas para atingir os objetivos do mesmo. O principal benefício deste processo é fornecer o gerenciamento geral do trabalho do projeto e das entregas, aumentando a probabilidade de êxito do projeto. Este processo é realizado ao longo do projeto.
+
+Orientar e Gerenciar o Trabalho do Projeto envolve executar as atividades de projeto planejadas para completar as entregas do projeto e cumprir os objetivos estabelecidos. Os recursos disponíveis são alocados, seu uso eficiente é gerenciado e mudanças nos planos de projeto decorrentes da análise de informações e dados de desempenho do trabalho são realizadas. O processo Orientar e Gerenciar o Trabalho do Projeto é diretamente afetado pela área de aplicação do projeto. Entregas são produzidas como saídas de processos executados para realizar o trabalho do projeto conforme planejado e programado no plano de gerenciamento do projeto.
+
+O gerente do projeto, juntamente com a equipe de gerenciamento do projeto, conduz a execução das atividades planejadas e gerencia as diversas interfaces técnicas e organizacionais que existem no projeto. O processo Orientar e Gerenciar o Trabalho do Projeto também requer a análise do impacto de todas as mudanças no projeto e a implementação das mudanças aprovadas: ação corretiva, ação preventiva e/ou reparo de defeito.
+
+Durante a execução do projeto, os dados de desempenho do trabalho são coletados e comunicados aos processos de controle aplicáveis para análise. A análise de dados de desempenho do trabalho fornece informações sobre o progresso de finalização das entregas e outros detalhes relevantes sobre o desempenho do projeto. Os dados de desempenho do trabalho também serão usados como uma entrada para o Grupo de Processos de Monitoramento e Controle e podem ser usados como feedback em lições aprendidas para melhorar o desempenho dos pacotes de trabalho futuros.
+
+4.4 GERENCIAR O CONHECIMENTO DO PROJETO
+
+Gerenciar o Conhecimento do Projeto é o processo de utilizar conhecimentos existentes e criar novos conhecimentos para alcançar os objetivos do projeto e contribuir para a aprendizagem organizacional. Os principais benefícios deste processo são que conhecimentos organizacionais anteriores são aproveitados para produzir ou aprimorar os resultados do projeto, e esse conhecimento criado pelo projeto fica disponível para apoiar as operações organizacionais e projetos ou fases futuros. Este processo é realizado ao longo do projeto.
+
+O conhecimento é comumente dividido em “explícito” (conhecimento que pode ser facilmente codificado usando palavras, imagens e números) e “tácito” (conhecimento pessoal e difícil de expressar, como crenças, entendimentos,
+experiência e “know-how”). O gerenciamento de conhecimento envolve o gerenciamento de conhecimentos tanto tácitos como explícitos para duas finalidades: reutilização de conhecimentos existentes e criação de novos conhecimentos. As principais atividades que sustentam as duas finalidades são compartilhamento e integração de conhecimentos (de diferentes domínios, contextual e de gerenciamento de projetos).
+
+É um equívoco comum considerar que o gerenciamento do conhecimento envolve apenas documentá-lo para que possa ser compartilhado. Um outro equívoco comum é que o gerenciamento do conhecimento envolve apenas obter lições aprendidas no final do projeto para usá-las em projetos futuros. Apenas o conhecimento explícito codificado pode ser compartilhado dessa forma. Porém, o conhecimento explícito codificado carece de contexto e está aberto a diferentes interpretações, portanto, apesar de poder ser facilmente compartilhado, nem sempre é entendido ou aplicado da forma correta. O conhecimento tácito possui contexto incorporado, mas é muito difícil de codificar. Ele reside nas mentes dos especialistas individuais ou em grupos e situações sociais e normalmente é compartilhado através de conversas e interações entre pessoas.
+
+De uma perspectiva organizacional, o gerenciamento do conhecimento envolve garantir que as habilidades, experiências e expertise da equipe do projeto e de outras partes interessadas sejam utilizados antes, durante e depois
+do projeto. Como o conhecimento reside nas mentes das pessoas e as pessoas não podem ser forçadas a compartilhar o que sabem (nem a dar atenção ao conhecimento de outros), a parte mais importante do gerenciamento do conhecimento é criar uma atmosfera de confiança para que as pessoas sejam motivadas a compartilhar seus conhecimentos. Até mesmo as melhores ferramentas e técnicas de gerenciamento de conhecimento não funcionarão se as pessoas não estiverem motivadas a compartilhar o que sabem ou prestar atenção ao que os outros sabem. Na prática, o conhecimento é compartilhado usando uma mistura de ferramentas e técnicas de gerenciamento de conhecimento (interações entre pessoas) e ferramentas e técnicas de gerenciamento de informações (em que as pessoas codificam parte do seu conhecimento explícito documentando-o para que possa ser compartilhado).
+
+4.5 MONITORAR E CONTROLAR O TRABALHO DO PROJETO
+
+Monitorar e Controlar o Trabalho do Projeto é o processo de acompanhamento, análise e relato do progresso geral para atender aos objetivos de desempenho definidos no plano de gerenciamento do projeto. Os principais benefícios deste processo são permitir que as partes interessadas entendam a situação atual do projeto, reconheçam as ações adotadas para abordar quaisquer problemas de desempenho e tenham visibilidade sobre a situação futura do projeto, com previsões de custos e prazos. Este processo é realizado ao longo do projeto.
+
+u Comparar o desempenho real do projeto com o plano de gerenciamento do projeto;
+u Avaliar periodicamente o desempenho para determinar se quaisquer ações corretivas ou preventivas são
+indicadas e então recomendá-las, se necessário;
+u Verificar o status de riscos individuais do projeto;
+u Manter uma base de informações precisas e oportunas a respeito do(s) produto(s) do projeto e suas respectivas
+documentações até o término do projeto;
+u Fornecer informações para dar suporte ao relatório de status, medição de progresso e previsão;
+u Fornecer previsões para a atualização das informações atuais de custos e cronograma;
+u Monitorar a implementação das mudanças aprovadas à medida que elas ocorrem;
+u Fornecer o relatório apropriado sobre o progresso e situação do projeto ao gerenciamento de programas quando
+o projeto for parte de um programa; e
+u Garantir que o projeto permaneça alinhado com as necessidades do negócio
+
+
+4.6 REALLIZAR O CONTROLE INTEGRADO DE MUDANÇAS
+
+Realizar o Controle Integrado de Mudanças é o processo de revisar todas as solicitações de mudança; aprovar as mudanças e gerenciar as mudanças nas entregas, nos documentos do projeto e no plano de gerenciamento do projeto; e comunicar as decisões. Este processo revisa todas as solicitações de mudança em documentos do projeto, nas entregas ou no plano de gerenciamento do projeto e determina a resolução das solicitações de mudança. O principal benefício deste processo é permitir que as mudanças documentadas no projeto sejam consideradas de forma integrada, abordando o risco geral do projeto, que frequentemente resulta de realizar mudanças sem considerar os objetivos ou planos gerais do projeto. Este processo é realizado ao longo do projeto.
+
+O processo Realizar o Controle Integrado de Mudanças é conduzido do início ao término do projeto e é de responsabilidade do gerente de projeto. As solicitações de mudança podem afetar o escopo do projeto e o escopo do produto, assim como qualquer componente do plano de gerenciamento do projeto ou qualquer de seus documentos. As mudanças podem ser solicitadas por qualquer parte interessada envolvida com o projeto e podem ocorrer a Qualquer momento ao longo do ciclo de vida do projeto. O nível de controle de mudanças aplicado depende da área de aplicação, complexidade do projeto em questão, requisitos contratuais, o contexto e o ambiente no qual o projeto é executado.
+
+Antes de estabelecidas as linhas de base, as mudanças não precisam ser controladas de modo formal pelo processo Realizar o Controle Integrado de Mudanças. Depois de definida as linhas de base do projeto, as solicitações de mudança passam por este processo. Como regra geral, o plano de gerenciamento de configuração de cada projeto deve definir quais artefatos de projeto precisam ser colocados no controle de configuração. Qualquer mudança de um elemento de configuração deve ser formalmente controlada e exigirá uma solicitação de mudança. Embora possam ser iniciadas verbalmente, tais mudanças devem ser sempre registradas por escrito e lançadas no sistema de gerenciamento de mudanças e/ou no sistema de gerenciamento de configuração. Solicitações de mudança podem exigir informações sobre possíveis impactos sobre o cronograma e impactos na estimativa de custos, antes de serem aprovadas. Sempre que uma solicitação de mudança puder afetar qualquer das linhas de base do projeto, um processo de controle de mudanças formal e integrado será necessário. Todas as solicitações de mudança documentadas precisam ser aprovadas, postergadas ou rejeitadas por uma pessoa responsável, geralmente o patrocinador ou o gerente do projeto. A pessoa responsável será identificada no plano de gerenciamento do projeto ou por procedimentos organizacionais. Quando necessário, o processo Realizar o Controle Integrado de Mudanças incluirá um comitê de controle de mudanças (CCM), um grupo formalmente constituído e responsável para revisar, avaliar, aprovar, adiar ou rejeitar mudanças ao projeto, e registrar e comunicar tais decisões.
+
+Solicitações de mudança aprovadas podem requerer estimativas de custos novas ou revisadas, sequenciamento de atividades, datas de cronograma, requisitos de recursos e/ou análise de alternativas de reação aos riscos. Essas mudanças podem exigir ajustes no plano de gerenciamento do projeto ou em outros documentos do projeto. Pode ser necessária a aprovação do cliente ou do patrocinador para certas requisições de mudança após a aprovação pelo CCM (comitê de controle de mudanças), a menos que eles participem do CCM.
+
+4.7 ENCERRAR O PROJETO OU FASE
+
+Encerrar o projeto ou fase é o processo de finalização de todas as atividades do projeto, da fase ou do contrato. Os principais benefícios deste processo são o arquivamento das informações do projeto ou da fase, a conclusão do trabalho planejado e a liberação dos recursos organizacionais para utilização em novos empreendimentos. Esse processo é realizado uma vez ou em pontos predefinidos no projeto.
+
+u Ações e atividades necessárias para atender os critérios de conclusão ou encerramento para a fase ou projeto
+u Atividades relacionadas com a conclusão dos acordos contratuais aplicáveis ao projeto ou fase do projeto
+u Ações e atividades necessárias para transferir os produtos, serviços ou resultados do projeto para a próxima fase ou para produção e/ou operações.
+u Coletar sugestões para aprimoramento ou atualização das políticas e procedimentos da organização e enviá-las à unidade organizacional apropriada.
+u Avaliar a satisfação das partes interessadas.
+
+
+
+
+

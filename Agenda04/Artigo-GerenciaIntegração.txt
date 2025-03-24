@@ -1,0 +1,38 @@
+https://escritoriodeprojetos.com.br/gerenciamento-da-integracao-do-projeto/#google_vignette
+
+ARTIGO A RESPEITO DE GERENCIAMENTO DE INTEGRAÇÃO
+
+O QUE É?
+
+o gerenciamento da integração inclui os processos e atividades para identificar, definir, combinar, unificar e coordenar os vários processos e atividades de gerenciamento de projeto dentro dos cinco grupos de processos de gerenciamento do projeto (Iniciação, Planejamento, Execução, Monitoramento e Controle e Encerramento).
+
+QUAL OBJETIVO?
+
+Gerenciamento da Integração tem como objetivo integrar e consolidar as atividades e os processos das demais areas de conhecimentos.
+
+Por exemplo, ao desenvolver o PGP, Pplano de Gerenciamento de Projeto, deve-se consolidar os nove processos de planejamento, os quais se referem as demais areas de conhecimento.
+
+Quando implemento uma metodologia em um escritório de projetos, normalmente, consolido todos esses processos e atividades em um único passo. O SCRUM, por exemplo, possui apenas uma cerimonia para seu planejamento, o SprintPlanning.
+
+FUNDAMENTOS DA GERENCIA DE INTEGRAÇÃO
+O gerenciamento da integração define onde e quando concentrar recursos e esforço, tratando problemas antes de se tornarem críticos e coordenando o trabalho visando sempre o sucesso do projeto. Alguns aspectos a serem considerados:
+
+  Os processos de controle de mudanças estão alinhados com as diretrizes de controle de mudanças do PMO?
+As metas e os objetivos do projeto estão evidenciados no plano do projeto?
+  Avaliar de maneira integrada qualquer necessidade de replanejamento.
+  Usar o plano de gerenciamento das comunicações para garantir informações disponíveis para as áreas necessárias.
+
+O líder do projeto deve atuar como um maestro, conectando e engajando as pessoas para que todos estejam em sintonia e os objetivos do projeto sejam atendidos.
+
+
+
+
+
+
+
+
+
+
+
+
+
