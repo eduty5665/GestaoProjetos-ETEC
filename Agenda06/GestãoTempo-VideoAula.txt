@@ -1,0 +1,10 @@
+administrar as atividade no tempo dado, estipulado
+tempo = dinheiro
+nao pode perder tempo
+
+gerenciar cronograma
+definição atividades
+sequenciamento de atividade
+estimativa de duração das atividades
+desenvolvimento do cronograma
+controle do cronograma

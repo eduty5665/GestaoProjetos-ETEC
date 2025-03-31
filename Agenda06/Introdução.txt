@@ -1,0 +1,36 @@
+MOMENTO DE REFLEXÃO
+
+“O que eu penso a respeito da vida é que um dia ela vai perguntar
+O que é que eu fiz com os meus sonhos
+E qual foi o meu jeito de amar.
+O que é que eu deixei pras pessoas que no mundo vão continuar...”
+                                                                                    Jorge Trevisol.
+
+
+A passagem do tempo é algo totalmente involuntário não é mesmo? Mesmo que não queiramos o tempo passa, nos tornamos mais velhos e se não o aproveitarmos bem não conseguiremos tirar proveito dele.
+
+
+Ora, embora não tenhamos controle sobre a velocidade do tempo, é perfeitamente possível que tenhamos controle daquilo que fazemos enquanto ele passa. Aproveitá-lo bem, para que os projetos sejam realizados dentro de um prazo razoável, não constitui uma tarefa fácil, mas também não é impossível se utilizarmos as ferramentas certas. Pois, é justamente sobre uma dessas ferramentas que iremos tratar nesse capítulo. Vamos lá?
+
+
+POR QUE APRENDER?
+
+Para que serve um diagrama de redes? Talvez essa seja a pergunta mais pertinente quando nos referimos a esse assunto.
+
+
+Pois bem, o digrama de rede nos leva a uma visão geral e ao mesmo tempo a uma análise crítica de todas as atividades do projeto, no que se refere ao tempo de duração de cada uma e também do todo.
+
+
+Mas porque uma análise crítica? Porque num grande projeto existem várias atividades que são realizadas simultaneamente. Entretanto, algumas delas podem sofrer alguns atrasos na sua execução, mas nem por isso irão influenciar no prazo de conclusão do projeto como um todo, ou seja, essas atividades possuem alguma folga de tempo e podem ser atrasadas sem causar prejuízos.
+
+
+Em contrapartida, existem atividades que chamamos de críticas, pois se atrasarem, certamente provocarão atrasos na conclusão do projeto.
+
+PARA COMEÇAR O ASSUNTO
+
+Você já deve saber que em um projeto há uma sequência de atividades não é mesmo? Essas atividades são detalhadas na EAP que você já viu no conteúdo relativo ao escopo do projeto (agenda 5).
+
+
+Pois bem, existem atividades que para serem iniciadas necessitam que outras já estejam concluídas. Por exemplo, para que as paredes de uma casa sejam erguidas é necessário que o alicerce já esteja pronto. Não dá para fixar uma tomada sem antes ter passado os fios pelo condutor.
+E assim por diante...
+

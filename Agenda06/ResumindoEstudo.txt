@@ -1,0 +1,40 @@
+RESUMINDO O ESTUDO
+
+--Definição das Atividades/Escopo
+Identificar as atividades que deverão ser executadas para produzir os diversos subprodutos do projeto
+Pacotes de Trabalho --> menores porções possiveis das atividades que se devem ser executadas no projeto
+
+--Atividades Criticas
+grau de complexidade maior
+demandam maior atenção
+algo de mais precisão
+nao podem atrasar
+
+--Caminho Critico
+composto por atividades criticas
+atividades que nao podem sofrer atrasos sob pena de atrasar todo projeto, como um todo.
+maior caminho, mais demorado
+
+--Sequenciamento das Atividades
+Identificar e documentar as relacoes de dependencias entre atividades
+pegar quais dependem de quais
+
+
+--Estimativa de Duração de cada Atividade
+Estimar a duração de cada atividade
+
+      Tabela de Todas as Atividades do Projeto
+         Atividade || Duração || Dependencia
+
+--Diagrama de Redes
+enumerar quantos caminhos serão necessarios
+colocar/dispor as atividades por volta dele
+com nome e tempo
+
+cada bolinha é um nó --> inicio e fim de atividade
+Caminho --> A B C = 13 Dias
+Caminho --> D E F = 17 Dias (Caminho Critico)
+
+Cada unidade de tempo corresponde a um dia
+
+

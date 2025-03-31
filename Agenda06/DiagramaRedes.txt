@@ -1,0 +1,19 @@
+DIAGRAMA DE REDES
+
+apos eap desenvolver tal diagrama é essencial
+
+o diagrama expoe a sequencia logica das atividades
+
+PERT - tecnica de Avaliação e Revisão do Programa
+CPM - Metodo do Caminho Crítico
+
+ Atividade || Duração em Dias || Dependencia
+
+duração --> tempo da eap
+dependencia --> atividade que precede a outra, uma que precisa acabar para que comece a outra
+
+O caminho mais longo é o que chamamos de caminho crítico, isto é, aquele cujas atividades não podem sofrer nenhum atraso sob pena de atrasar a conclusão do projeto. A maneira mais fácil para descobrir qual é o caminho mais longo, é somando os tempos.
+
+critico = mais longo, mais demorado
+
+Numa outra linha de ideia, é possível ainda dizer que caso seja necessário, o gestor poderá “emprestar” recursos humanos, materiais ou financeiros dessas atividades para auxiliar momentaneamente as atividades do caminho crítico.
