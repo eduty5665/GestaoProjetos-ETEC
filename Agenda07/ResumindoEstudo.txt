@@ -1,0 +1,18 @@
+RESUMINDO O ESTUDO
+
+gestão do tempo e as atividades criticas
+Grafico de Gantt
+
+qual é o tempo total do projeto
+vamos terminar a tempo
+quais recursos precisaremos para cada etapa
+quantos e quais profissionais
+quanto vai custar
+
+WBS ou EAP
+Work BreakDown Struture
+
+Tabela com duração das atividades e suas dependencias
+
+Grafico de Gantt, mostra o tempo e as depencias de cada atividade
+

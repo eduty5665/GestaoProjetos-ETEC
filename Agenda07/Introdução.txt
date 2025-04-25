@@ -1,0 +1,16 @@
+MOMENTO DE REFLEXÃO
+
+-Canção pro Tempo - Projota
+
+POR QUE APRENDER
+
+A palavra “Kairós” é de origem grega e significa “momento certo” ou “momento oportuno”. Ora, como você está estudando gestão de projetos, esse é o momento certo e oportuno para compreender o que significa a palavra “cronos”, que de certa forma tem algo a ver com o Kairós. Segundo a mitologia grega, a palavra “Cronos” significa a personificação do tempo. Isso é muito apropriado para o nosso estudo nessa agenda, pois o gráfico de Gantt nada mais é do que um cronograma, ou seja, um gráfico que mostra o tempo gasto em cada atividade e, na somatória de todas elas, o tempo total do projeto. Conseguir enxergar o tempo a ser gasto em cada atividade de um projeto, bem como ter uma visão do projeto como um todo é muito útil, pois nos dá a possibilidade de fazer previsões que responderão questões do tipo:
+
+Qual é o tempo total do projeto? Vamos terminar a tempo? Quais recursos precisaremos para cada etapa? Quantos e quais profissionais?Quanto vai custar? Que materiais e equipamentos serão necessários? É possível “emprestar” recursos de atividades não críticas para outras atividades que são consideradas críticas?
+
+No caso de um projeto financiado por bancos públicos, por exemplo, é necessário saber se haverá ou não a liberação de recursos financeiros dependendo da conclusão de cada etapa.
+
+PARA COMEÇAR O ASSUNTO
+
+Um dos grandes desafios na hora de elaborar um plano de projeto é justamente estimar o tempo de duração de cada uma das atividades e organizar a sequência das mesmas de maneira que possibilite a realização do projeto dentro do prazo previamente acordado. Além do risco de ocorrer algumas imprecisões na determinação do tempo, podemos ainda nos deparar com uma série de imprevistos que não podemos controlar. Portanto, para que se tenha um melhor controle da situação é preciso que os prazos e a sequência de atividades possam ser visualizados com facilidade. Pequenos ajustes nos tempos de execução de cada atividade são comuns, contudo é preciso que toda e qualquer alteração seja informada aos interessados (stakeholders).
+

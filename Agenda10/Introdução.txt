@@ -1,0 +1,50 @@
+MOMENTO DE REFLEXÃO
+
+Musica Cotidiano - Chico Buarque
+
+Você sabia que a palavra “ISO” em grego significa igual? Você sabia que a sigla ISO significa International Organization for Standardization (Organização Internacional para a Padronização)? Pois é, padronizar é tornar igual. A música Cotidiano fala justamente de fazer sempre a mesma coisa e do mesmo jeito. Isso, no contexto das organizações, diz respeito ao planejamento operacional e é justamente o "fazer sempre igual" aplicado aos processos que leva à excelência da qualidade. Atingir um nível de excelência naquilo que se faz é algo extremamente difícil. Não é mesmo? Pois é justamene nesse contexto que colocamos o vídeo a seguir  que fala da regra das 10000 horas. Ela também está relacionada ao tema do nosso estudo.
+
+https://youtu.be/8qc4dKLcksY?si=K-cQbo-31CnRl4MB
+
+POR QUE APRENDER
+
+Muitas pessoas acham que o objetivo principal de uma organização é a obtenção de lucros. Entretanto, sabemos que o lucro é apenas uma consequência. Consequência de quê? Consequência da satisfação das pessoas. Somente a satisfação das pessoas é que pode garantir o sucesso e a sobrevivência de um empreendimento. Pois é justamente por isso que precisamos dominar os princípios da qualidade total. Por quê é importante saber sobre qualidade num projeto? O primeiro passo na gestão de qualidade tanto de um projeto, como de um produto, é o estabelecimento do que se entende por qualidade. Isso significa estabelecer quais são as características ou padrões que o projeto ou produto deve ter para atender às expectativas dos interessados. Então, a qualidade no projeto pode garantir o sucesso da empreitada... Observe os seguintes termos que estudaremos mais adiante: planejamento da qualidade, gerenciamento da qualidade e controle da qualidade. Pense no sentido destes termos, especialmente, quando estiverem todos reunidos. 
+
+PARA COMEÇAR O ASSUNTO
+
+O termo qualidade é muito mais do que um simples conceito, antes ele se configura como uma filosofia de trabalho. A preocupação em buscar a perfeição e fazer tudo da melhor forma possível, constitui um jeito de ser de cada pessoa e, por conseguinte, de cada profissional e de cada organização. Justamente por ser uma filosofia, deve perpassar todas as fases de um projeto. Para que se consiga atender esse requisito o gerenciamento da qualidade se divide em:
+
+1. Planejar o Gerenciamento da Qualidade;
+
+2. Gerenciar a Qualidade;
+
+3. Controlar a Qualidade.
+
+ 
+
+1. PLANEJAR O GERENCIAMENTO DA QUALIDADE
+
+O termo qualidade está intimamente ligado ao que se conhece como padrão. Imagine a seguinte situação: Você possui um carro que num dado momento apresenta um barulho na suspensão. Ao levar no mecânico, o mesmo constata que o problema está num parafuso quebrado. Esse parafuso possui uma medida específica e só existe naquele modelo de automóvel. O mecânico encomenda a peça e simplesmente a substitui. Pronto, problema resolvido. Como é possível que o parafuso comprado possua exatamente a mesma medida daquele que quebrou? A resposta é que as linhas de produção obedecem a padrões. Os processos de fabricação e produtos são padronizados. Uma vez estabelecidas as características e especificações técnicas se faz necessário estabelecer o “como fazer”, ou seja, definir também os padrões de procedimentos. É como definir a “receita de um bolo” e o modo de executála corretamente. Um resultado só é associado como de boa qualidade quando todas as expectativas estão satisfeitas, ou seja, está dentro dos padrões pré-estabelecidos.
+
+Para o estabelecimento de padrões deve-se ter em mãos e em mente:
+
+a) Política de qualidade (Intenções e direcionamentos da organização);
+
+b) Declaração de escopo (Documentação com os objetivos e os subprodutos do projeto);
+
+c) Descrição do produto (Detalhes e questões técnicas etc);
+
+d) Padrões e regulamentações (Regulamentos, leis, especificações técnicas. Aqui deve-se considerar questões da Gerência de riscos do projeto);
+
+e) Outras saídas de processos (Considerar questões relativas a outras áreas de conhecimento que possam afetar a qualidade).
+
+Para o planejamento da qualidade deve-se ter ainda em mente a utilização de ferramentas e técnicas necessárias a tal objetivo. O guia PMBOK descreve algumas delas, mas evidentemente não esgota o assunto.
+
+2. GERENCIAR A QUALIDADE
+
+
+Antigamente muitas empresas garantiam a qualidade de seus produtos por meio de inspeções 100%. Produziam primeiro, depois inspecionavam e enviavam para seus clientes apenas aquilo que estava estritamente dentro dos padrões. Ora, trabalhar dessa forma provoca, dentre outras coisas, um grande aumento nos custos, pois o custo para produzir uma peça defeituosa é o mesmo da peça sem defeitos, concorda? Certamente, a maneira mais correta é fazer com que os produtos não apresentem defeitos. A única maneira de conseguir isso é por meio de uma filosofia de trabalho implementada em todas as etapas dos processos. O controle deve estar presente em cada porção de trabalho, monitoradas por auditorias de qualidade que observarão se os padrões operacionais estão sendo seguidos. Pois é justamente aí que entra o próximo item.
+
+3. CONTROLAR A QUALIDADE
+
+O controle está presente em todas as etapas do projeto. Durante o controle ocorre a coleta de dados estatísticos que irão auxiliar no levantamento de possíveis causas de não conformidades. Isso por sua vez levará a tomada de decisões que permitirão ajustes nos processos com o objetivo de diminuir retrabalhos e a melhoria contínua dos resultados.

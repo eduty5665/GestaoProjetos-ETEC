@@ -1,0 +1,57 @@
+INTRODUÇÃO
+
+O gerenciamento dos custos do projeto inclui os processos usados em planejamento, estimativa, orçamento, financiamento, gerenciamento e controle dos custos, para que o projeto possa ser realizado dentro do orçamento aprovado. Os processos de Gerenciamento dos Custos do Projeto são:
+
+7.1 Planejar o Gerenciamento dos Custos—O processo de definir como os custos do projeto serão estimados, orçados, gerenciados, monitorados e controlados.
+
+7.2 Estimar os Custos—O processo de desenvolver uma aproximação dos recursos monetários necessários para terminar o trabalho do projeto.
+
+7.3 Determinar o Orçamento—Processo que agrega os custos estimados de atividades individuais ou pacotes de trabalho para estabelecer uma linha de base dos custos autorizada.
+
+7.4 Controlar os Custos—O processo de monitoramento do status do projeto para atualizar custos e gerenciar mudanças da linha de base dos custos.
+
+Em alguns projetos, especialmente aqueles com menor escopo, a estimativa e orçamento de custos estão tão firmemente interligados que podem ser vistos como um processo único, que pode ser realizado por uma pessoa num período de tempo relativamente curto. Esses processos estão aqui apresentados como processos distintos pois as ferramentas e técnicas de cada um deles são diferentes. A habilidade de influenciar o custo é maior nos estágios iniciais do projeto, tornando crítica a definição inicial do escopo.
+
+
+
+CONCEITOS CHAVE
+
+O Gerenciamento dos Custos do Projeto preocupa-se principalmente com o custo dos recursos necessários para completar as atividades do projeto. O Gerenciamento dos Custos do Projeto deve considerar o efeito das decisões do projeto no custo recorrente subsequente do uso, manutenção e suporte do produto, serviço ou resultado do projeto. Por exemplo, limitar o número de revisões do design pode reduzir o custo do projeto mas poderia aumentar os custos operacionais resultantes do produto. Outro aspecto do gerenciamento de custos é reconhecer que diferentes partes interessadas medem os custos do projeto de maneiras diferentes, em tempos diferentes. Por exemplo, o custo de um item adquirido pode ser medido quando a decisão de contratação é tomada ou comprometida, o pedido é feito, o item é entregue, ou o custo real é incorrido ou registrado para fins de contabilidade do projeto. Em muitas organizações, o prognóstico e análise do desempenho financeiro do produto do projeto é realizado fora do projeto. Em outras, como projeto de facilidades de capital, o Gerenciamento dos Custos do Projeto pode incluir esse trabalho. Quando esses prognósticos e análises são incluídos, o Gerenciamento dos Custos do Projeto pode abordar processos adicionais e muitas técnicas gerais de gerenciamento como retorno do investimento, fluxo de caixa descontado e análise da recuperação do investimento.
+
+
+
+GVA --> Gerenciamento do Valor Agregado
+PA --> Prazo Agregado
+TR --> Tempo Real
+Variação de Prazos --> PA - TR
+Se a quantidade for maior que zero, projeto adiantado
+ou seja projeto ganhou mais tempo do que deveria em determinado ponto
+IDP --> Indice Desempenho Prazo (PA dividido TR)
+
+TAILORING
+
+u Gerenciamento do Conhecimento. A organização tem um repositório de banco de dados financeiros e de
+gerenciamento do conhecimento que o gerente do projeto é obrigado a usar e que possa ser facilmente acessado?
+u Estimativa e orçamento. A organização adota estimativa de custos e orçamento, formal ou informal, relativa `as
+políticas, procedimentos e diretrizes?
+u Gerenciamento do Valor Agregado. A organização usa gerenciamento do valor agregado no gerenciamento
+dos projetos?
+u Uso da abordagem ágil. A organização usa metodologias ágeis na administração dos projetos? De que modo
+isto causa impacto à estimativa de custos?
+u Governança. A organização tem políticas, procedimentos e diretrizes de auditoria e governança, formal
+ou informal?
+
+GERENCIAMENTO EM SI
+
+* Plano de Gerenciamento de Cronograma
+O plano de gerenciamento do cronograma estabelece os critérios e as atividades para o desenvolvimento, monitoramento e controle do cronograma. O plano de gerenciamento do cronograma fornece processos e controles que irão afetar a estimativa e o gerenciamento dos custos
+
+* Plano de gerenciamento de Riscos
+O plano de gerenciamento dos riscos fornece a abordagem para identificar, analisar e monitorar os riscos. O plano de gerenciamento dos riscos fornece processos e controles que irão afetar a estimativa e o gerenciamento dos custos.
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+MOMENTO DE REFLEXÃO
+
+“Inventamos uma montanha de consumos supérfluos. Compra-se e descarta-se. Mas o que se gasta é o tempo de vida. Quando compro algo, ou você compra, não pagamos com dinheiro, pagamos com o tempo de vida que tivemos que gastar para ter aquele dinheiro” José Mujica.
+
+Você já pensou que o custo e o tempo estão intimamente ligados?
+
+POR QUE APRENDER
+
+Quando nos deparamos com um novo projeto em nossas vidas, a primeira coisa que certamente devemos pensar é: quanto isso irá custar, não é mesmo?
+
+Seja na reforma ou construção de uma moradia, na aquisição de um novo veículo, ou na decisão de se casar, sempre nos deparamos com o fator custo. Isso é perfeitamente normal, pois, afinal, não se pode começar algo se não tiver condições financeiras para terminá-lo. Correto?
+
+Evidentemente que nos projetos corporativos isso não é diferente. A relação custo x benefício sempre deve estar presente.
+
+PARA COMEÇAR O ASSUNTO
+
+Ao iniciar um projeto, a gerência de custos deve começar pelo Planejamento de recursos. O planejamento de recursos tem início com base na EAP (que estudamos na agenda 5). Além da EAP deve-se dar atenção, ainda, às informações históricas, à declaração de escopo, à descrição do quadro de recursos e, evidentemente, às políticas organizacionais. Traduzindo em miúdos significa levantar quais recursos (humanos e materiais) serão necessários para dar andamento ao projeto. Em seguida, passamos à estimativa de custos. Ou seja, fazer uma estimativa de quanto irá custar cada um desses recursos, obedecendo às regras internas da organização no que se refere à realização de aquisições. A estimativa pode ser realizada utilizando diferentes técnicas como: analogias, modelo paramétrico, de baixo para cima e ferramentas computacionais. O terceiro passo é providenciar um Orçamento de custos. Esse orçamento é a totalização das estimativas de custo por período que formará a baseline do custo. Essa baseline é usualmente representada pela curva S.
+
+É importante dizer que não há necessidade de se ter todos os recursos financeiros disponíveis no início do projeto, porém é importante que todos os stakeholders tenham conhecimento do valor total necessário para sua realização. Os recursos financeiros deverão ser liberados paulatinamente dentro de cada processo. Por essa razão, aconselha-se a elaboração de um fluxo de caixa e um cronograma financeiro. Por fim, cumpre estabelecer o controle de custos.
+
+Estabelecer o monitoramento do desempenho dos custos, assegurar que todas as mudanças sejam registradas corretamente no baseline, impedir o registro de mudanças incorretas e informar adequadamente todas as partes envolvidas.

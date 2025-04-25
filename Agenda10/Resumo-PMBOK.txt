@@ -1,0 +1,47 @@
+GERENCIAMENTO DE QUALIDADE
+
+O Gerenciamento da Qualidade do Projeto inclui os processos para incorporação da política de qualidade da organização com relação ao planejamento, gerenciamento e controle dos requisitos de qualidade do projeto e do produto para atender os objetivos das partes interessadas. O Gerenciamento da Qualidade do Projeto também oferece suporte às atividades de melhoria contínua de processos quando realizadas em nome da organização executante.
+
+-- Planejar o gerenciamento de qualidade
+-- Gerenciar a qualidade
+-- Controlar a qualidade
+
+Os processos de Gerenciamento da Qualidade do Projeto são apresentados como distintos e com interfaces definidas, embora, na prática, eles se sobreponham e interajam de maneiras que não podem ser completamente detalhadas no Guia PMBOK®. Além disso, esses processos de qualidade podem ser diferentes dentro de setores e empresas.
+
+Gerenciar a Qualidade refere-se ao gerenciamento dos processos de qualidade ao longo do projeto. Durante o processo Gerenciar a Qualidade, os requisitos de qualidade identificados no processo Planejar a Qualidade são convertidos em instrumentos de teste e de avaliação, que depois são aplicados durante o processo Controlar a Qualidade, para verificar se esses requisitos de qualidade são atendidos pelo projeto. Controlar a Qualidade referese a comparar os resultados do trabalho com os requisitos de qualidade para garantir que o resultado seja aceitável. Há duas saídas específicas da Área de Conhecimento de Gerenciamento da Qualidade do Projeto que são usadas por outras Áreas de Conhecimento: entregas verificadas e relatórios de qualidade.
+
+
+
+u Cumprir os requisitos do cliente sobrecarregando a equipe do projeto pode resultar em redução dos lucros e aumento dos níveis de riscos gerais do projeto, atritos entre os funcionários, erros ou retrabalho.
+u Cumprir os objetivos do cronograma do projeto apressando as inspeções de qualidade planejadas pode resultar em erros não detectados, redução de lucros e aumento de riscos pós-implementação.
+
+
+
+Qualidade e grau são conceitos diferentes. Qualidade como um desempenho na entrega ou resultado é “o grau em que um conjunto de características inerentes atende aos requisitos” (ISO 9000) [18]. Grau como uma intenção do projeto é uma categoria atribuída às entregas que têm a mesma utilidade funcional, mas diferentes características técnicas. O gerente do projeto e a equipe de gerenciamento do projeto são responsáveis por administrar as compensações associadas à entrega dos níveis requeridos de qualidade e grau. Embora um nível de qualidade que não cumpra os requisitos de qualidade seja sempre um problema, um produto de baixo grau pode não ser. 
+
+
+
+u Talvez não seja um problema se um produto adequado de baixo grau (com um número limitado de recursos) for de alta qualidade (sem defeitos óbvios). Neste exemplo, o produto seria apropriado para o objetivo geral de uso.
+u Pode ser um problema se um produto de alto grau (um com muitos recursos) for de baixa qualidade (com muitos defeitos). Em essência, as muitas funções seriam ineficazes e/ou ineficientes devido à baixa qualidade.
+u Prevenção (manter os erros fora do processo) e inspeção (manter os erros fora do alcance do cliente);
+u Amostragem de atributos (o resultado está em conformidade ou não está em conformidade) e amostragem de variáveis (o resultado é classificado em uma escala contínua que mede o grau de conformidade); e
+u Tolerâncias (uma faixa especificada de resultados aceitáveis) e limites de controle (que identificam os limites de variação comum em um processo estatisticamente estável ou desempenho do processo).
+
+
+
+O custo da qualidade (CDQ) inclui todos os custos incorridos durante a vida do produto através de investimentos na prevenção do não cumprimento dos requisitos, na avaliação do produto ou serviço quanto ao cumprimento dos requisitos, e ao não cumprimento dos requisitos (retrabalho). Os custos de falhas geralmente são categorizados como internos (encontrados pela equipe do projeto) e externos (encontrados pelo cliente). Os custos de falhas também são chamados de custos de má qualidade. A Seção 8.1.2.3 fornece alguns exemplos a serem considerados em cada área. As organizações optam por investir em prevenção de defeitos, devido aos benefícios ao longo da vida do produto. Como os projetos são temporários, decisões sobre o CDQ ao longo do ciclo de vida de um produto com frequência são a preocupação do gerenciamento de programas, do gerenciamento de portfólio, do EGP ou de operações.
+
+
+#-------------------#--------------------#----------------------#----------------------
+
+Satisfação do Cliente
+Melhoria Continua
+Responsabilidade de Gerencia
+Parceria mutuamente benéfica com fornecedores
+Conformidade com politicas e auditoria
+Padrões e conformidade com regulamentações
+Engajamento das partes interessadas
+
+
+
+

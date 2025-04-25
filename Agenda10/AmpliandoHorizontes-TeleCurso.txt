@@ -1,0 +1,85 @@
+GERENCIAMENTO DE QUALIDADE - TELECURSO
+
+CAPITULO 10
+
+Musicas:
+-Ai que saudades da Amélia
+-Se todos fossem iguais a você
+-Nobody does it better
+
+Livros:
+-Administração nos novos tempos
+
+Agilidade no processamento das avaliações
+Aumento da produtividade
+Satisfação dos clientes
+Início da organização dos processos 
+
+•	 Desempenho.
+•	 Características.
+•	 Aparência.
+•	 Confiabilidade.
+•	 Durabilidade.
+•	 Utilidade.
+•	 Atendimento.
+•	 Segurança.
+
+Projeto do produto ou serviço: produtos e serviços devem ser desenhados após definição do público-alvo, a quem a empresa deve conhecer profundamente, de modo que o produto reflita, em todas as suas características, seus desejos e necessidades.
+
+Processos de produção: os processos de produção devem estar voltados exclusivamente a agregar valor ao cliente e produzir aquilo que ele deseja.
+
+Conformidade: o resultado dos processos de produção deve coincidir exatamente com aquilo que foi definido no projeto.
+
+Atendimento ao cliente: sempre que entrar em contato com a empresa, o cliente deve ser tratado com a cordialidade, gentileza, honestidade e justiça que espera.
+
+Cultura de qualidade: todos na empresa, sem exceção, devem pensarmsempre em como melhorar os processos de trabalho ou como adequar-se mais às expectativas dos clientes. Esse processo é contínuo, deve constituir uma disciplina de trabalho.
+
+*Gestão da Qualidade Total (GQT) é o nome que se dá ao esforço de uma organização para trabalhar dentro de uma filosofia de qualidade.*
+
+*Qualidade é o resultado do trabalho da organização e depende de cada uma das pessoas da equipe. A qualidade de um produto ou serviço é dada pela percepção de seus clientes sobre o grau em que aquele produto ou serviço atende às suas expectativas*
+
+KAIZEN SIGNIFICA APRIMORAMENTO CONTINUO, ENVOLVENDO TODOS OS FUNCIONARIOS.
+
+
+#----------------------#--------------------------#--------------------------#---------------------------
+
+
+CAPITULO 11
+
+MELHORAR SEMPRE
+
+  --Kaizen: é uma palavra de origem japonesa com o signifi cado de melhoria contínua, gradual, na vida em geral (pessoal, familiar, social e no trabalho). O sistema de produção Toyota é conhecido pela sua aplicação do princípio de Kaizen.
+  Envolve uma série de procedimentos, em que todos os funcionários, desde o responsável pelas atividades mais simples até a alta gerência, assumem o compromisso de melhoria contínua da empresa. A ideia é que o sucesso seja conquistado através de pequenos melhoramentos e esforços frequentes
+
+
+   --5S (Seiri, Seiton, Seiso, Seikketsu, Shitsuke):  É um programa que também aponta para a melhoria da qualidade de uma organização; De origem japonesa, tem como objetivos a eliminação do desperdício e a transformação do local de trabalho em um ambiente agradável, tanto no aspecto físico quanto nas relações interpessoais. Assim, ele cria um ambiente propício à implantação de um programa de qualidade, partindo do princípio de que tudo pode ser melhorado. O programa Seis Sigma preza um desempenho de produção voltado para o zero defeito.
+   O programa 5S foi concebido por Kaoru Ishikawa, em 1950, no Japão, depois da derrota na Segunda Guerra Mundial, devido à necessidade de reorganizar o país. Faltava tudo: roupas, moradia, trabalhadores, alimentos, máquinas etc. Era fundamental evitar o desperdício. O programa foi tão eficaz que até hoje é um importantíssimo instrumento de gestão da qualidade naquele país.  
+
+
+CICLO PDCA
+
+Plan, Do, Check, Action (PDCA):
+O ciclo PDCA se baseia no controle de processos – ele serve para tornar mais claros e ágeis os processos envolvidos na execução da gestão.
+
+Planejamento (PDCA) – Definir o que queremos, estabelecer metas e definir os procedimentos e processos que permitirão atingir as metas propostas.
+Execução (PDCA) – Realizar as atividades, executar o planejado conforme definido.
+Verificação (PDCA) – Monitorar e controlar os processos e resultados, inclusive se a execução está ocorrendo conforme o planejado. É recomendável a elaboração de relatórios para monitoramento, controle e avaliação.
+Ação (PDCA) – Fazer as alterações levantadas na fase de verificação, tomando ações corretivas, levantando as ações preventivas ou de melhoria. Hora de aprimorar o processo de execução.
+
+PADRÕES ISO
+A Organização Internacional de Padronização (ISO –
+International Organization for Standardization) criou um conjunto de padrões, conhecido como ISO 9000. Diferente do que muita gente pensa, os padrões medem a qualidade dos sistemas de gerenciamento, e não produtos ou serviços específicos. 
+O conjunto de padrões ISO 9000 é composto por cinco documentos – ISO 9000 até 9004 (dados de 2011). Cada um deles detalha diretrizes, normas, entre outras especificações. O registro ISO 9000, quando conferido a uma empresa, garante que determinado sistema de gerenciamento dessa organização é adequado e atende aos padrões internacionais.
+
+PREMIO NACIONAL DE QUALIDADE
+
+O PNQ é promovido pela Fundação para o Prêmio Nacional da Qualidade (FPNQ), que é uma instituição privada e sem fins lucrativos, com sede na cidade de São Paulo.
+
+Isso promove o aumento da competitividade das empresas brasileiras, pois as ajuda a se qualificarem cada vez mais. O prêmio, que é anual, elege as empresas consideradas modelos de competência.
+
+Além do prêmio nacional, há ainda os regionais e os por setores: Prêmio da Qualidade na Agricultura, Prêmio Qualidade do Rio Grande do Sul, Prêmio Qualidade Rio,
+Prêmio Qualidade Amazonas, Prêmio Paulista de Qualidade da Gestão, entre outros.
+
+
+
+*A certificação de qualidade é como um diploma, que atesta que a empresa produz com qualidade.*

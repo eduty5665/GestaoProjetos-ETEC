@@ -1,0 +1,28 @@
+Neste link você pode conferir de forma resumida os cinco estágios de Tuckman (Bruce Wayne Tuckman). Em 1965, ele descreveu os estágios da formação de grupos (Forming, Storming, Norming, Performing e Ending). Vale a pena ler este conteúdo!
+
+https://www.opus-software.com.br/insights/modelo-de-tuckman/#:~:text=O%20Modelo%20de%20Tuckman%2C%20criado,e%205%2DTermination%2FEnding.
+
+Em síntese, esse framework explora a ideia de que para alcançar o potencial de produtividade, um time precisa passar por um processo de formação, o que engloba fatores, como desenvolvimento de confiança, entrosamento, definição de papéis e identidades, alinhamento de expectativas, regras pré-estabelecidas para evolução de carreira e aprendizado.
+
+Ou seja, se montarmos uma equipe pensando apenas no talento, sem considerar esses itens, ou mesmo, o tempo de onboarding de uma nova pessoa no time, os resultados esperados podem não ser alcançados.
+
+Isso porque, quando há a necessidade de aumentar o volume de entrega ou ser mais produtivo em um projeto, a resposta mais lógica é fazer contratações. Entretanto, se a sua necessidade é alcançar esses resultados no curto prazo, é pouco provável que isso aconteça, justamente por conta desse processo de formação dos times, o que pode frustrar tanto a empresa, quanto o colaborador.
+
+Trabalho colaborativo: nós já começamos esse artigo falando sobre a importância do trabalho em equipe, porém, há aqueles que consideram o trabalho em equipe como uma distração do “trabalho real”. Entretanto, a pesquisa realizada para o livro de Tannenbaum e Salas mostrou que os times que conseguem trabalhar bem em conjunto tem performance 20% superior em relação as equipes que não conseguem.
+
+Trabalho harmônico: existe um mito de que se os colaboradores se gostarem, eles conseguirão trabalhar de forma mais harmônica, conquistando bons resultados. É claro que, preferimos trabalhar com pessoas que gostamos, entretanto, esse fator não deveria influenciar no sucesso do grupo. Até mesmo porque, discordar é importante em alguns momentos. Portanto, o ideal seria construir um ambiente em que os colaboradores se sintam confortáveis para falar e expressar suas ideias, promovendo discussões construtivas, em prol da construção de um trabalho melhor e com mais qualidade. 
+
+
+
+Comunicação: seguindo o gancho do tópico anterior, líderes e gestores não conseguem ver ou mesmo tomar conhecimento de tudo que acontece com os colaboradores, ainda mais se estamos falando de modelos de trabalho híbridos ou de liderança remota. Para se ter uma ideia, de acordo com um levantamento realizado pela Gartner, quase 80% dos trabalhadores estão usando ferramentas de colaboração para trabalhar em 2021, contra 55% em 2019. Por isso, é necessário que todos estejam dispostos a falar, reconhecer os erros, fazer perguntas e promover discussões.
+
+Segurança psicológica: você pode até achar que esse item não é tão relevante, mas quando o Google estudou seus times, eles descobriram que garantir segurança psicológica, era primeiro item na lista para melhorar a performance dos times. E, novamente, voltamos a falar sobre comunicação e como é importante criar espaços seguros, de forma que os membros do time possam discordar e trazer novas opiniões, sem serem julgados.
+
+Talentos: trazer para o time um profissional “estrela” nem sempre vai aumentar a performance da equipe. O ideal é que os talentos sejam equilibrados, justamente para que possa haver evolução e aprendizado para todos. Afinal, esse tipo de troca também faz parte da experiência do trabalho. 
+
+
+
+
+Tuckman sintetizou o desenvolvimento em grupo em 4 estágios básicos: Forming, Storming, Norming and Performing (no português: Formação, Confrontamento, Normatização e Performance). Mais tarde, em 1977, em parceria com Mary Ann Jensen, foi adicionado um quinto estágio, chamado de Termination/Ending, que seria o encerramento, para times formados para projetos específicos, por exemplo. Esse framework, também é conhecido como curva de Tuckman, como você pode acompanhar no gráfico abaixo:
+
+curva do modelo de tuckman

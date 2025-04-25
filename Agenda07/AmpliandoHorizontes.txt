@@ -1,0 +1,21 @@
+Mario trentim - Gestão de Cronograma
+
+https://youtu.be/wx2bQ-nWVBY?si=x7NbjiwWVLtpmcA8
+
+DEFINIR ATIVIDADES OU TAREFAS DO PROJETO
+
+Cronograma area mais preocupante do projeto
+pois todos querem saber qnd ira acaba-lo
+
+area de gerenciamento do programa
+
+definir as atividades
+atividades diferentes das entregas
+
+adentrar em cada pacote de trabalho e realmente destrincha-lo
+
+utilizar a EAP para criação de lista com as atividades
+facilitando a criação de um cronograma
+
+escopo - entregas, algo substancial
+tarefas - verbos das atividades

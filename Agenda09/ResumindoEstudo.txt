@@ -1,0 +1,17 @@
+RESUMINDO O ESTUDO
+
+se compra as coisas, seu custo é a vida e nao o dinheiro
+dinheiro se conquista com tempo de vida
+
+TER PREVIAMENTE
+-EAP
+-Informações historicas
+-declaração do escopo
+-descrição do quadro de recursos
+-politicas organizacionais
+
+
+CUSTO ADD NO GRAFICO DE GANTT E NA EAP
+tendo colocado o custo, voce consegue visualizar em quanto tempo gastara certa quantidade de dinheiro, para nao ultrapassar o orçamento
+
+os bancos geralmente liberam o dinheiro na medida que o projeto anda
