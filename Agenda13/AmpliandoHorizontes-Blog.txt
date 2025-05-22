@@ -1,0 +1,92 @@
+BLOG - GERENCIAMENTO DE AQUISIÇÕES
+https://escritoriodeprojetos.com.br/gerenciamento-das-aquisicoes-do-projeto/
+
+"As empresas precisam trabalhar no que elas fazem de melhor e deixar as demais áreas para empresas especializadas." 
+
+“Do what you do best and outsource the rest.”
+- Tom Peters
+
+Segundo o Guia PMBOK, o gerenciamento das aquisições do projeto inclui os processos necessários para comprar ou adquirir produtos, serviços ou resultados externos à equipe do projeto.
+
+O gerenciamento das aquisições tem como principais objetivos:
+
+-Decidir o que será feito e o que será adquirido;
+-Selecionar o melhor fornecedor para cada aquisição;
+-Monitorar as aquisições.
+
+-Vendedor = fornecedor, contratada, subcontratada, prestador de serviços ou fornecedor.
+
+-Comprador = cliente, contratante, organização compradora, órgão governamental, solicitante do serviço.
+
+
+*Os processos de gerenciamento das aquisições são descritos da perspectiva do comprador*
+
+Para descrever o que está sendo adquirido e os direitos e as obrigações do vendedor e do comprador é feito um acordo entre as duas partes, normalmente, um contrato.
+
+PLANEJAMENTO
+
+-Definir o que fazer ou adquirir e gerar lista das aquisições do projeto
+-Especificar o produto/serviço
+-Estabelecer critérios de avaliação
+-Elaborar minuta do contrato
+-Preparar pedido (RFP, RFQ, RFI)
+-Solicitar Propostas
+--Identificar lista dos fornecedores potenciais
+--Revisar as partes interessadas (Comprador x Influência x Controle sobre as decisões);
+--Divulgar pedido
+-Definir como os processos de aquisições serão executados, monitorados e encerrados e quem serão os responsáveis.
+
+5W2H --> What, Why, When, Where, Who, How, How Much
+
+Analise Make or Buy --> Segundo o Guia PMBOK®, a análise de fazer ou comprar é uma técnica geral de gerenciamento usada para determinar se um trabalho específico pode ser melhor realizado pela equipe do projeto ou se deve ser comprado de fontes externas. Considerando 100% do Escopo e baseando-se na EAP, a Análise de fazer ou comprar, determina se cada pacote de trabalho do seu projeto pode ser melhor realizado internamente ou adquirido externamente considerando todos os custos relacionados.
+
+*Aquisição Centralizada x Decentralizada*
+
+Fatores Críticos de Sucesso:
+-Definição clara do que será comprado (SOW)
+-Restrições do projeto (prazo, custo, …)
+-Decisões de fazer ou comprar
+-Riscos envolvidos em cada decisão de fazer ou comprar
+-Documento de solicitação de aquisição com critérios claros e objetivos para seleção dos fornecedores
+-Revisão do tipo de contrato e clausulas contratuais para mitigar os riscos
+-Transparência do Processo de Seleção de Fornecedores
+
+CONDUZIR
+
+-Obter respostas das solicitações (RFP, RFQ, RFI)
+--Use as Reuniões com licitantes para garantir que o fornecedor entenda corretamente sua necessidade
+--Use a Publicidade para ampliar sua lista de fornecedores em potencial.
+--Use a Pesquisa na internet principalmente para aquisição de produtos. Sites de comparação de preços ajudam a comprar pelo melhor preço com menor esforço.
+--Saída: Propostas/Cotações Recebidas
+-Classificar as propostas / Selecionar fornecedores
+--Use os Critérios para seleção de fontes para classificar as propostas
+--Para aquisições mais complexas, Técnicas de avaliação de propostas, como a criação de um comitê de avaliação pode evitar uma seleção indevida.
+--Para validar os valores das propostas, use estimativas independentes. Caso exista grandes diferenças, pode ter sido gerado por uma declaração de trabalho mal redigida e com ambiguidades.
+--A Opinião especializada é muito usada para validar o conteúdo das propostas recebidas, principalmente, nas áreas que sua empresa conhece mesmo.
+--Saída: Proposta Classificada / Fornecedor selecionado
+-Negociar e Redigir contrato
+--Negociações das aquisições
+--Opinião especializada
+-Assinar contrato/acordo
+--Saída: Assinatura do contrato de aquisição
+
+CONTROLAR
+
+“Administrar ou Controlar os contratos”
+
+-Preparar para controlar as aquisições
+-Kickoff Meeting pós assinatura do contrato
+-Pós Kickoff Meeting
+--Execução
+--Monitoramento
+
+Nesse processo, o gerente de projeto é responsável por:
+-Gerenciar as relações de aquisição,
+-Monitorar o desempenho do contrato e
+-Fazer mudanças e correções conforme necessário.
+
+
+
+MODELOS EXEMPLO
+
+O site ofecere modelos e exemplos de gereciamento de aquisições

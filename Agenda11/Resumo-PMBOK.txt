@@ -1,0 +1,59 @@
+GERENCIAMENTO DE COMUNICAÇÕES
+
+  O Gerenciamento das Comunicações do Projeto inclui os processos necessários para garantir que as necessidades de informações do projeto e de suas partes interessadas sejam satisfeitas, com o desenvolvimento de artefatos e a implementação de atividades projetadas para realizar a troca eficaz de informações. O Gerenciamento das Comunicações do Projeto consiste em duas partes. A primeira parte é desenvolver uma estratégia para garantir que a comunicação seja eficaz para as partes interessadas. A segunda parte é realizar as atividades necessárias para implementar a estratégia de comunicação. 
+
+Os processos de Gerenciamento das Comunicações do Projeto são: 
+
+10.1 Planejar o Gerenciamento das Comunicações—O processo de desenvolver uma abordagem e um plano adequado para atividades de comunicação do projeto com base nas necessidades de informação de cada parte interessada ou grupo, nos ativos organizacionais disponíveis e nas necessidades do projeto. 
+10.2 Gerenciar as Comunicações—O processo de assegurar a coleta, criação, distribuição, armazenamento, recuperação, gerenciamento, monitoramento e disposição final das informações do projeto, de forma oportuna e adequada. 
+10.3 Monitorar as comunicações—O processo de garantir que as necessidades de informação do projeto e de suas partes interessadas sejam atendidas.  
+
+CONCEITOS CHAVE
+
+*COMUNICAÇÃO  é a troca de informações, intencional ou involuntária. As informações trocadas podem estar em forma de ideias, instruções ou emoções*
+
+  As comunicações descrevem os meios possíveis pelos quais as informações podem ser enviadas ou recebidas, seja por atividades de comunicação, como reuniões e apresentações, ou artefatos, como e-mails, mídias sociais, relatórios de projeto ou documentação de projeto.
+
+-internas
+-externas
+-formais
+-informais
+-oficial
+-Não Oficial
+-Escritas e Orais
+
+
+focar nesta parte
+ - Foco hierárquico. A posição da parte interessada ou grupo com relação à equipe do projeto afetará o formato e o conteúdo da mensagem, das seguintes formas: 
+n Upward. Partes interessadas da alta administração. 
+n Downward. A equipe e outras pessoas que contribuirão para o trabalho do projeto. 
+n Horizontal. Pares do gerente do projeto ou da equipe.  
+  
+
+Comunicação BEM SUCEDIDA
+Parte I -- desenvolver uma estrategia de comunicação apropriada, a partir dessa estrategia, desenvolver um plano para que as mensagens apropriadas sejam comunicadas as partes interessadas.
+Parte II -- comunicações são produtos de processos e planejamentos de outras partes, ou seja, tudo oq fazemos no projeto gera um tipo de comunicação, o gerenciamento da comunicação visa coletar, criar, disseminar, armazenar e recuperar tais comunicações com agilidade e facilidade.
+
+*Evitar mal-entendidos e equivocos*
+  Mal-entendidos podem ser reduzidos, mas não eliminados, usando os 5Cs: 
+   Correta - Gramática e ortografia corretas. 
+ Concisa - Expressão concisa e eliminação do excesso de palavras. 
+ Clara - Propósito e expressão claros direcionados às necessidades do leitor. 
+. Coerente - Fluxo lógico e coerente de ideias. 
+Controlada - Fluxo de palavras e ideias controlado. 
+
+"Glossario": 
+Escuta Ativa:  Permanecer engajado com o palestrante e resumir as conversas para garantir a troca eficaz de informações.
+Conciencia das diferencas culturais e pessoais
+Gerenciar Expectativas dos Stakeholders
+Aprimoramento de Habilidades
+
+TENDÊNCIAS DE GERENCIAMENTO DA COM
+
+  Inclusão das partes interessadas em revisões de projetos.  
+
+  Inclusão das partes interessadas em reuniões de projetos.  
+
+  Aumento do uso da computação social  
+
+  Abordagens multifacetadas à comunicação.  

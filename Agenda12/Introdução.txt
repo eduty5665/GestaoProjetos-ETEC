@@ -1,0 +1,104 @@
+MOMENTO DE REFLEXÃO
+
+Ao atirar uma flecha o arqueiro tem total certeza de que irá atingir o alvo? Ou será que existe algum grau de incerteza? E se, por exemplo, houver uma mudança repentina na direção do vento enquanto a flecha realiza o percurso? E um equilibrista que tenta passar de um ponto para outro sobre uma corda bamba? Será que existe algum tipo de incerteza se conseguirá chegar ao outro lado? Ora, com exceção da morte, a incerteza é a única certeza que temos, não é mesmo?
+Pois é, sempre haverá alguns riscos que ameaçam o atingimento do objetivo, concorda? Mas o que fazer? Será possível minimizar os efeitos desses riscos?
+
+Todo objetivo que traçamos está a alguma distância de nós. Pois é justamente no caminho que os riscos se fazem presentes. Manter o olhar fixo no alvo e estar atento às ameaças presentes no caminho. Esse é o desafio!
+
+
+
+POR QUE APRENDER
+
+Entre o ponto em que nos encontramos e o objetivo que desejamos alcançar existe uma fração de tempo, uma gama de atividades a serem cumpridas e evidentemente uma série de incertezas. Será que vai dar certo? Será que a verba é suficiente? Quais os riscos que corremos? E se algo der errado? Um gerente de projetos certamente deverá saber prever e minimizar os riscos que são inerentes a todo projeto. Sempre haverá algo que necessitará de algum tipo de ajuste. Vamos lá?
+
+
+
+PARA COMEÇAR O ASSUNTO
+
+O gerenciamento de riscos envolve os seguintes processos:
+
+1- Planejar o gerenciamento de riscos;
+
+2- Identificação de riscos;
+
+3- Realizar a análise qualitativa dos riscos;
+
+4- Realizar a análise quantitativa dos riscos;
+
+5- Planejar as respostas aos riscos;
+
+6- Implementar respostas aos riscos;
+
+7- Monitorar os riscos.
+
+ 
+
+PLANEJAR O GERENCIAMENTO DE RISCOS
+O planejamento, aqui é a definição de como serão conduzidas as atividades de gerenciamento de riscos do projeto. Dessa forma será possível antever a gravidade de possíveis riscos e quais medidas poderão ser tomadas.
+
+IDENTIFICAÇÃO DE RISCOS
+A identificação de riscos não é algo pontual, ela deve ser realizada de forma regular ao longo de todo o ciclo de vida do projeto. Os riscos podem ser internos (inerente ao projeto) ou externos (relativo a fatores externos ao projeto). Entre as técnicas de identificação de riscos temos o Ishikawa sequencial ou diagrama de causa e efeito, que pode ser montado utilizando-se de outra técnica chamada de Brainstorming. Em uma reunião com os envolvidos em cada etapa do projeto, pede-se que cada um fale sobre os possíveis riscos, suas causas e desdobramentos. Afinal, podemos dizer que os problemas são um conjunto de causas que geram um efeito indesejável.
+
+Nessa fase de identificação deve-se considerar a natureza ou características do produto do projeto, a EAP (estrutura analítica do projeto), estimativas de custo, plano de pessoal, plano de gerência de aquisições e, evidentemente, as informações históricas.
+
+ 
+
+3- REALIZAR A ANÁLISE QUALITATIVA DOS RISCOS
+
+Esse é o processo de priorizar os riscos individuais do projeto avaliando a sua probabilidade de ocorrência e seus impactos. Dessa forma será possível concentrar esforços nos riscos de maior probabilidade.
+
+4. REALIZAR A ANÁLISE QUANTITATIVA DOS RISCOS
+
+Para a quantificação dos riscos deve-se observar questões relativas a custo, tempo, escopo e qualidade de cada fase do projeto. O guia PMBOK de gestão de projetos apresenta várias ferramentas para se quantificar os riscos. São elas:
+
+a) Valor monetário esperado: combinação entre uma estimativa da probabilidade de ocorrência de um evento de risco e uma estimativa de perda ou ganho no caso da ocorrência desse evento. Aqui recomenda-se também considerar aspectos intangíveis;
+
+b) Somas estatísticas: utilizada para calcular os custos totais do projeto a partir dos custos estimados de itens individuais;
+
+c) Simulação: Normalmente é realizada a partir de um cronograma. O modelo estatístico mais usado nesse caso é conhecido como análise de Monte Carlo;
+
+d) Árvores de decisão: É um diagrama que descreve interações entre decisões e os eventos probabilísticos;
+
+e) Avaliação especializada: pode ser utilizada em conjunto com alguma ferramenta anteriormente descrita ou em substituição a ela.
+
+5- PLANEJAR AS RESPOSTAS AO RISCO
+
+Após a quantificação busca-se o desenvolvimento das respostas aos riscos. Essas respostas se enquadram em:
+
+- Escalar: a escalação ocorre quando há consenso de que o risco está fora do escopo do projeto;
+
+- Prevenir: Atuação para a eliminação da ameaça;
+
+- Transferir: passar a ameaça a terceiros por meio de pagamento de prêmio. Um exemplo claro disso é a realização de uma apólice de seguro;
+
+- Mitigar: reduzir o valor monetário do risco reduzindo a probabilidade de sua ocorrência;
+
+- Aceitar: aceitar as consequências do risco de forma ativa ou passiva. Para o desenvolvimento de respostas aos riscos pode-se utilizar as seguintes ferramentas:
+
+a) Aquisição: dependendo do tipo de risco, a solução pode estar na aquisição de bens ou serviços externos;
+
+b) Planejamento de contingência: identificação dos passos a serem seguidos se um evento de risco ocorrer;
+
+c) Estratégias alternativas: pesquisar abordagens alternativas ao planejamento;
+
+d) Seguro: contratação de seguro se houver cobertura disponível e o custo for viável.
+
+Por fim, uma vez desenvolvidas as respostas aos riscos, esse processo se finaliza tendo em mãos:
+
+- Um plano de gerência de riscos;
+
+- Estratégias e alternativas selecionadas;
+
+- Plano de contingências, ou seja, um passo a passo a ser seguido na ocorrência de um evento identificado como risco;
+
+- Reserva, que nada mais é do que uma provisão no plano de projeto para mitigar riscos de custo e cronograma.
+
+6- IMPLEMENTAR AS RESPOSTAS AO RISCO
+
+É a implementação do plano propriamente dito. Nesse caso é o processo de garantir que as respostas acordadas sejam executadas conforme o planejado.
+
+ 7. MONITORAR RISCOS
+
+Trata-se do monitoramento da implementação dos planos, acompanhamento dos riscos identificados, identificação e análise de novos riscos e avaliação da eficácia do processo de riscos ao longo do projeto.
+
+As ferramentas desse processo são análise de dados, auditorias e reuniões.

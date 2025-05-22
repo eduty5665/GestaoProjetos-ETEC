@@ -1,0 +1,74 @@
+GERENCIAMENTO DE AQUISIÇÕES
+
+O gerenciamento das aquisições do projeto inclui os processos necessários para comprar ou adquirir produtos, serviços ou resultados externos à equipe do projeto. O Gerenciamento das Aquisições do Projeto inclui os processos de gerenciamento e controle necessários para desenvolver e administrar acordos como contratos, pedidos de compra, memorandos de entendimento (MOAs) ou acordos de nível de serviço (ANSs) internos. O pessoal autorizado a adquirir os bens e/ou serviços necessários para o projeto podem ser membros da equipe de projeto, gerência ou parte do departamento de compras da organização, se aplicável. Os processos de gerenciamento das aquisições do projeto incluem:
+
+12.1 Planejar o Gerenciamento das Aquisições— O processo de documentação das decisões de compras do
+projeto, especificando a abordagem e identificando vendedores em potencial.
+
+12.2 Conduzir as Aquisições—O processo de obtenção de respostas de vendedores, seleção de um vendedor e
+adjudicação de um contrato.
+
+12.3 Controlar as Aquisições—O processo de gerenciar relacionamentos de aquisições, monitorar o desempenho
+do contrato, fazer alterações e correções conforme apropriado e encerrar contratos.
+Os processos de aquisições são apresentados como processos distintos com interfaces definidas. Na prática,
+os processos de aquisições podem ser complexos e podem interagir entre si e com processos em outras Áreas de
+
+Conhecimento de forma que não podem ser completamente detalhadas no Guia PMBOK®. Os processos descritos nesta seção são escritos do ponto de vista em que produtos ou serviços são obtidos de fora do projeto.
+
+Os processos de Gerenciamento das Aquisições do Projeto são apresentados como processos discretos com interfaces definidas embora, na prática, eles se sobreponham de formas que não podem ser completamente detalhadas no Guia PMBOK®.
+
+CONCEITOS CHAVES
+
+O gerente do projeto não precisa ser um especialista treinado em leis e normas de gerenciamento de aquisições, mas deve estar familiarizado o suficiente com o processo de aquisições para tomar decisões inteligentes sobre contratos e relações contratuais.
+
+Os processos de Gerenciamento das Aquisições do Projeto envolvem acordos que descrevem o relacionamento entre duas partes—um comprador e um vendedor.
+
+Um contrato deve definir claramente as entregas e os resultados esperados, incluindo qualquer transferência de conhecimentos do vendedor para o comprador. Tudo o que não estiver no contrato não pode ser legalmente exigido.
+
+Um contrato de aquisição inclui termos e condições e pode incorporar outros itens especificados pelo comprador relativos ao que o vendedor deve realizar ou fornecer. A equipe de gerenciamento do projeto é responsável por assegurar que todas as aquisições atendam às necessidades específicas do projeto e, ao mesmo tempo, trabalhar com o escritório de aquisições para garantir que as políticas de aquisições da organização sejam cumpridas. Dependendo da área de aplicação, um acordo pode ser um contrato, um acordo de nível de serviços (ANS), um entendimento, um memorando de entendimento (MOA) ou um pedido de compra
+
+*considerar o efeito que a cultura e as leis locais têm sobre contratos e sua exigibilidade*
+
+O vendedor pode ser visto durante o ciclo de vida do contrato primeiro como um licitante, depois como a fonte selecionada e, finalmente, como o fornecedor ou vendedor contratado
+
+O licitante vencedor poderá gerenciar o trabalho como um projeto. Nesses casos:
+
+u O comprador torna-se o cliente para subcontratados, fornecedores e prestadores de serviços e, portanto, é uma parte interessada essencial do projeto do ponto de vista do vendedor.
+
+u A equipe de gerenciamento do projeto do vendedor pode estar envolvida em todos os processos de realizar o trabalho ou prestar os serviços.
+
+u Os termos e condições do contrato e a especificação do trabalho das aquisições (ET) tornam-se entradas principais para muitos dos processos de gerenciamento do vendedor. O contrato pode realmente conter as entradas (por exemplo, entregas mais importantes, marcos principais, objetivos de custos) ou pode limitar as opções da equipe do projeto (por exemplo, a aprovação do comprador para decisões referentes a mobilização e desmobilização de recursos muitas vezes é necessária em projetos de integração de TI). A ET de aquisição pode ter outros nomes, como especificação técnica do trabalho.
+
+u O próprio vendedor pode se tornar comprador de produtos, serviços e materiais de custo mais baixo de subcontratados e outros fornecedores.
+
+
+TENDENCIAS E PRATICAS
+
+Avanços em Ferramentas --> o uso crescente do BIM (Building Information Model) em ferramentas de software tem resultado em economia significativa de tempo e dinheiro nos projetos.
+
+Gerenciamento de Riscos Avançados --> Não lidar com riscos externos de grande porte, como o mudanças em políticas corporativas da organização compradora e mudanças em requisitos regulatórios.
+
+Mudanças em Processos Contratuais --> Megaprojetos, aumento em projetos internacionais. Para esses projetos, o uso de formas contratuais padronizadas e reconhecidas internacionalmente está aumentando, para reduzir problemas e reivindicações durante a execução.
+
+Logistica e Gerenciamento da Cadeia de Suprimentos --> É possível iniciar a contratação desses materiais, suprimentos ou equipamentos com longo prazo de entrega antes que o design final do produto final esteja concluído, com base nos requisitos conhecidos identificados no design de alto nível. Verificar requisitos, acaso haja algo que demore para ser entregue deve-se compra-lo com antecedencia.
+
+Tecnologia e Relações com as Partes Interessadas --> Webcams, instalar webcams no campo de visão do projeto, para mostrar resultados constantes aos stakeholders.
+
+Engajamento de teste --> Portanto, alguns projetos engajarão diversos vendedores candidatos para entregas iniciais e produtos de trabalho em base paga antes de assumir o compromisso completo de uma porção maior do escopo do projeto. Pelo que entendi, é como se dar um entrada pelo serviço que irão prestar, assim dando engajamento aos vendedores que precisam.
+
+CONSIDERAÇÕES SOBRE TAILORING
+
+Como cada projeto é único, o gerente de projeto pode precisar adequar a forma como os processos de Gerenciamentodas Aquisições do Projeto são aplicados. As considerações para a adaptação (tailoring) incluem, mas não estão limitadas a:
+u Complexidade das aquisições. Haverá uma aquisição principal ou várias aquisições em diferentes ocasiões com diferentes vendedores, que agregam complexidade às aquisições?
+
+u Localização física. Os compradores e vendedores estão na mesma localidade, ou razoavelmente perto, ou em diferentes fusos horários, países ou continentes?
+
+u Governança e ambiente regulatório. As leis e os regulamentos locais sobre atividades de aquisições estão integrados com as políticas de aquisições da organização? Como isso afeta os requisitos de auditoria de contratos?
+
+u Disponibilidade de contratados. Existem contratados disponíveis que teriam capacidade para executar o trabalho?
+
+CONSIDERAÇÕES PARA AMBIENTES ÁGEIS/ADAPTATIVOS
+
+Em ambientes ágeis, vendedores específicos podem ser usados para estender a equipe. Esse relacionamento detrabalho colaborativo pode resultar em um modelo de aquisições com riscos compartilhados, em que o comprador e o vendedor compartilham o risco e as recompensas associados com um projeto. 
+
+Projetos maiores podem usar uma abordagem adaptativa para algumas entregas e uma abordagem mais estável para outras partes. Nesses casos, um acordo de regência, como um acordo mestre de serviços (MSA), pode ser usado para o engajamento geral, com o trabalho adaptativo incluído em um apêndice ou suplemento. Isso permite a ocorrência de alterações no escopo adaptável sem impacto no contrato geral.

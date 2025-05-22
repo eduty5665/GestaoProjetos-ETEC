@@ -1,0 +1,40 @@
+GERENCIAMENTO DOS RISCOS
+
+  O gerenciamento dos riscos do projeto inclui os processos de condução do planejamento, da identificação, da análise, do planejamento das respostas, da implementação das respostas e do monitoramento dos riscos em um projeto. O gerenciamento dos riscos do projeto tem por objetivo aumentar a probabilidade e/ou o impacto dos riscos positivos e diminuir a probabilidade e/ou o impacto dos riscos negativos, a fim de otimizar as chances de sucesso do projeto.
+
+11.1 Planejar o Gerenciamento dos Riscos—O processo de definição de como conduzir as atividades de gerenciamento dos riscos de um projeto. 
+11.2 Identificar os Riscos—É o processo de identificação dos riscos individuais do projeto, bem como fontes de risco geral do projeto, e de documentar suas características. 
+11.3 Realizar a Análise Qualitativa dos Riscos—O processo de priorização de riscos individuais do projeto para análise ou ação posterior, através da avaliação de sua probabilidade de ocorrência e impacto, assim como outras características. 
+11.4 Realizar a análise quantitativa dos riscos—O processo de analisar numericamente o efeito combinado dos riscos individuais identificados no projeto e outras fontes de incerteza nos objetivos gerais do projeto. 
+11.5 Planejar as Respostas aos Riscos—O processo de desenvolver alternativas, selecionar estratégias e acordar ações para lidar com a exposição geral de riscos, e também tratar os riscos individuais do projeto. 
+11.6 Implementar Respostas a Riscos—O processo de implementar planos acordados de resposta aos riscos. 
+11.7 Monitorar os Riscos—O processo de monitorar a implementação de planos acordados de resposta aos riscos, acompanhar riscos identificados, identificar e analisar novos riscos, e avaliar a eficácia do processo de risco ao longo do projeto. 
+
+CONCEITOS CHAVE
+
+  Todos os projetos possuem riscos, pois são empreendimentos únicos com graus variados de complexidade que visam proporcionar benefícios. Fazem isso num contexto de restrições e premissas, respondendo ao mesmo tempo às expectativas das partes interessadas que podem ser conflitantes e mutáveis. As organizações devem optar por correr o risco do projeto de maneira controlada e intencional a fim de criar valor e, ao mesmo tempo, equilibrar riscos e recompensas.
+
+O gerenciamento dos riscos do projeto visa identificar e gerenciar os riscos que não são considerados pelos outros processos de gerenciamento de projetos. Quando não gerenciados, estes riscos têm potencial para desviar o projeto do plano e impedir que alcance os objetivos definidos do projeto. Consequentemente, a eficácia do Gerenciamento dos Riscos do Projeto está diretamente relacionada ao seu sucesso.  
+
+u O risco individual do projeto é um evento ou condição incerta que, se ocorrer, provocará um efeito positivo ou negativo em um ou mais objetivos do projeto. Os riscos individuais do projeto podem ter impactos positivos ou negativos nos objetivos do projeto, se ocorrerem. O Gerenciamento dos Riscos do Projeto objetiva explorar ou aumentar os riscos positivos (oportunidades) e, ao mesmo tempo, evitar ou reduzir os riscos negativos (ameaças). Ameaças não administradas podem resultar em questões ou problemas como atrasos, estouros de orçamento, desempenho insuficiente ou perda de reputação. As oportunidades aproveitadas podem trazer benefícios como redução de tempo e custo, melhor desempenho ou reputação.  
+
+u O risco geral do projeto é o efeito da incerteza do projeto no seu todo, decorrente de todas as fontes de incerteza, incluindo riscos individuais, representando a exposição das partes interessadas às implicações de variações no resultado do projeto, sejam positivas ou negativas.   O risco geral do projeto também pode ser negativo ou positivo. O gerenciamento do risco geral do projeto visa manter a exposição aos riscos do projeto dentro de uma faixa aceitável, reduzindo as fontes de variação negativa, promovendo as fontes de variação positiva, e maximizando a probabilidade de alcançar os objetivos gerais do projeto.
+
+TENDENCIAS E PRATICAS
+
+Riscos nao relacionados a eventos
+-Riscos de Variabilidade
+-Riscos de Ambiguidade
+
+Resiliencia do Projeto
+
+Gerenciamento integrado dos riscos
+
+VERIFICAR DEPOIS --> GLOSSARIO
+
+Porte do Projeto
+
+AMBIENTES AGEIS/ADAPTATIVOS
+
+  Ambientes de alta variabilidade, por definição, incorrem em mais incerteza e risco. Para resolver isso, os projetos gerenciados por abordagens adaptativas fazem uso de revisões frequentes de produtos de trabalho incremental e de equipes de projeto multifuncionais para acelerar o compartilhamento do conhecimento e garantir que os riscos sejam compreendidos e gerenciados. Os riscos são considerados na seleção do conteúdo de cada iteração, e os riscos também serão identificados, analisados e gerenciados durante cada iteração. 
+Além disso, os requisitos são mantidos como um documento vivo, atualizado regularmente, e o trabalho pode ser submetido a novas prioridades de acordo com o andamento do projeto, com base em uma melhor compreensão da atual exposição aos riscos.

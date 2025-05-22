@@ -1,0 +1,78 @@
+MOMENTO DE REFLEXÃO
+
+“Passeio socrático”
+
+Sócrates, filósofo grego que morreu em 399 antes de Cristo, percorria as ruas do centro comercial de Atenas, e quando era abordado por algum vendedor ele simplesmente respondia:
+
+“Estou apenas observando quanta coisa existe de que não preciso para ser feliz.”
+
+Voce compra por impoulso ou por necessidade?
+Assim como na vida, na execução de um projeto são necessarios alguns cuidados na hora de comprar, não é mesmo?
+
+Fonte: Adaptado de http://www.freibetto.org/index.php/artigos/14- artigos/20-passeio-socratico
+
+POR QUE APRENDER
+
+A tarefa de comprar pode parecer algo simples, mas lembre-se de que a viabilidade, o sucesso ou fracasso de um empreendimento tem como um dos pilares fundamentais a relação custo x benefício. Portanto, a gerência de aquisições torna-se uma função chave para o bom desenvolvimento de um projeto.
+
+PARA COMEÇAR O ASSUNTO
+
+
+O gerenciamento de aquisições se refere à obtenção de bens e serviços necessários à execução de cada uma das fases do projeto. Essa gerência pode ser melhor compreendida quando observamos as seguintes ações:
+
+Planejar o Gerenciamento das aquisições;
+Conduzir as aquisições;
+Controlar as aquisições.
+ 
+
+--Planejar o Gerenciamento das aquisições;
+
+O planejamento de aquisições é o processo de identificar as necessidades de contratação de produtos e serviços para cada uma das atividades do projeto. Nessa fase têm-se a documentação das decisões de compra. Esse planejamento deve ser baseado em alguns tópicos já estudados:
+
+a) Plano de gerenciamento de escopo: descreve como o escopo do trabalho pelos contratados será gerenciado durante a fase de execução do projeto;
+
+b) Plano de gerenciamento da qualidade: fornece informações sobre questões técnicas do produto do projeto - são os padrões preestabelecidos;
+
+c) Plano de gerenciamento de Recursos: informações sobre quais recursos serão comprados ou arrendados (make-or-buy), juntamente com quaisquer premissas e ou restrições que podem influenciar na aquisição tendo sempre em vista a relação custo x benefício.
+
+d) Linha de base do escopo: Especificações do escopo, EAP e o dicionário da EAP.
+
+Temos ainda a Seleção do tipo de contrato que consiste na escolha daquele que melhor atende às necessidades do projeto.
+
+Os passos típicos desse planejamento podem incluir:
+
+Preparar a especificação do trabalho das aquisições (ET) ou os termos de referência (TR).
+
+Preparar uma estimativa de custos de alto nível para determinar o orçamento.
+
+Divulgar a oportunidade.
+
+Identificar uma lista resumida de vendedores qualificados.
+
+Preparar e emitir documentos de licitação.
+
+Preparar e enviar propostas por parte do vendedor.
+
+Fazer uma avaliação técnica das propostas, incluindo qualidade.
+
+Fazer uma avaliação de custos das propostas.
+
+Preparar a avaliação final combinada de qualidade e custos para selecionar a proposta vencedora.
+
+Finalizar as negociações e assinar o contrato entre o comprador e o vendedor.
+
+--Conduzir as aquisições
+
+Aqui temos o processo de obtenção de respostas dos vendedores. O principal benefício desse processo é a seleção de fornecedores qualificados.
+
+A seleção das melhores propostas deve obedecer aos critérios pré-estabelecidos. Nem sempre isso é tão fácil quanto parece, pois deve-se levar em conta questões como preço (que nem sempre significa menor custo dentro do projeto por questões como adequação ao prazo), fatores técnicos e comerciais etc. A ideia aqui é preparar uma lista de fornecedores considerados qualificados para atender os pedidos de acordo com os critérios e com as políticas da organização. Evidentemente que existem algumas técnicas que podem ser aplicadas para a realização dessa seleção, dentre elas temos: Negociação contratual, Sistemas de ponderação, Sistemas de classificação e Estimativas independentes.
+
+Os resultados finais do processo são os acordos estabelecidos, incluindo contratos formais. Este processo é realizado periodicamente ao longo do projeto, conforme necessário.
+
+--Controlar as aquisições.
+
+Controlar as Aquisições e o processo de gerenciar relacionamentos de aquisições, monitorar o desempenho do contrato, fazer mudanças e correções conforme apropriado e encerrar contratos.
+
+É preciso assegurar que os fornecedores atendam de maneira adequada todos os requerimentos do contrato. Aqui deve-se considerar o contrato propriamente dito, os resultados do trabalho realizado ou produto entregue pelo fornecedor, as requisições de mudança que, porventura, tenham modificado o contrato inicial e as faturas apresentadas.
+
+Por fim ocorre o arquivamento do contrato e a aceitação formal e fechamento.

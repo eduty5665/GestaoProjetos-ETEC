@@ -1,0 +1,29 @@
+RESUMINDO ESTUDO
+
+Risco --> é sempre futuro, é um evento incerto ou condição que, se ocorrer, tem um efeito sobre, pelo menos, um objetivo do projeto.
+
+-Identificação de Riscos
+Identificar os riscos é um processo repetitivo porque novos riscos podem evoluir, ficar evidente com o andamento do projeto através de seu ciclo de vida.
+
+Entre as técnicas de identificação de riscos temos o Ishikawa sequencial ou diagrama de causa e efeito, que pode ser montado utilizando-se de outra técnica chamada de Brainstorming.
+
+Nessa fase de identificação deve-se considerar a natureza ou características do produto do projeto, a EAP, estimativas de custo, plano de pessoal, plano de gerência de aquisições e, evidentemente, as informações históricas.
+
+-Quantificação dos Riscos
+Para a quantificação dos riscos deve-se observar questões relativas a custo, tempo, escopo e qualidade de cada fase do projeto.
+
+O guia PMBOK de gestão de projetos apresenta várias ferramentas para se quantificar os riscos. Valor monetário esperado; somas estatísticas; simulação; árvores de decisão e avaliação especializada.
+
+-Desenvolvimento das Respostas aos Riscos
+Após a quantificação busca-se o desenvolvimento das respostas aos riscos: evitar, mitigar ou aceitar.
+
+*aquisição
+*planejamento de contingência
+*estratégias alternativas
+*seguro
+
+-Controle das Respostas aos Riscos
+O resultado previsto nesse processo é a tomada de ações corretivas e uma atualização do plano de riscos.
+
+*Desvios (WorkArounds)
+*Desenvolvimento de respostas a riscos adicionais
