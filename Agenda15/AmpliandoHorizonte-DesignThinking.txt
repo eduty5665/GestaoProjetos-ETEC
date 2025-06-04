@@ -1,0 +1,12 @@
+DESIGN THINKING
+
+Cumpre dizer que o Design Thinking não é exatamente uma metodologia ágil, mas pode ser extremamente útil ao ser aplicado na fase inicial de qualquer projeto. As metodologias e o design thinking tem o mesmo intuito, compartilham da mesma abordagem centrada na resolução rápida.
+
+  O Design Thinking é um processo que envolve cinco etapas principais: Empatia, Definição, Ideação, Prototipagem e Testes, com o objetivo de criar soluções inovadoras a partir das necessidades reais dos usuários. Já as metodologias ágeis (como Scrum, Kanban etc.) se concentram no monitoramento e controle de atividades, com ciclos curtos de desenvolvimento e feedback contínuo.
+
+design thinking --> começo do projeto, entender profundamente o problema e seus requisitos
+promove feedback constante, trabalho colaborativo e multidisciplinar
+
+metodologias ágeis -->    ao longo do projeto para implementar soluções de forma iterativa e rápida
+
+  Dessa forma, o Design Thinking ajuda a direcionar a inovação e a criatividade no início do projeto, enquanto as metodologias ágeis garantem que a solução seja entregue de maneira eficaz e adaptável ao longo do tempo. 

@@ -1,0 +1,32 @@
+MOMENTO DE REFLEXÃO
+
+Você já parou para pensar em como era o mundo antes da existência dos computadores? Como eram feitos os controles financeiros, os orçamentos, os cálculos de um modo geral?
+
+Era um punhado de papeis e anotações manuais, planilhas datilografadas etc.
+
+Imagine, uma loucura, não é mesmo?
+
+POR QUE APRENDER
+
+
+Você consegue imaginar um gestor de projetos que não seja capaz de utilizar um computador e que não tenha conhecimento de como elaborar um gráfico ou uma planilha eletrônica? Pois é! Dominar as tecnologias do nosso tempo é imprescindível para atingir um nível de competência capaz de atender às necessidades do mercado de trabalho. Nos tempos atuais já não podemos dissociar um bom profissional de alguém que faz uso tecnologia, não é mesmo?
+
+O uso da tecnologia se torna cada vez mais imprescindível para a otimização dos resultados.
+
+Dominar um software de gestão de projetos por exemplo, nos tempos atuais é algo extremamente necessário para administrar as rotinas e, consequentemente, controlar os resultados.
+
+Vamos lá?
+
+PARA COMEÇAR O ASSUNTO
+
+Uma das habilidades necessárias a um gerente de projetos é a elaboração de planilhas eletrônicas para controlar recursos financeiros e materiais entre outros.
+
+Saber construir e utilizar os recursos de uma planilha eletrônica como o uso de fórmulas, funções, gráficos entre outros é imprescindível para um gerente de projetos que se preze. Não é mesmo? Por essa razão, um dos assuntos a ser tratado nessa agenda é justamente o MS EXCEL.
+
+Além disso, dominar o uso de softwares específicos da gerência de projetos é algo determinante no desempenho das atividades de um gestor.
+
+Isso posto, apresentamos uma opção de software livre utilizado para a gestão de projetos. Trata-se do GanttProject que permite a inclusão dos pacotes de trabalho, isto é, das atividades que compõem a EAP de um projeto, bem como seus prazos de duração e dependências.
+
+Apenas com a digitação dessas informações pode-se observar a geração automática do gráfico de Gantt (cronograma) e do diagrama de redes. Você pode ainda “linkar” nomes de profissionais a cada uma das atividades, permitindo um melhor controle de recursos e do desenvolvimento das atividades.
+
+Cabe lembrar que existem vários outros softwares de gerenciamento de projetos, alguns deles são 100% web. Mas todos eles trazem as peculiaridades da área de gestão de projetos.

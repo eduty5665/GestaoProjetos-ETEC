@@ -1,0 +1,19 @@
+MS PROJECT
+
+lançado em 1985
+
+  Controle de Tempo (datas, duração do projeto, calendário de trabalho); Gráfico de Gantt; Diagrama da rede; Modelo probabilístico (para cálculos relacionados ao planejamento); Custos (fixos, não fixos e outros); Relatórios.
+
+projetos micro, pequenos, medios e grandes, independente do tamanho da empresa
+
+nao gratuito, publico restrito
+
+parecido com o project libre, mas com mais recursos
+ele inclui APIs para outros apps MS, alem de unir todos
+
+similar a um banco de dados
+ele armazena todas as infos do projeto
+modos de visualização... modos para facilitação da entrada dos dados, e da exibição dos mesmos, podendo o usuario criar o seu personalizado
+  Calendário; Gráfico de Gantt; Diagrama de rede; Utilização das tarefas (task usage); Gantt de controle (tracking Gantt); Gráfico de recursos (resource graph); Planilha ou folha de recursos (resource sheets); Planilha de utilização de recursos (resource usages) O modo padrão (default) é o gráfico de Gantt. 
+
+ OPENPROJ

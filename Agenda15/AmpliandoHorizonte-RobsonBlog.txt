@@ -1,0 +1,9 @@
+METODOLOGIA AGEL
+ROBSON CAMARGO
+https://robsoncamargo.com.br/blog/O-que-sao-metodologias-ageis-e-quais-as-vantagens
+
+As metodologias ágeissão abordagens para desenvolvimento de serviços ou produtos alinhados com os valores e princípios do Manifesto Ágil, que defende o planejamento adaptativo por meio de Inteligência Coletiva, times auto-organizados e multidisciplinares, focados em melhoria contínua.
+
+A diferença fundamental das metodologias ágeis está em fazer entregas com foco no benefício para o cliente e de forma incremental, onde o cliente já vai colhendo retorno com as entregas que forem sendo feitas.
+
+Criada em 1990 criar algo novo em contra partida aos modelos tradicionais que eram lento e burocraticos. Posteriormente, em 2001 alguns desenvolvedores assinaram o manifesto agil

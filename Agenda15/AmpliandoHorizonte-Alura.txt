@@ -1,0 +1,17 @@
+ALURA - METODOLOGIA AGEL
+https://www.alura.com.br/artigos/o-que-e-metodologia-agil
+
+A metodologia ágil é uma forma de gerir projetos, em que se busca a otimização dos processos. Em vez de seguir um plano rígido — como na gestão tradicional —, na metodologia ágil, podemos fazer ajustes e melhorias ao longo do desenvolvimento de projetos. Isso significa identificar e corrigir falhas rapidamente, garantindo resultados mais efetivos. Portanto, essa forma de gestão permite às pessoas gerentes uma abordagem moderna e eficiente para enfrentar desafios do mercado.
+
+trabalho em equipe e entrega de valor
+Iteratividade (repetição);
+Colaboração;
+Autonomia e empoderamento das equipes;
+Entrega de valor.
+flexibilidade
+adaptativo
+KANBAN, LEAN, XP, CRYSTAL, SCRUM, SAFe, LESS
+
+Objetivos: reduzir desperdícios, melhoria contínua, foco na qualidade, entrega contínua de valor.
+
+*manfesto agil*

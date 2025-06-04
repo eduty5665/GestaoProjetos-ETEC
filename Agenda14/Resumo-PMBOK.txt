@@ -1,3 +1,35 @@
-GERENCIAMENTO DAS PARTES INTERESSADAS
+ GERENCIAMENTO DAS PARTES INTERESSADAS
 ------------STAKEHOLDERS-------------
 
+ O gerenciamento das partes interessadas do projeto inclui os processos exigidos para identificar todas as pessoas, grupos ou organizações que podem impactar ou serem impactados pelo projeto, analisar as expectativas das partes interessadas, seu impacto no projeto e desenvolver estratégias de gerenciamento apropriadas para o engajamento eficaz das partes interessadas nas decisões e na execução do projeto. Os processos apoiam o trabalho da equipe do projeto para analisar as expectativas das partes interessadas, avaliar o grau em que afetam ou são afetadas pelo projeto, e desenvolver estratégias para envolver com eficácia as partes interessadas em apoio a decisões, ao planejamento e à execução do trabalho do projeto. Os processos de gerenciamento das partes interessadas do projeto são:
+ 
+13.1 Identificar as Partes Interessadas —O processo de identificar regularmente as partes interessadas do projeto e analisar e documentar informações relevantes sobre seus interesses, envolvimento, interdependências, influência e impacto potencial no sucesso do projeto. 
+13.2 Planejar o Engajamento das Partes Interessadas—O processo de desenvolvimento de abordagens para envolver as partes interessadas do projeto, com base em suas necessidades, expectativas, interesses e potencial impacto no mesmo. 
+13.3 Gerenciar o Engajamento das Partes Interessadas—O processo de se comunicar e trabalhar com as partes interessadas para atender suas necessidades e expectativas, lidar com questões e promover o engajamento das partes interessadas adequadas. 
+13.4 Monitorar o Engajamento das Partes Interessadas—O processo de monitorar as relações das partes interessadas do projeto e adaptação de estratégias para engajar as partes interessadas através da modificação de planos e estratégias de engajamento.  
+
+CONCEITOS CHAVES
+
+  Todos os projetos têm partes interessadas que são afetadas ou podem afetar o projeto de forma positiva ou negativa. Algumas partes interessadas podem ter uma capacidade limitada para influenciar o trabalho ou os resultados do projeto; outras podem ter uma influência significativa no projeto e nos seus resultados esperados. Pesquisas acadêmicas e análises de desastres em projetos com alta visibilidade destacam a importância de uma abordagem estruturada para identificação, priorização e engajamento de todas as partes interessadas. A habilidade do gerente de projetos e da equipe para identificar corretamente e engajar todas as partes interessadas de maneira apropriada pode fazer a diferença entre o êxito e o fracasso do projeto. Para aumentar a probabilidade de êxito, o processo de identificação e engajamento das partes interessadas deve começar assim que possível depois que o termo de abertura do projeto tiver sido aprovado, o gerente do projeto tiver sido designado e a equipe começar a ser formada.
+  A satisfação das partes interessadas deve ser identificada e gerenciada como um objetivo do projeto. A chave para um engajamento eficaz das partes interessadas é o foco na comunicação contínua com todas as partes interessadas, incluindo os membros da equipe, para entender suas necessidades e expectativas, abordar as questões conforme elas ocorrem, administrar os interesses conflitantes e incentivar o engajamento apropriado das partes interessadas com as decisões e atividades do projeto. 
+O processo de identificar e engajar as partes interessadas para benefício do projeto é iterativo. Embora os processos no Gerenciamento das Partes Interessadas do Projeto sejam descritos apenas uma vez, as atividades de identificação, priorização e engajamento devem ser revisadas e atualizadas rotineiramente e pelo menos nas seguintes ocasiões quando: 
+
+O projeto passa por diferentes fases em seu ciclo de vida, 
+
+As partes interessadas atuais não estão mais envolvidas no trabalho do projeto ou novas partes interessadas tornam-se membros da comunidade de partes interessadas do projeto, 
+
+ Há mudanças significativas na organização ou na comunidade mais ampla de partes interessadas.  
+
+TENDENCIAS E PRATICAS
+
+  u Identificar todas as partes interessadas, não apenas um conjunto limitado; 
+u Garantir que todos os membros da equipe estejam envolvidos em atividades de engajamento das partes interessadas; 
+u Revisar a comunidade de partes interessadas regularmente, muitas vezes em paralelo com revisões de riscos individuais do projeto; 
+u Consultar as partes interessadas que são mais afetadas pelo trabalho ou pelos resultados do projeto com o conceito de criação conjunta. A criação conjunta coloca mais ênfase em incluir as partes interessadas afetadas na equipe como parceiros; e 
+u Capturar o valor do engajamento efetivo das partes interessadas, tanto positivo como negativo. O valor positivo pode se basear na consideração de benefícios derivados de níveis mais altos de apoio ativo das partes interessadas, especialmente aquelas de maior poder. O valor negativo pode ser derivado mensurando os verdadeiros custos de não engajar as partes interessadas com eficácia, o que leva a recalls de produtos ou perda de reputação organizacional ou de projeto.  
+
+TAILORING
+
+Diversidade das partes interessadas
+Complexidade de relacionamentos com as partes interessadas
+Tecnologia de Comunicação
